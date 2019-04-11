@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ryan Alcantara CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Applied Human Biology, Seattle Pacific University, 2015
+* M.S. Biomechanics, Univeristy of Colorado Boulder, 2019
+  * Research Project: *Effects of added mass on running economy and vertical ground reaction force asymmetry in runners with unilateral transtibial amputation*
+* Ph.D Biomechanics, Univeristy of Colorado Boulder, 2021 (expected)
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-Present: Graduate Research Assistant
+  * University of Colorado Boulder, Dept. Integrative Physiology
+  * Funding: PAC-12 Student-Athlete Health and Well-Being Grant Program
+  * Supervisor: Dr. Alena Grabowski
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-18: Graduate Teaching Assistant
+  * University of Colorado Boulder, Dept. Integrative Physiology
+  * Human Anatomy Laboratory
+  * Supervisor: Dr. Steve Hobbs
+
+* 2016-17: Biomechanics Research Technician
+  * Brooks Running Company
+  * Performed 3-D motion capture data collection, data analysis, and reported findings within Footwear R&D Teams
+  * Supervisor: Eric Rohr
+ 
+* 2015-16: Biomechanics Research Intern
+  * Brooks Running Company
+  * Assisted with mechanical testing of footwear, subject recruitment, and motino capture data processing
+  * Supervisor: Eric Rohr
   
-Skills
+* 2015-16: Research Assistant
+  * Seattle Pacific University, Dept. Biology
+  * Supervisor: Dr. Cara Wall-Scheffler
+  
+* 2014-15: Teaching Assistant
+  * Seattle Pacific University, Dept. Physics
+  * Supervisor: Dr. Amy Robertson 
+  
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018	Diversity Travel Award, American Society of Biomechanics ($750)
+* 2018	Best MSc Poster Presentation, American Society of Biomechanics – Rocky Mountain Meeting
+  * Mass added to running-specific prosthesis increases metabolic power during running ($100)
+* 2018	Graduate Student Travel Grant, University of Colorado Boulder
+  * Mass added to running-specific prosthesis increases metabolic power during running ($300)
+* 2017	Graduate Dean’s Fellowship, University of Colorado Boulder ($3,000)
+* 2012	Oregon Latino Scholarship, Hispanic Metropolitan Chamber of Commerce ($2,250)
+* 2011-2015 	President’s Scholar Award, Seattle Pacific University ($12,000/year)
+
 
 Publications
 ======
