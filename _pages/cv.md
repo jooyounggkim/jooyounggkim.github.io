@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
-Education
+
+%Education
 ======
 * B.S. Applied Human Biology, Seattle Pacific University, 2015
 * M.S. Biomechanics, Univeristy of Colorado Boulder, 2019
   * *Effects of added mass on running economy and vertical ground reaction force asymmetry in runners with unilateral transtibial amputation*
 * Ph.D Biomechanics, Univeristy of Colorado Boulder, 2021 (expected)
 
-======
 Professional Experience
 ======
 * **2018-Present: Graduate Research Assistant**
@@ -47,7 +46,6 @@ Professional Experience
   * Seattle Pacific University, Dept. Physics
   * Supervisor: Dr. Amy Robertson 
 
-====== 
 Honors & Awards
 ======
 * 2018	Diversity Travel Award, American Society of Biomechanics ($750)
@@ -59,28 +57,24 @@ Honors & Awards
 * 2012	Oregon Latino Scholarship, Hispanic Metropolitan Chamber of Commerce ($2,250)
 * 2011-2015 	President’s Scholar Award, Seattle Pacific University ($12,000/year)
 
-======
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-======  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-======  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-======  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
