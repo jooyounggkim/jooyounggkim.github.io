@@ -8,7 +8,7 @@ venue: 'PLoS ONE'
 paperurl: 'http://alcantarar.github.io/files/Alcantara_Wall-Scheffler_2017_Stroller_Running.pdf'
 citation: 'Alcantara, Ryan & Wall-Scheffler, Cara. (2017). &quot;Stroller RunningL Energetic and kinematic changes across pushing methods.&quot; <i>Journal 1</i>. 12(7).'
 ---
-We also developed an interactive tool to calculate metabolic energy expenditure depending on what pushing method you use during stroller running: [Stroller Running Calculator](https://tinyurl.com/stroller-running-calculator)
+We also developed an interactive tool to calculate metabolic energy expenditure depending on what pushing method you use during stroller running: [Stroller Running Calculator](https://public.tableau.com/views/StrollerRunningCost_1/Stroller_Cost?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no)
 
 [Download paper here](http://alcantarar.github.io/files/Alcantara_Wall-Scheffler_2017_Stroller_Running.pdf)
 
