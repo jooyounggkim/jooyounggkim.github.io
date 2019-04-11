@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ryan Alcantara - Biomechanics Graduate Student at CU Boulder"
+title: "Ryan Alcantara - Biomechanics Graduate Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
