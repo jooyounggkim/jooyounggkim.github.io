@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
   googlescholar    : "https://scholar.google.com/citations?user=5LbAoY0AAAAJ&hl=en&authuser=1"
-  email            : "mailto:ryan.alcantara@colorado.edu"
+  email            : "ryan.alcantara@colorado.edu"
   researchgate     : "https://www.researchgate.net/profile/Ryan_Alcantara"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Ryan_Alcantara_"
   vine             :
   weibo            :
   xing             :
