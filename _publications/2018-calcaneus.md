@@ -2,7 +2,7 @@
 title: "Calcaneus range of motion underestimated by markers on running shoe heel"
 collection: publications
 permalink: /publication/2018-calcaneus
-excerpt: 'In footwear biomechanics, Calcaneal kinematics are often reported despite markers being placed on the outside of the shoe heel. We modified running shoes to be able to collect optical marker data on the shoe heel and foot simultaneously and answered the question: Do markers placed on the shoe heel accurately represent calcaneus range of motion during running?'
+excerpt: ''
 date: 2018-04-24
 venue: 'Gait & Posture'
 paperurl: ''
