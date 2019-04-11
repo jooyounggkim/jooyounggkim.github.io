@@ -6,7 +6,7 @@ excerpt: 'Running with a stroller provides an opportunity for parents to exercis
 date: 2017-07-03
 venue: 'PLoS ONE'
 paperurl: ''
-citation: 'Alcantara, Ryan & Wall-Scheffler, Cara. (2017). &quot;Stroller RunningL Energetic and kinematic changes across pushing methods.&quot; <i>Journal 1</i>. 12(7).'
+<!--- citation: 'Alcantara, Ryan & Wall-Scheffler, Cara. (2017). &quot;Stroller Running: Energetic and kinematic changes across pushing methods.&quot; <i>Journal 1</i>. 12(7).'
 ---
 We also developed an interactive tool to calculate metabolic energy expenditure depending on what pushing method you use during stroller running: [Stroller Running Calculator](https://public.tableau.com/views/StrollerRunningCost_1/Stroller_Cost?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no)
 
