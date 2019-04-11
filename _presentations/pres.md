@@ -3,7 +3,7 @@ title: "Presenting experience 1"
 collection: presentations
 category: presentations
 type: "Undergraduate course"
-permalink: /presentations/2014-spring-teaching-1
+permalink: /presentations/pres
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
