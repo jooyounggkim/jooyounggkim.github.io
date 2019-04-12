@@ -2,7 +2,7 @@
 layout: archive
 title: "Ryan Alcantara CV"
 header:
-  overlay_image: ryan_alcantara-2b-copy.jpg
+  overlay_image: ryan_alcantara-2c-copy.jpg
 sidebar:
 permalink: /cv/
 author_profile: true
