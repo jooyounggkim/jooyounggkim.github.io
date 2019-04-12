@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Ryan Alcantara - Biomechanics Graduate Student"
+header:
+  image: running_shoe_header.png
 excerpt: "About me"
 author_profile: true
 redirect_from: 
