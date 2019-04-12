@@ -5,7 +5,6 @@ header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
 excerpt: "Currciculum Vitae"
-sidebar:
 permalink: /cv/
 author_profile: true
 redirect_from:
