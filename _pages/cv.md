@@ -1,6 +1,10 @@
 ---
 layout: archive
 title: "Ryan Alcantara CV"
+header:
+  image: foo-bar-identity.jpg
+  teaser: foo-bar-identity-th.jpg
+sidebar:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-%Education
+Education
 ======
 * B.S. Applied Human Biology, Seattle Pacific University, 2015
 * M.S. Biomechanics, Univeristy of Colorado Boulder, 2019
