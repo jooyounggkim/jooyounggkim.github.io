@@ -1,5 +1,9 @@
 ---
 title: "Presenting experience 1"
+header:
+  image: /images/foo-bar-identity.jpg
+  teaser: /images/foo-bar-identity-th.jpg
+  
 collection: presentations
 category: presentations
 type: "Undergraduate course"
