@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[download full CV](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline }
+[download full CV](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--success .btn--large}
 
 Education
 ======
