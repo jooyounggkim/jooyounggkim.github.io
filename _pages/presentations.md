@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Presentations2"
-excerpt: "\n"
+title: "Presentations"
+excerpt: "."
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
