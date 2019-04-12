@@ -9,7 +9,7 @@
 $doc-font-size              : 16;
 
 /* paragraph indention */
-$paragraph-indent           : false; // true, false (default)
+$paragraph-indent           : true; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
@@ -17,7 +17,7 @@ $serif                      : Georgia, Times, serif;
 /*
 $sans-serif                 : -apple-system, ".SFNSText-Regular","San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 */
-$sans-serif                 : Futura, "Trebuchet MS", Arial, sans-serif;
+$sans-serif                 : "Century Gothic";
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
