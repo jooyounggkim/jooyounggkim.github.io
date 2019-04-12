@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.2
 permalink: /publications/
 author_profile: true
+share: true
 ---
 
 {% if author.googlescholar %}
