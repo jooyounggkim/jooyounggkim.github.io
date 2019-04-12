@@ -15,15 +15,16 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 /*
-$sans-serif                 : -apple-system, ".SFNSText-Regular","Futura", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular","San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 */
-$sans-serif                 : "Century Gothic";
+$sans-serif                 : Futura, "Trebuchet MS", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $CenturyGothic              : "Century Gothic";
+$Futura                     : Futura, "Trebuchet MS", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
