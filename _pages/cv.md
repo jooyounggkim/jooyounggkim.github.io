@@ -2,7 +2,7 @@
 layout: archive
 title: "Ryan Alcantara CV"
 header:
-  image: running_shoe_header.png
+  image: ryan_alcantara-2b-copy.jpg
 sidebar:
 permalink: /cv/
 author_profile: true
