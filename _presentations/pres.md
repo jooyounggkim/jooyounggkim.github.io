@@ -2,8 +2,8 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /images/foo-bar-identity.jpg
-  teaser: /images/foo-bar-identity-th.jpg
+  image: /foo-bar-identity.jpg
+  teaser: /foo-bar-identity-th.jpg
 
 ---
 
