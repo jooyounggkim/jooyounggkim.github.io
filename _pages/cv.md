@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
-excerpt: "[download](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline .btn--small}"
+excerpt: "[download](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline }"
 
 permalink: /cv/
 author_profile: true
