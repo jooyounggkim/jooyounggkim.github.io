@@ -4,7 +4,8 @@ title: "Curriculum Vitae"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
-excerpt: "[download](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline }"
+excerpt: |
+  <br>
 
 permalink: /cv/
 author_profile: true
@@ -13,6 +14,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[download full CV](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline }
 
 Education
 ======
@@ -50,36 +52,32 @@ Professional Experience
 * **2014-15: Teaching Assistant**
   * Seattle Pacific University, Dept. Physics
   * Supervisor: Dr. Amy Robertson 
-
+<!---
 Honors & Awards
 ======
-* 2018	Diversity Travel Award, American Society of Biomechanics ($750)
-* 2018	Best MSc Poster Presentation, American Society of Biomechanics – Rocky Mountain Meeting
-  * Mass added to running-specific prosthesis increases metabolic power during running ($100)
-* 2018	Graduate Student Travel Grant, University of Colorado Boulder
-  * Mass added to running-specific prosthesis increases metabolic power during running ($300)
-* 2017	Graduate Dean’s Fellowship, University of Colorado Boulder ($3,000)
-* 2012	Oregon Latino Scholarship, Hispanic Metropolitan Chamber of Commerce ($2,250)
-* 2011-2015 	President’s Scholar Award, Seattle Pacific University ($12,000/year)
 
+<!---
 Publications
 ======
+<!--- code below will go though _publications folder and list every paper --->
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+--->
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<!---
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
