@@ -9,4 +9,7 @@ header:
 permalink: /talks/
 author_profile: true
 ---
-TEST
+* 2018 - Introduction To Biomechanical Engineering (MENG 330), *Colorado School of Mines*
+* 2018 - Capstone Seminar, *George Fox University*
+* 2016 - Disciplinary Research and Writing Seminar, *Seattle Pacific University*
+* 2016 - Biology Cornerstone Seminar (panel), *Seattle Pacific University*
