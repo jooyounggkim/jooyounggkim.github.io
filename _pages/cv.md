@@ -4,9 +4,9 @@ title: "Ryan Alcantara"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
-excerpt: "|
+excerpt: |
 Currciculum Vitae2 
-[download](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline .btn--small}"
+[download](http://alcantarar.github.io/files/Alcantara_CV_2019_04.pdf){: .btn .btn--light-outline .btn--small}
 permalink: /cv/
 author_profile: true
 redirect_from:
