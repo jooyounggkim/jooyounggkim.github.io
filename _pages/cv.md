@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Ryan Alcantara CV"
+title: "Ryan Alcantara"
+exerpt: "Curriculum Vitae"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
 sidebar:
