@@ -1,6 +1,10 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: " "
+header:
+  overlay_image: ryan_alcantara-2c-copy.jpg
+  overlay_filter: 0.2
 permalink: /publications/
 author_profile: true
 ---
