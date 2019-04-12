@@ -3,8 +3,10 @@ permalink: /
 title: "Ryan Alcantara"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
-  overlay_filter: 0.5
-excerpt: "Biomechanics Graduate Student \n"
+  overlay_filter: 0.2
+excerpt: "Biomechanics Graduate Student
+
+"
 author_profile: true
 redirect_from: 
   - /about/
