@@ -1,7 +1,7 @@
 ---
 title: Projects
 exerpt: Stuff I'm working on
-layout: collection
+layout: archive
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
