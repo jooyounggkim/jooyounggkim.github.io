@@ -334,4 +334,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+remote_theme: alcantarar/skinny-bones-jekyll
