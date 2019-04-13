@@ -52,3 +52,13 @@ Professional Experience
 * **2014-15: Teaching Assistant**
   * Seattle Pacific University, Dept. Physics
   * Supervisor: Dr. Amy Robertson 
+  
+Media Mentions
+======
+- [New York Times - How to Run With a Jogging Stroller](https://www.nytimes.com/2017/08/24/magazine/how-to-run-with-a-jogging-stroller.html)
+
+- [Inside Science - Running with a Baby? Researchers...](https://www.insidescience.org/news/running-baby-researchers-calculate-extra-effort-needed-push-stroller)
+
+- [Interview with Etc. Magazine](https://voices.spu.edu/articles/dream-career-reality-college-etc)
+
+
