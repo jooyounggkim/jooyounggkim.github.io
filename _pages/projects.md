@@ -1,6 +1,6 @@
 ---
 title: PROJECTS
-excerpt: <br>
+excerpt: Things I’ve worked on (or am still working on)
 layout: collection
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
