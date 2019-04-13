@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: CURRICULUM VITAE
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.3
 excerpt: |
   <br>
 
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---

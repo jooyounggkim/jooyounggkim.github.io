@@ -1,13 +1,13 @@
 ---
-layout: archive
-title: "Publications"
+layout: single
+title: PUBLICATIONS
 excerpt: |
   <br>
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.3
 permalink: /publications/
-author_profile: true
+author_profile: false
 share: true
 ---
 

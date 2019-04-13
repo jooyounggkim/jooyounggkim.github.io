@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Invited Talks"
-    url: /talks/    
+ # - title: "Invited Talks"
+  #  url: /talks/    
         
   - title: "Projects"
     url: /projects/

@@ -1,5 +1,6 @@
 ---
-title: "Foo Bar Identity4"
+layout: splash
+title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: foo-bar-identity.jpg
@@ -12,14 +13,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
 
