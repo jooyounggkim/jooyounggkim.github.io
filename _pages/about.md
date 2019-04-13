@@ -14,11 +14,11 @@ I’m currently a member of Dr. Alena Grabowski’s [Applied Biomechanics Labora
 
 Media Mentions
 ------
-[New York Times - How to Run With a Jogging Stroller](https://www.nytimes.com/2017/08/24/magazine/how-to-run-with-a-jogging-stroller.html)
+* [New York Times - How to Run With a Jogging Stroller](https://www.nytimes.com/2017/08/24/magazine/how-to-run-with-a-jogging-stroller.html)
 
-[Inside Science - Running with a Baby? Researchers...](https://www.insidescience.org/news/running-baby-researchers-calculate-extra-effort-needed-push-stroller)
+* [Inside Science - Running with a Baby? Researchers...](https://www.insidescience.org/news/running-baby-researchers-calculate-extra-effort-needed-push-stroller)
 
-[Interview with Etc. Magazine](https://voices.spu.edu/articles/dream-career-reality-college-etc)
+* [Interview with Etc. Magazine](https://voices.spu.edu/articles/dream-career-reality-college-etc)
 
 
 For more info
