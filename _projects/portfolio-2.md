@@ -1,28 +1,15 @@
 ---
-collection: portfolio
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+layout: single
+title: "Project item number 2"
+excerpt: "Short description of portfolio item number 2"
 header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: image-alignment-300x200.jpg
-    image_path: image-alignment-300x200.jpg
-    alt: "placeholder image 1"
-  - url: editing-talk.png
-    image_path: editing-talk.png
-    alt: "placeholder image 2"
-  - url: bio-photo-2.jpg
-    image_path: bio-photo-2.jpg
-    alt: "placeholder image 3"
+  overlay_image: ryan_alcantara-2c-copy.jpg
+  overlay_filter: 0.2
+  teaser: https://pbs.twimg.com/tweet_video_thumb/DeEEm2eUwAAbsal.jpg
+collection: project
+author_profile: true
 ---
+
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
