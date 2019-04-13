@@ -246,7 +246,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: collection
+      type: archive
     values:
       layout: single
       author_profile: true
