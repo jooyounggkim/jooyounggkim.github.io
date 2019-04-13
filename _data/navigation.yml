@@ -6,20 +6,9 @@ main:
   - title: "Presentations"
     url: /presentations/
 
- # - title: "Teaching"
-  #  url: /teaching/    
-        
- # - title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
- # - title: "Invited Talks"
-  #  url: /talks/    
-        
   - title: "Projects"
     url: /projects/
     
- # - title: "Guide"
-  #  url: /markdown/
