@@ -5,7 +5,7 @@ excerpt: "Short description of portfolio item number 2"
 header:
   overlay_image: ryan_alcantara-2c-copy.jpg
   overlay_filter: 0.2
-  teaser: https://pbs.twimg.com/tweet_video_thumb/DeEEm2eUwAAbsal.jpg
+  teaser: kinematics_gif.gif
 collection: project
 author_profile: true
 ---
