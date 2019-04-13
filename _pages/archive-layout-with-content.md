@@ -1,6 +1,9 @@
 ---
 title: "Archive Layout with Content"
 layout: archive
+header: 
+ image: foo-bar-identity.jpg
+ teaser: foo-bar-identity-th.jpg
 permalink: /archive-layout-with-content/
 ---
 
