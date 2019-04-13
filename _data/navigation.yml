@@ -8,9 +8,6 @@ main:
 
  # - title: "Teaching"
   #  url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
         
  # - title: "Blog Posts"
   #  url: /year-archive/
@@ -20,6 +17,9 @@ main:
     
   - title: "Invited Talks"
     url: /talks/    
+        
+  - title: "Projects"
+    url: /portfolio/
     
  # - title: "Guide"
   #  url: /markdown/
