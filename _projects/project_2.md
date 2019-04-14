@@ -6,7 +6,7 @@ header:
   teaser: kinematics_gif.gif
 collection: project
 author_profile: false
-
+share: true
 ---
 
 
