@@ -4,7 +4,7 @@ title: PUBLICATIONS
 excerpt: |
   <br>
 header:
-  overlay_image: ryan_alcantara-2c-copy.jpg
+  overlay_image: header_image.jpg
   overlay_filter: 0.3
 permalink: /publications/
 author_profile: false
