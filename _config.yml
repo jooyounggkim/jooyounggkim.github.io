@@ -67,9 +67,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  name                   : Ryan Alcantara
+  links: 
+    - https://twitter.com/Ryan_Alcantara_
+	- https://github.com/alcantarar
+  
 
 # Analytics
 analytics:
@@ -109,7 +111,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Ryan_Alcantara_"
+  twitter          :
+    username: "Ryan_Alcantara_"
+	card: summary
   vine             :
   weibo            :
   xing             :
@@ -236,6 +240,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
