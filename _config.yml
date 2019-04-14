@@ -110,9 +110,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
-    username: "Ryan_Alcantara_"
-    card: "summary"
+  twitter:          :
+    username       : Ryan_Alcantara_
+    card           : summary
   vine             :
   weibo            :
   xing             :
