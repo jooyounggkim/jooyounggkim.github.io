@@ -4,7 +4,7 @@ title: RYAN ALCANTARA
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-excerpt: "Biomechanics Graduate Student"
+excerpt: "Biomechanics Graduate Student at the Univeristy of Colorado Boulder"
 author_profile: true
 redirect_from: 
   - /about/
