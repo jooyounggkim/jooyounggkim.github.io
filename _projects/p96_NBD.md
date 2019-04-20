@@ -5,7 +5,7 @@ title: NBD 2019
 excerpt: Introducing fun to science for National Biomechanics Day
 header:
   teaser: nbd_logo.jpg
-og_image: nbd_logo.jpg
+twitter_image: nbd_logo.jpg
 gallery:
   - url: /nbd2019/IMG_5085.jpg
     image_path: /nbd2019/IMG_5085.jpg
