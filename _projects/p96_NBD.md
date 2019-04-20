@@ -3,7 +3,7 @@ layout: single
 collection: projects
 title: NBD 2019
 excerpt: Introducing fun to science for National Biomechanics Day
-og_image: nbd_logo.jpg
+site.og_image: nbd_logo.jpg
 header:
   teaser: nbd_logo.jpg
 
