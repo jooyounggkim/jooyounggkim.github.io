@@ -17,7 +17,7 @@ Contents data base.
 I have coupled this directly to my e-mail so that once per week the UC system  
 conducts an automatic search of the data base for specified keywords etc.  
 and sends me the updated results by e-mail.  
->  
+><br>  
 >Relevent to this list, I search the keywords "biomechanics OR locomotion".  
 This has made me aware of the breadth of biomechanics and also of articles  
 in journals that I don't subscribe to and seldom scan. I think that  
