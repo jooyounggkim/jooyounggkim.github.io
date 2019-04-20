@@ -23,30 +23,29 @@ This has made me aware of the breadth of biomechanics and also of articles
 in journals that I don't subscribe to and seldom scan. I think that  
 this could be useful to a significant number ofl of Biomch-L users, and  
 having received the blessings of the list moderators, I will begin posting  
-my "weekly update" to Biomch-L.
+my "weekly update" to Biomch-L.  
 ><br>
 >One thing that I have learned is that there is a tremendous amount of  
 research taking place on the biomechanics and "locomotion" of cells and  
 organelles within cells. Biomch-L deals mostly with the organ or organism  
 scale of things. Similarly, many "locoomotion" hits are for studies of  
 pharmacological effects on rats. Locomotion is apparently used as an index  
-or assay of drug effect.
+or assay of drug effect.  
 ><br>
 >I post these references only in an effort to give something back to  
 Biomch-L. If you find these posts annoying, let me know. If you find them  
 useful and want me to continue, let me hear that too.  
 ><br>
->Rodger
+>Rodger 
+
 <br>
 What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I'm find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](/images/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
-  
+<br>
 While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to the many people who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
-  
+<br>
 Luckily for me, I was able to convince another graduate student, Gary Bruening, that this was an interesting idea. He wrote a python script that crawls through the Literature Updates and parses out the paper's information (title, authors, assigned topic, etc.) and suprised me with an dataset of over 37,000 biomechanics papers published since 2010! This provided a reasonable dataset to train and test the classification model. 
-
+<br>
 We trained and compared multiple classification Machine Learning algorithms, settling on a Convolutional Neural Network. Then, we created a python script that searches PubMed for biomechanics-related papers published in the last week using Rodger's original keywords: `'Biomech*[Title/Abstract] OR locomot*[Title/Abstract]'`. We then use the trained CNN model to classify the papers from PubMed. Last, the script compiles the search results, formats their citations, and organizes them by topic. The end product is a markdown (.md) file saved to the [Literature Updates](https://github.com/alcantarar/literature_update/tree/master/Literature_Updates) folder. Here's a preview:  
-
-
 
 >BONE
 ----
