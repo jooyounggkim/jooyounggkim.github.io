@@ -8,7 +8,7 @@ collection: project
 author_profile: false
 share: true
 ---
-  
+<br>
 For over 20 years there have been a number of people in the Biomechanics community who have searched publication databases for relevant articles, categorized them, and then shared them with the Biomch-L community in the form of a weekly [Literature Update](https://biomch-l.isbweb.org/forums/7-Literature-Update). The first Literature Update post was by Dr. Rodger Kram in 1998 (at 2:02am!): 
 
 >Biomch-Lers:  
@@ -17,27 +17,27 @@ Contents data base.
 I have coupled this directly to my e-mail so that once per week the UC system  
 conducts an automatic search of the data base for specified keywords etc.  
 and sends me the updated results by e-mail.  
-><br>  
+><br>
 >Relevent to this list, I search the keywords "biomechanics OR locomotion".  
 This has made me aware of the breadth of biomechanics and also of articles  
 in journals that I don't subscribe to and seldom scan. I think that  
 this could be useful to a significant number ofl of Biomch-L users, and  
 having received the blessings of the list moderators, I will begin posting  
 my "weekly update" to Biomch-L.
->  
+><br>
 >One thing that I have learned is that there is a tremendous amount of  
 research taking place on the biomechanics and "locomotion" of cells and  
 organelles within cells. Biomch-L deals mostly with the organ or organism  
 scale of things. Similarly, many "locoomotion" hits are for studies of  
 pharmacological effects on rats. Locomotion is apparently used as an index  
 or assay of drug effect.
->  
+><br>
 >I post these references only in an effort to give something back to  
 Biomch-L. If you find these posts annoying, let me know. If you find them  
 useful and want me to continue, let me hear that too.  
->
+><br>
 >Rodger
-  
+<br>
 What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I'm find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](/images/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
   
 While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to the many people who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
