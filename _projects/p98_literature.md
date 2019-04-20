@@ -39,7 +39,7 @@ useful and want me to continue, let me hear that too.
 >Rodger 
 
 <br>
-What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I'm find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](/images/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
+What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](/images/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
 <br>  
 While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to the many people who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
 <br>  
