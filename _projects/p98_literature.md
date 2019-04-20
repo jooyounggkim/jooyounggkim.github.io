@@ -38,13 +38,13 @@ useful and want me to continue, let me hear that too.
 >
 >Rodger
 
-What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I'm find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](Assets/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
+What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I'm find myself in a similar place 20 years later: I want to further automate the weekly Literature Update, but by using [Machine Learning](/images/ML.gif) to predict the general topic of a biomechanics-related paper given its title. 
 
 While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to the many people who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
   
-Luckily for me, I was able to convince another graduate student, Gary Bruening, that this was a fun idea. He wrote a python script that crawls through the Literature Updates and parses out the paper's information (title, authors, assigned topic, etc.) and suprised me with an dataset of over 37,000 biomechanics papers published since 2010! This provided a reasonable dataset to train and test the classification model. 
+Luckily for me, I was able to convince another graduate student, Gary Bruening, that this was an interesting idea. He wrote a python script that crawls through the Literature Updates and parses out the paper's information (title, authors, assigned topic, etc.) and suprised me with an dataset of over 37,000 biomechanics papers published since 2010! This provided a reasonable dataset to train and test the classification model. 
 
-We trained and compared multiple classification Machine Learning algorithms, settling on a Convolutional Neural Network (`keras_1.py`). Then, we created a python script that searches PubMed for biomechanics-related papers published in the last week using Rodger's original keywords: `'Biomech*[Title/Abstract] OR locomot*[Title/Abstract]'`. We then use the trained CNN model to classify the papers from PubMed. Last, the script compiles the search results, formats their citations, and organizes them by topic. The end product is a markdown (.md) file saved to the [Literature Updates](https://github.com/alcantarar/literature_update/tree/master/Literature_Updates) folder in the project's repository. Here's a preview:  
+We trained and compared multiple classification Machine Learning algorithms, settling on a Convolutional Neural Network. Then, we created a python script that searches PubMed for biomechanics-related papers published in the last week using Rodger's original keywords: `'Biomech*[Title/Abstract] OR locomot*[Title/Abstract]'`. We then use the trained CNN model to classify the papers from PubMed. Last, the script compiles the search results, formats their citations, and organizes them by topic. The end product is a markdown (.md) file saved to the [Literature Updates](https://github.com/alcantarar/literature_update/tree/master/Literature_Updates) folder. Here's a preview:  
 
 
 
@@ -58,6 +58,8 @@ Wang L, Dong J, Xian CJ,
 >* [Computational modal analysis of a composite pelvic bone: convergence and validation studies.](https://www.ncbi.nlm.nih.gov/pubmed/30999766)
 Henyš P, Čapek L,
 *Computer methods in biomechanics and biomedical engineering*.  
+
+While the Classification model is fairly robust, there's always room to improve its performance. If you're interested in contributing to this project, the code and data used are located in my repository: [www.github.com/alcantarar/literature_update/](https://github.com/alcantarar/literature_update/)
 
 
 
