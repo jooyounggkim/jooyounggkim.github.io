@@ -4,6 +4,7 @@ title: "3D Joint Kinematics During Running"
 excerpt: "Coming Soon..."
 header:
   teaser: kinematics_gif_tease.gif
+twitter_image: kinematics_gif_tease.gif
 collection: project
 author_profile: false
 share: true
