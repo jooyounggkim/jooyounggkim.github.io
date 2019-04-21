@@ -1,19 +1,19 @@
 ---
 title: Biomechanics Literature Update
 collection: literature
-permalink: /literature/2019-4-20-litupdate
+permalink: /literature/2019-4-21-litupdate
 excerpt: <br>
 ---
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 ### Table Of Contents: 
 [BONE](#bone)  
-[CARDIOVASCULAR/CARDIOPULMONARY](#cardiovascularcardiopulmonary)  
-[CELLULAR/SUBCELLULAR](#cellularsubcellular)  
+[CARDIOVASCULAR](#cardiovascular)  
+[CELLULAR](#cellular)  
 [COMPARATIVE](#comparative)  
 [DENTAL/ORAL/FACIAL](#dentaloralfacial)  
 [EVOLUTION/ANTHROPOLOGY](#evolutionanthropology)  
 [GAIT/LOCOMOTION](#gaitlocomotion)  
-[HAND/FINGER/FOOT/TOE](#handfingerfoottoe)  
+[HAND/FOOT](#handfoot)  
 [JOINT/CARTILAGE](#jointcartilage)  
 [METHODS](#methods)  
 [MODELING](#modeling)  
@@ -29,9 +29,8 @@ excerpt: <br>
 [TENDON/LIGAMENT](#tendonligament)  
 [TISSUE/BIOMATERIAL](#tissuebiomaterial)  
 [TRAUMA/IMPACT](#traumaimpact)  
-[UNIQUE TOPIC](#uniquetopic)  
 [VETERINARY/AGRICULTURAL](#veterinaryagricultural)  
-[VISUAL/VESTIBULAR/EYE](#visualvestibulareye)  
+[VISUAL/VESTIBULAR](#visualvestibular)  
 
 ----
 # BONE
@@ -39,9 +38,9 @@ excerpt: <br>
 
 [Back to top](#table-of-contents)
 
-* [Computational Modeling of Bone Cells and Their Biomechanical Behaviors in Responses to Mechanical Stimuli.](https://www.ncbi.nlm.nih.gov/pubmed/31002595)
-Wang L, Dong J, Xian CJ,
-*Critical reviews in eukaryotic gene expression*.  
+* [Short and long-term effects of bisphenol S (BPS) exposure during pregnancy and lactation on plasma lipids, hormones, and behavior in rats.](https://www.ncbi.nlm.nih.gov/pubmed/31003143)
+da Silva BS, Pietrobon CB, Bertasso IM, Lopes BP, Carvalho JC, Peixoto-Silva N, Santos TR, Claudio-Neto S, Manhães AC, Oliveira E, de Moura EG, Lisboa PC,
+*Environmental pollution (Barking, Essex : 1987)*.  
 
 * [Computational modal analysis of a composite pelvic bone: convergence and validation studies.](https://www.ncbi.nlm.nih.gov/pubmed/30999766)
 Henyš P, Čapek L,
@@ -55,10 +54,6 @@ Orth M, Baudach J, Scheuer C, Osche D, Veith NT, Braun BJ, Rollmann MF, Herath S
 Skwarcz S, Bryzek I, Gregosiewicz A, Warda E, Gawęda K, Tarczyńska M, Węgłowski R, Skwarcz J, Nadulski R, Starek A, Sanford J,
 *Polish journal of veterinary sciences*.  
 
-* [[Archwire segmentation: a solution to the problems involved in treating atypical cases].](https://www.ncbi.nlm.nih.gov/pubmed/30994450)
-Tuil P, Bourgoin G,
-*L' Orthodontie francaise*.  
-
 * [Protective Effects of Moderate Ca Supplementation against Cd-Induced Bone Damage under Different Population-Relevant Doses in Young Female Rats.](https://www.ncbi.nlm.nih.gov/pubmed/30991710)
 Huang X, Liu T, Zhao M, Fu H, Wang J, Xu Q,
 *Nutrients*.  
@@ -66,10 +61,6 @@ Huang X, Liu T, Zhao M, Fu H, Wang J, Xu Q,
 * [[Preventive effect and mechanism of puerarin on rat models of disuse osteoporosis].](https://www.ncbi.nlm.nih.gov/pubmed/30989919)
 Li K, Qin R, Shao JL, Gao YH, Zhou J, Chen KM,
 *Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica*.  
-
-* [Contribution of biomimetic collagen-ligand interaction to intrafibrillar mineralization.](https://www.ncbi.nlm.nih.gov/pubmed/30989106)
-Song Q, Jiao K, Tonggu L, Wang LG, Zhang SL, Yang YD, Zhang L, Bian JH, Hao DX, Wang CY, Ma YX, Arola DD, Breschi L, Chen JH, Tay FR, Niu LN,
-*Science advances*.  
 
 * [The kisspeptin derivative - kissorphin reduces the acquisition, expression and reinstatement of ethanol-induced conditioned place preference in rats.](https://www.ncbi.nlm.nih.gov/pubmed/30981809)
 Gibula-Tarlowska E, Grochecki P, Silberring J, Kotlinska JH,
@@ -80,7 +71,7 @@ Feigenson M, Jonason JH, Shen J, Loiselle AE, Awad HA, O'Keefe RJ,
 *Annals of biomedical engineering*.  
 
 ----
-# CARDIOVASCULAR/CARDIOPULMONARY
+# CARDIOVASCULAR
 ----
 
 [Back to top](#table-of-contents)
@@ -97,71 +88,39 @@ Di Giuseppe M, Alotta G, Agnese V, Bellavia D, Raffa GM, Vetri V, Zingales M, Pa
 Chen J, Ding Y, Chen M, Gau J, Jen N, Nahal C, Tu S, Chen C, Zhou S, Chang CC, Lyu J, Xu X, Hsiai TK, Packard RRS,
 *JCI insight*.  
 
-* [Advanced Evolution of Pathogenesis Concepts in Cardiomyopathies.](https://www.ncbi.nlm.nih.gov/pubmed/30995779)
-Li CJ, Chen CS, Yiang GT, Tsai AP, Liao WT, Wu MY,
-*Journal of clinical medicine*.  
-
-* [Motion of the distal tibiofibular syndesmosis under different loading patterns: A biomechanical study.](https://www.ncbi.nlm.nih.gov/pubmed/30987529)
-Hu WK, Chen DW, Li B, Yang YF, Yu GR,
-*Journal of orthopaedic surgery (Hong Kong)*.  
-
 * [Arterial Stiffness: Different Metrics, Different Meanings.](https://www.ncbi.nlm.nih.gov/pubmed/30985880)
 Spronck B, Humphrey J,
 *Journal of biomechanical engineering*.  
 
-* [In vitro analysis of blood flow in a microvascular network with realistic geometry.](https://www.ncbi.nlm.nih.gov/pubmed/30975487)
-Kodama Y, Aoki H, Yamagata Y, Tsubota K,
-*Journal of biomechanics*.  
-
 ----
-# CELLULAR/SUBCELLULAR
+# CELLULAR
 ----
 
 [Back to top](#table-of-contents)
-
-* [Cryopreservation of tendon tissue using dimethyl sulfoxide combines conserved cell vitality with maintained biomechanical features.](https://www.ncbi.nlm.nih.gov/pubmed/31002728)
-Hochstrat E, Müller M, Frank A, Michel P, Hansen U, Raschke MJ, Kronenberg D, Stange R,
-*PloS one*.  
 
 * [Fluid supplementation accelerates epithelial repair during chemical colitis.](https://www.ncbi.nlm.nih.gov/pubmed/31002683)
 Burgueño JF, Lang JK, Santander AM, Fernández I, Fernández E, Zaias J, Abreu MT,
 *PloS one*.  
 
+* [Computational Modeling of Bone Cells and Their Biomechanical Behaviors in Responses to Mechanical Stimuli.](https://www.ncbi.nlm.nih.gov/pubmed/31002595)
+Wang L, Dong J, Xian CJ,
+*Critical reviews in eukaryotic gene expression*.  
+
 * [Flax (<i>Linum usitatissimum</i> L.) Fibers for Composite Reinforcement: Exploring the Link Between Plant Growth, Cell Walls Development, and Fiber Properties.](https://www.ncbi.nlm.nih.gov/pubmed/31001310)
 Goudenhooft C, Bourmaud A, Baley C,
 *Frontiers in plant science*.  
 
-* [Fascia Is Able to Actively Contract and May Thereby Influence Musculoskeletal Dynamics: A Histochemical and Mechanographic Investigation.](https://www.ncbi.nlm.nih.gov/pubmed/31001134)
-Schleip R, Gabbiani G, Wilke J, Naylor I, Hinz B, Zorn A, Jäger H, Breul R, Schreiner S, Klingler W,
-*Frontiers in physiology*.  
-
-* [Biophysical and ultrasonographic changes in lichen planus compared with uninvolved skin.](https://www.ncbi.nlm.nih.gov/pubmed/30997382)
-Yazdanparast T, Yazdani K, Humbert P, Khatami A, Ahmad Nasrollahi S, Zartab H, Izadi Firouzabadi L, Firooz A,
-*International journal of women's dermatology*.  
-
-* [Oxytocin blocks enhanced motivation for alcohol in alcohol dependence and blocks alcohol effects on GABAergic transmission in the central amygdala.](https://www.ncbi.nlm.nih.gov/pubmed/30990816)
-Tunstall BJ, Kirson D, Zallar LJ, McConnell SA, Vendruscolo JCM, Ho CP, Oleata CS, Khom S, Manning M, Lee MR, Leggio L, Koob GF, Roberto M, Vendruscolo LF,
-*PLoS biology*.  
+* [Experimentally enhanced performance decreases survival in nature.](https://www.ncbi.nlm.nih.gov/pubmed/30991916)
+Husak JF, Lailvaux SP,
+*Biology letters*.  
 
 * [Biomechanical properties of red blood cells infected by Plasmodium berghei ANKA.](https://www.ncbi.nlm.nih.gov/pubmed/30989677)
 Kwon S, Lee DH, Han SJ, Yang W, Quan FS, Kim KS,
 *Journal of cellular physiology*.  
 
-* [In Utero Efavirenz Exposure and Neurodevelopmental Outcomes in HIV-exposed Uninfected Children in Botswana.](https://www.ncbi.nlm.nih.gov/pubmed/30985518)
-Cassidy AR, Williams PL, Leidner J, Mayondi G, Ajibola G, Makhema J, Holding PA, Powis KM, Batlang O, Petlo C, Shapiro R, Kammerer B, Lockman S,
-*The Pediatric infectious disease journal*.  
-
-* [Microvascular bioengineering: a focus on pericytes.](https://www.ncbi.nlm.nih.gov/pubmed/30984287)
-Zhao H, Chappell JC,
-*Journal of biological engineering*.  
-
-* [Tamoxifen has an anti-manic effect but not protect the brain against oxidative stress in an animal model of mania induced by ouabain.](https://www.ncbi.nlm.nih.gov/pubmed/30981159)
-Dal-Pont GC, Resende WR, Bianchini G, Gava FF, Peterle BR, Trajano KS, Varela RB, Quevedo J, Valvassori SS,
-*Journal of psychiatric research*.  
-
-* [The stomatal flexoskeleton: How the biomechanics of guard cell walls animate an elastic pressure vessel.](https://www.ncbi.nlm.nih.gov/pubmed/30977824)
-Yi H, Chen Y, Wang JZ, Puri VM, Anderson CT,
-*Journal of experimental botany*.  
+* [Individual play patterns stimulated by a familiar object are group-driven.](https://www.ncbi.nlm.nih.gov/pubmed/30988518)
+Zupan M, Rehn T, de Oliveira D, Malovrh Š, Keeling L,
+*Scientific reports*.  
 
 ----
 # COMPARATIVE
@@ -169,29 +128,53 @@ Yi H, Chen Y, Wang JZ, Puri VM, Anderson CT,
 
 [Back to top](#table-of-contents)
 
-* [Influence of starvation on walking behavior of Bagrada hilaris (Hemiptera: Pentatomidae).](https://www.ncbi.nlm.nih.gov/pubmed/30998722)
-Grettenberger IM, Joseph SV,
-*PloS one*.  
+* [Mu opioid receptors in the medial habenula contribute to naloxone aversion.](https://www.ncbi.nlm.nih.gov/pubmed/31005059)
+Boulos LJ, Ben Hamida S, Bailly J, Maitra M, Ehrlich AT, Gavériaux-Ruff C, Darcq E, Kieffer BL,
+*Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology*.  
 
 * [Why ruminating ungulates chew sloppily: Biomechanics discern a phylogenetic pattern.](https://www.ncbi.nlm.nih.gov/pubmed/30995252)
 Zhou Z, Winkler DE, Fortuny J, Kaiser TM, Marcé-Nogué J,
 *PloS one*.  
 
+* [[Archwire segmentation: a solution to the problems involved in treating atypical cases].](https://www.ncbi.nlm.nih.gov/pubmed/30994450)
+Tuil P, Bourgoin G,
+*L' Orthodontie francaise*.  
+
+* [Bruxism: an umbrella review of systematic reviews.](https://www.ncbi.nlm.nih.gov/pubmed/30993738)
+Melo G, Duarte J, Pauletto P, Porporatti AL, Stuginski-Barbosa J, Winocur E, Flores-Mir C, Canto GL,
+*Journal of oral rehabilitation*.  
+
 * [Habitat use and vestibular system's dimensions in lacertid lizards.](https://www.ncbi.nlm.nih.gov/pubmed/30993713)
 Vasilopoulou-Kampitsi M, Goyens J, Baeckens S, Van Damme R, Aerts P,
 *Journal of anatomy*.  
 
-* [Thigmomorphogenesis and biomechanical responses of shade-grown Serianthes nelsonii plants to stem flexure.](https://www.ncbi.nlm.nih.gov/pubmed/30985234)
-Marler TE,
-*Plant signaling & behavior*.  
+* [Sex and Laterality Differences in Medullary Humerus Morphology.](https://www.ncbi.nlm.nih.gov/pubmed/30989818)
+Drew AJ, Tashjian RZ, Henninger HB, Bachus KN,
+*Anatomical record (Hoboken, N.J. : 2007)*.  
+
+* [The relationships between the quadratus plantae and the flexor digitorum longus and the flexor hallucis longus.](https://www.ncbi.nlm.nih.gov/pubmed/30989352)
+Edama M, Takabayashi T, Inai T, Kikumoto T, Hirabayashi R, Ito W, Nakamura E, Ikezu M, Kaneko F, Kageyama I,
+*Surgical and radiologic anatomy : SRA*.  
+
+* [Investigating the reciprocal relationships between locomotor sensitization to ethanol and PTSD-like clusters in DBA/2J mice.](https://www.ncbi.nlm.nih.gov/pubmed/30986492)
+Matonda-Ma-Nzuzi T, Didone V, Seutin V, Tirelli E, Quertemont E,
+*Behavioural brain research*.  
+
+* [Body Randomization Reduces the Sim-to-Real Gap for Compliant Quadruped Locomotion.](https://www.ncbi.nlm.nih.gov/pubmed/30983987)
+Vandesompele A, Urbain G, Mahmud H, Wyffels F, Dambre J,
+*Frontiers in neurorobotics*.  
+
+* [Improved memory and reduced anxiety in δ-catenin transgenic mice.](https://www.ncbi.nlm.nih.gov/pubmed/30981806)
+Ryu T, Park HJ, Kim H, Cho YC, Kim BC, Jo J, Seo YW, Choi WS, Kim K,
+*Experimental neurology*.  
+
+* [S 47445 counteracts the behavioral manifestations and hippocampal neuroplasticity changes in bulbectomized mice.](https://www.ncbi.nlm.nih.gov/pubmed/30980840)
+Pilar-Cuellar F, Castro E, Bretin S, Mocaer E, Pazos Á, Díaz Á,
+*Progress in neuro-psychopharmacology & biological psychiatry*.  
 
 * [Adhesive force and endurance during waterfall climbing in an amphidromous gobiid, Sicyopterus japonicus (Teleostei: Gobiidae): Ontogenetic scaling of novel locomotor performance.](https://www.ncbi.nlm.nih.gov/pubmed/30979386)
 Christy RM, Maie T,
 *Zoology (Jena, Germany)*.  
-
-* [Comparative analyses of the neurobehavioral, molecular, and enzymatic effects of organophosphates on embryo-larval zebrafish (Danio rerio).](https://www.ncbi.nlm.nih.gov/pubmed/30978384)
-Schmitt C, McManus M, Kumar N, Awoyemi O, Crago J,
-*Neurotoxicology and teratology*.  
 
 ----
 # DENTAL/ORAL/FACIAL
@@ -199,9 +182,13 @@ Schmitt C, McManus M, Kumar N, Awoyemi O, Crago J,
 
 [Back to top](#table-of-contents)
 
-* [Bruxism: an umbrella review of systematic reviews.](https://www.ncbi.nlm.nih.gov/pubmed/30993738)
-Melo G, Duarte J, Pauletto P, Porporatti AL, Stuginski-Barbosa J, Winocur E, Flores-Mir C, Canto GL,
-*Journal of oral rehabilitation*.  
+* [Treatment of mandibular angle fracture: Revision of the basic principles.](https://www.ncbi.nlm.nih.gov/pubmed/31003853)
+Bohluli B, Mohammadi E, Oskui IZ, Moaramnejad N,
+*Chinese journal of traumatology = Zhonghua chuang shang za zhi*.  
+
+* [Three-dimensional finite element analysis to evaluate biomechanical effects of different alveolar decortication approaches on rate of canine retraction.](https://www.ncbi.nlm.nih.gov/pubmed/31000446)
+Gupta S, Ahuja S, Bhambri E, Jaura BS, Ahuja V,
+*International orthodontics*.  
 
 * [Biomechanical comparison of temporomandibular joints after orthognathic surgery before and after design optimization.](https://www.ncbi.nlm.nih.gov/pubmed/30979582)
 Shu J, Zhang Y, Liu Z,
@@ -213,6 +200,10 @@ Shu J, Zhang Y, Liu Z,
 
 [Back to top](#table-of-contents)
 
+* [Advanced Evolution of Pathogenesis Concepts in Cardiomyopathies.](https://www.ncbi.nlm.nih.gov/pubmed/30995779)
+Li CJ, Chen CS, Yiang GT, Tsai AP, Liao WT, Wu MY,
+*Journal of clinical medicine*.  
+
 * [The evolutionary history of the human face.](https://www.ncbi.nlm.nih.gov/pubmed/30988489)
 Lacruz RS, Stringer CB, Kimbel WH, Wood B, Harvati K, O'Higgins P, Bromage TG, Arsuaga JL,
 *Nature ecology & evolution*.  
@@ -223,13 +214,33 @@ Lacruz RS, Stringer CB, Kimbel WH, Wood B, Harvati K, O'Higgins P, Bromage TG, A
 
 [Back to top](#table-of-contents)
 
+* [The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression.](https://www.ncbi.nlm.nih.gov/pubmed/31004685)
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, Breen J, Pederson SM, Hannan AJ, Baune BT,
+*Behavioural brain research*.  
+
+* [Imaging localized neuronal activity at fast time scales through biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/31001585)
+Patz S, Fovargue D, Schregel K, Nazari N, Palotai M, Barbone PE, Fabry B, Hammers A, Holm S, Kozerke S, Nordsletten D, Sinkus R,
+*Science advances*.  
+
+* [Fascia Is Able to Actively Contract and May Thereby Influence Musculoskeletal Dynamics: A Histochemical and Mechanographic Investigation.](https://www.ncbi.nlm.nih.gov/pubmed/31001134)
+Schleip R, Gabbiani G, Wilke J, Naylor I, Hinz B, Zorn A, Jäger H, Breul R, Schreiner S, Klingler W,
+*Frontiers in physiology*.  
+
 * [Gluteus medius activity during gait is altered in individuals with chronic ankle instability: An ultrasound imaging study.](https://www.ncbi.nlm.nih.gov/pubmed/30999270)
 DeJong AF, Mangum LC, Hertel J,
 *Gait & posture*.  
 
+* [Influence of starvation on walking behavior of Bagrada hilaris (Hemiptera: Pentatomidae).](https://www.ncbi.nlm.nih.gov/pubmed/30998722)
+Grettenberger IM, Joseph SV,
+*PloS one*.  
+
 * [Unique controlling mechanisms underlying walking with two handheld poles in contrast to those of conventional walking as revealed by split-belt locomotor adaptation.](https://www.ncbi.nlm.nih.gov/pubmed/30997538)
 Obata H, Ogawa T, Nakazawa K,
 *Experimental brain research*.  
+
+* [Channel catfish use higher coordination to capture prey than to swallow.](https://www.ncbi.nlm.nih.gov/pubmed/30991933)
+Olsen AM, Hernández LP, Camp AL, Brainerd EL,
+*Proceedings. Biological sciences*.  
 
 * [A biomechanical study of gait initiation in Down syndrome.](https://www.ncbi.nlm.nih.gov/pubmed/30987596)
 Corsi C, Cimolin V, Capodaglio P, Condoluci C, Galli M,
@@ -237,10 +248,6 @@ Corsi C, Cimolin V, Capodaglio P, Condoluci C, Galli M,
 
 * [Skipping has lower knee joint contact forces and higher metabolic cost compared to running.](https://www.ncbi.nlm.nih.gov/pubmed/30986589)
 McDonnell J, Zwetsloot KA, Houmard J, DeVita P,
-*Gait & posture*.  
-
-* [Unsupervised gait retraining using a wireless pressure-detecting shoe insole.](https://www.ncbi.nlm.nih.gov/pubmed/30986588)
-He J, Lippmann K, Shakoor N, Ferrigno C, Wimmer MA,
 *Gait & posture*.  
 
 * [Differences in temporal gait mechanics are associated with decreased perceived ankle joint health in individuals with chronic ankle instability.](https://www.ncbi.nlm.nih.gov/pubmed/30986587)
@@ -259,12 +266,12 @@ Burkitt JJ, Campos JL, Lyons JL,
 Ohtsuki M, Nishimura A, Kato T, Sokejima S, Shibata T, Okada H, Nagao-Nishiwaki R, Sudo A,
 *Journal of occupational health*.  
 
+* [The influence of locomotor training on dynamic balance during steady-state walking post-stroke.](https://www.ncbi.nlm.nih.gov/pubmed/30981426)
+Vistamehr A, Kautz SA, Bowden MG, Neptune RR,
+*Journal of biomechanics*.  
+
 * [Tibialis posterior muscle pain effects on hip, knee and ankle gait mechanics.](https://www.ncbi.nlm.nih.gov/pubmed/30981150)
 Simonsen MB, Yurtsever A, Næsborg-Andersen K, Leutscher PDC, Hørslev-Petersen K, Andersen MS, Hirata RP,
-*Human movement science*.  
-
-* [Influence of fatigue on running coordination: A UCM analysis with a geometric 2D model and a subject-specific anthropometric 3D model.](https://www.ncbi.nlm.nih.gov/pubmed/30981149)
-Möhler F, Ringhof S, Debertin D, Stein T,
 *Human movement science*.  
 
 * [Effect of high heel gait on hip and knee-ankle-foot rollover characteristics while walking over inclined surfaces - A pilot study.](https://www.ncbi.nlm.nih.gov/pubmed/30981083)
@@ -275,19 +282,15 @@ Mishra E, Jena S, Bhoi C, Arunachalam T, Panda SK,
 Stöckel T, Mau-Moeller A,
 *Psychological research*.  
 
-* [Control strategies for rapid, visually guided adjustments of the foot during continuous walking.](https://www.ncbi.nlm.nih.gov/pubmed/30976822)
-Barton SL, Matthis JS, Fajen BR,
-*Experimental brain research*.  
-
 ----
-# HAND/FINGER/FOOT/TOE
+# HAND/FOOT
 ----
 
 [Back to top](#table-of-contents)
 
-* [Activity budget and spatial distribution of Bennett's wallabies (Macropus rufogriseus) in open versus closed exhibit designs.](https://www.ncbi.nlm.nih.gov/pubmed/30997695)
-Beaudin-Judd J, Weladji RB, Lazure L, Paré P,
-*Zoo biology*.  
+* [Splinting for the carpometacarpal joint relieves experimental basal thumb pain and loss of pinch strength.](https://www.ncbi.nlm.nih.gov/pubmed/31004460)
+Ooishi D, Izumi M, Ueba H, Ikeuchi M,
+*European journal of pain (London, England)*.  
 
 * [Understanding the foot's functional anatomy in physiological and pathological conditions: the calcaneopedal unit concept.](https://www.ncbi.nlm.nih.gov/pubmed/30996737)
 Ghanem I, Massaad A, Assi A, Rizkallah M, Bizdikian AJ, El Abiad R, Seringe R, Mosca V, Wicart P,
@@ -303,21 +306,17 @@ Ghanem I, Massaad A, Assi A, Rizkallah M, Bizdikian AJ, El Abiad R, Seringe R, M
 Okimura S, Mae T, Tachibana Y, Iuchi R, Nakata K, Yamashita T, Shino K,
 *Journal of experimental orthopaedics*.  
 
-* [Comparison of finite helical axes of normal and anatomically designed prosthetic knees.](https://www.ncbi.nlm.nih.gov/pubmed/30986763)
-Konda S, Tomita T, Yamazaki T, Oda K, Nakajima M, Nakane K, Kono K, Fujito T, Yoshikawa H, Sugamoto K,
-*Clinical biomechanics (Bristol, Avon)*.  
+* [Motion of the distal tibiofibular syndesmosis under different loading patterns: A biomechanical study.](https://www.ncbi.nlm.nih.gov/pubmed/30987529)
+Hu WK, Chen DW, Li B, Yang YF, Yu GR,
+*Journal of orthopaedic surgery (Hong Kong)*.  
 
 * [A non-invasive biomechanical device to quantify knee rotational laxity: Verification of the device in human cadaveric specimens.](https://www.ncbi.nlm.nih.gov/pubmed/30984559)
 Lee JC, Yung PS, Lam MH, Hung AS, Fong DT, Chan WY, Chan KM,
 *Asia-Pacific journal of sports medicine, arthroscopy, rehabilitation and technology*.  
 
-* [Successful arthroscopic treatment of refractory and complicated popliteal cyst associated with rheumatoid arthritis in combination with osteoarthritis: case series and literature review.](https://www.ncbi.nlm.nih.gov/pubmed/30976834)
-Yang JH, Kwon HH, Lee JK, Bang SY, Lee HS,
-*Rheumatology international*.  
-
-* [Detection of Early-Stage Degeneration in Human Articular Cartilage by Multiparametric MR Imaging Mapping of Tissue Functionality.](https://www.ncbi.nlm.nih.gov/pubmed/30976065)
-Nebelung S, Post M, Knobe M, Tingart M, Emans P, Thüring J, Kuhl C, Truhn D,
-*Scientific reports*.  
+* [Biomechanical Properties of Posterior Meniscal Root Repairs: A Systematic Review.](https://www.ncbi.nlm.nih.gov/pubmed/30979628)
+Jiang EX, Everhart JS, Abouljoud M, Kirven JC, Magnussen RA, Kaeding CC, Flanigan DC,
+*Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association*.  
 
 ----
 # METHODS
@@ -325,25 +324,29 @@ Nebelung S, Post M, Knobe M, Tingart M, Emans P, Thüring J, Kuhl C, Truhn D,
 
 [Back to top](#table-of-contents)
 
-* [Imaging localized neuronal activity at fast time scales through biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/31001585)
-Patz S, Fovargue D, Schregel K, Nazari N, Palotai M, Barbone PE, Fabry B, Hammers A, Holm S, Kozerke S, Nordsletten D, Sinkus R,
-*Science advances*.  
-
-* [Experimental investigations of a manually versus an electrically driven skull drill for bedside usage.](https://www.ncbi.nlm.nih.gov/pubmed/30998712)
-Carolus A, Richter W, Fritzen CP, Schmieder K, Brenke C,
+* [Phase space methods for non-linear analysis of pedalling forces in cycling.](https://www.ncbi.nlm.nih.gov/pubmed/30998746)
+Kunert A, Ott M, Reuter T, Koska D, Maiwald C,
 *PloS one*.  
 
-* [Channel catfish use higher coordination to capture prey than to swallow.](https://www.ncbi.nlm.nih.gov/pubmed/30991933)
-Olsen AM, Hernández LP, Camp AL, Brainerd EL,
-*Proceedings. Biological sciences*.  
+* [Activity budget and spatial distribution of Bennett's wallabies (Macropus rufogriseus) in open versus closed exhibit designs.](https://www.ncbi.nlm.nih.gov/pubmed/30997695)
+Beaudin-Judd J, Weladji RB, Lazure L, Paré P,
+*Zoo biology*.  
 
-* [Locomotor activity and discriminative stimulus effects of five novel synthetic cathinone analogs in mice and rats.](https://www.ncbi.nlm.nih.gov/pubmed/30986635)
-Gatch MB, Dolan SB, Forster MJ,
-*Drug and alcohol dependence*.  
+* [Studying alcohol use disorder using Drosophila melanogaster in the era of 'Big Data'.](https://www.ncbi.nlm.nih.gov/pubmed/30992041)
+Engel GL, Taber K, Vinton E, Crocker AJ,
+*Behavioral and brain functions : BBF*.  
 
-* [Improved memory and reduced anxiety in δ-catenin transgenic mice.](https://www.ncbi.nlm.nih.gov/pubmed/30981806)
-Ryu T, Park HJ, Kim H, Cho YC, Kim BC, Jo J, Seo YW, Choi WS, Kim K,
-*Experimental neurology*.  
+* [Unsupervised gait retraining using a wireless pressure-detecting shoe insole.](https://www.ncbi.nlm.nih.gov/pubmed/30986588)
+He J, Lippmann K, Shakoor N, Ferrigno C, Wimmer MA,
+*Gait & posture*.  
+
+* [Using Machine Learning to Predict Lower-Extremity Injury in US Special Forces.](https://www.ncbi.nlm.nih.gov/pubmed/30985586)
+Connaboy C, Eagle SR, Johnson CD, Flanagan SD, Mi QI, Nindl BC,
+*Medicine and science in sports and exercise*.  
+
+* [In Utero Efavirenz Exposure and Neurodevelopmental Outcomes in HIV-exposed Uninfected Children in Botswana.](https://www.ncbi.nlm.nih.gov/pubmed/30985518)
+Cassidy AR, Williams PL, Leidner J, Mayondi G, Ajibola G, Makhema J, Holding PA, Powis KM, Batlang O, Petlo C, Shapiro R, Kammerer B, Lockman S,
+*The Pediatric infectious disease journal*.  
 
 * [The ActiGraph counts processing and the assessment of vigorous activity.](https://www.ncbi.nlm.nih.gov/pubmed/30980611)
 Brønd JC, Aadland E, Andersen LB, Resaland GK, Andersen SA, Arvidsson D,
@@ -359,17 +362,9 @@ Brønd JC, Aadland E, Andersen LB, Resaland GK, Andersen SA, Arvidsson D,
 Jacquelin E, Brizard D, Dumas R,
 *Computer methods in biomechanics and biomedical engineering*.  
 
-* [Learning soft tissue behavior of organs for surgical navigation with convolutional neural networks.](https://www.ncbi.nlm.nih.gov/pubmed/30993520)
-Pfeiffer M, Riediger C, Weitz J, Speidel S,
-*International journal of computer assisted radiology and surgery*.  
-
-* [An Overview of Modelling Craniosynostosis Using the Finite Element Method.](https://www.ncbi.nlm.nih.gov/pubmed/30976281)
-Malde O, Libby J, Moazen M,
-*Molecular syndromology*.  
-
-* [Risks of Ear Complaints of Passengers and Drivers While Trains Are Passing Through Tunnels at High Speed: A Numerical Simulation and Experimental Study.](https://www.ncbi.nlm.nih.gov/pubmed/30974822)
-Xie P, Peng Y, Wang T, Zhang H,
-*International journal of environmental research and public health*.  
+* [Influence of fatigue on running coordination: A UCM analysis with a geometric 2D model and a subject-specific anthropometric 3D model.](https://www.ncbi.nlm.nih.gov/pubmed/30981149)
+Möhler F, Ringhof S, Debertin D, Stein T,
+*Human movement science*.  
 
 ----
 # MUSCLE
@@ -377,17 +372,9 @@ Xie P, Peng Y, Wang T, Zhang H,
 
 [Back to top](#table-of-contents)
 
-* [Assessment of predisposing factors in myofascial pain syndrome and the analgesic effect of trigger point injections - A primary therapeutic interventional clinical trial.](https://www.ncbi.nlm.nih.gov/pubmed/31000895)
-Parthasarathy S, Sundar S, Mishra G,
-*Indian journal of anaesthesia*.  
-
 * [Skeletal muscles of hibernating black bears show minimal atrophy and phenotype shifting despite prolonged physical inactivity and starvation.](https://www.ncbi.nlm.nih.gov/pubmed/30998788)
 Miyazaki M, Shimozuru M, Tsubota T,
 *PloS one*.  
-
-* [The relationships between the quadratus plantae and the flexor digitorum longus and the flexor hallucis longus.](https://www.ncbi.nlm.nih.gov/pubmed/30989352)
-Edama M, Takabayashi T, Inai T, Kikumoto T, Hirabayashi R, Ito W, Nakamura E, Ikezu M, Kaneko F, Kageyama I,
-*Surgical and radiologic anatomy : SRA*.  
 
 ----
 # NEURAL
@@ -395,25 +382,37 @@ Edama M, Takabayashi T, Inai T, Kikumoto T, Hirabayashi R, Ito W, Nakamura E, Ik
 
 [Back to top](#table-of-contents)
 
+* [Effects of Fatty Acid Amide Hydrolase Inhibitors Acute Administration on the Positive and Cognitive Symptoms of Schizophrenia in Mice.](https://www.ncbi.nlm.nih.gov/pubmed/31004320)
+Kruk-Slomka M, Banaszkiewicz I, Slomka T, Biala G,
+*Molecular neurobiology*.  
+
 * [MiR-543-3p promotes locomotor function recovery after spinal cord injury by inhibiting the expression of tumor necrosis factor superfamily member 15 in rats.](https://www.ncbi.nlm.nih.gov/pubmed/31002119)
 Li XZ, Lv CL, Shi JG, Zhang CX,
 *European review for medical and pharmacological sciences*.  
+
+* [Social-ecological correlates of fundamental movement skills in young children.](https://www.ncbi.nlm.nih.gov/pubmed/30997258)
+Zeng N, Johnson SL, Boles RE, Bellows LL,
+*Journal of sport and health science*.  
 
 * [Neuronal Activity in Non-LNv Clock Cells Is Required to Produce Free-Running Rest:Activity Rhythms in Drosophila.](https://www.ncbi.nlm.nih.gov/pubmed/30994046)
 Bulthuis N, Spontak KR, Kleeman B, Cavanaugh DJ,
 *Journal of biological rhythms*.  
 
-* [Studying alcohol use disorder using Drosophila melanogaster in the era of 'Big Data'.](https://www.ncbi.nlm.nih.gov/pubmed/30992041)
-Engel GL, Taber K, Vinton E, Crocker AJ,
-*Behavioral and brain functions : BBF*.  
+* [Studies on long term behavioural changes in group-housed rat models of brain and spinal cord injury using an automated home cage recording system.](https://www.ncbi.nlm.nih.gov/pubmed/30991030)
+Yip PK, Chapman GE, Sillito RR, Ip THR, Akhigbe G, Becker SC, Price AW, Michael-Titus AT, Armstrong JD, Tremoleda JL,
+*Journal of neuroscience methods*.  
 
-* [Sex and Laterality Differences in Medullary Humerus Morphology.](https://www.ncbi.nlm.nih.gov/pubmed/30989818)
-Drew AJ, Tashjian RZ, Henninger HB, Bachus KN,
-*Anatomical record (Hoboken, N.J. : 2007)*.  
+* [Oxytocin blocks enhanced motivation for alcohol in alcohol dependence and blocks alcohol effects on GABAergic transmission in the central amygdala.](https://www.ncbi.nlm.nih.gov/pubmed/30990816)
+Tunstall BJ, Kirson D, Zallar LJ, McConnell SA, Vendruscolo JCM, Ho CP, Oleata CS, Khom S, Manning M, Lee MR, Leggio L, Koob GF, Roberto M, Vendruscolo LF,
+*PLoS biology*.  
 
 * [Effect of coadministration of the GABA<sub>B</sub> agonist baclofen and the 5-HT<sub>2C</sub> agonist Ro60-0175 on the expression of amphetamine-induced locomotor sensitization.](https://www.ncbi.nlm.nih.gov/pubmed/30989246)
 Cedillo LN, Ruíz-García RI, Jiménez JC, Miranda F,
 *Experimental brain research*.  
+
+* [Contribution of biomimetic collagen-ligand interaction to intrafibrillar mineralization.](https://www.ncbi.nlm.nih.gov/pubmed/30989106)
+Song Q, Jiao K, Tonggu L, Wang LG, Zhang SL, Yang YD, Zhang L, Bian JH, Hao DX, Wang CY, Ma YX, Arola DD, Breschi L, Chen JH, Tay FR, Niu LN,
+*Science advances*.  
 
 * [Sexually dimorphic regulation of behavioral states by dopamine in <i>Caenorhabditis elegans</i>.](https://www.ncbi.nlm.nih.gov/pubmed/30988167)
 Suo S, Harada K, Matsuda S, Kyo K, Wang M, Maruyama K, Awaji T, Tsuboi T,
@@ -422,6 +421,10 @@ Suo S, Harada K, Matsuda S, Kyo K, Wang M, Maruyama K, Awaji T, Tsuboi T,
 * [Inhibition of the deubiquitinase USP8 corrects a Drosophila PINK1 model of mitochondria dysfunction.](https://www.ncbi.nlm.nih.gov/pubmed/30988163)
 von Stockum S, Sanchez-Martinez A, Corrà S, Chakraborty J, Marchesan E, Locatello L, Da Rè C, Cusumano P, Caicci F, Ferrari V, Costa R, Bubacco L, Rasotto MB, Szabo I, Whitworth AJ, Scorrano L, Ziviani E,
 *Life science alliance*.  
+
+* [Locomotor activity and discriminative stimulus effects of five novel synthetic cathinone analogs in mice and rats.](https://www.ncbi.nlm.nih.gov/pubmed/30986635)
+Gatch MB, Dolan SB, Forster MJ,
+*Drug and alcohol dependence*.  
 
 * [Mechanisms of noradrenergic modulation of synaptic transmission and neuronal excitability in ventral horn neurons of the rat spinal cord.](https://www.ncbi.nlm.nih.gov/pubmed/30986437)
 Shoji H, Ohashi M, Hirano T, Watanabe K, Endo N, Baba H, Kohno T,
@@ -447,35 +450,23 @@ McDougall SA, Park GI, Ramirez GI, Gomez V, Adame BC, Crawford CA,
 Liang X, Ho MCW, Zhang Y, Li Y, Wu MN, Holy TE, Taghert PH,
 *Neuron*.  
 
-* [S 47445 counteracts the behavioral manifestations and hippocampal neuroplasticity changes in bulbectomized mice.](https://www.ncbi.nlm.nih.gov/pubmed/30980840)
-Pilar-Cuellar F, Castro E, Bretin S, Mocaer E, Pazos Á, Díaz Á,
-*Progress in neuro-psychopharmacology & biological psychiatry*.  
+* [Tamoxifen has an anti-manic effect but not protect the brain against oxidative stress in an animal model of mania induced by ouabain.](https://www.ncbi.nlm.nih.gov/pubmed/30981159)
+Dal-Pont GC, Resende WR, Bianchini G, Gava FF, Peterle BR, Trajano KS, Varela RB, Quevedo J, Valvassori SS,
+*Journal of psychiatric research*.  
 
 * [Long-term impairment of social behavior, vocalizations and motor activity induced by bilateral lesions of the fastigial nucleus in juvenile rats.](https://www.ncbi.nlm.nih.gov/pubmed/30980139)
 Al-Afif S, Krauss JK, Helms F, Angelov S, John N, Schwabe K, Hermann EJ,
 *Brain structure & function*.  
-
-* [Nicotine improved the olfactory impairment in MPTP-induced mouse model of Parkinson's disease.](https://www.ncbi.nlm.nih.gov/pubmed/30978411)
-Yang J, Lv DJ, Li LX, Wang YL, Qi D, Chen J, Mao CJ, Wang F, Liu Y, Hu LF, Liu CF,
-*Neurotoxicology*.  
-
-* [Enhanced Social Dominance and Altered Neuronal Excitability in the Prefrontal Cortex of Male KCC2b Mutant Mice.](https://www.ncbi.nlm.nih.gov/pubmed/30977597)
-Anacker AMJ, Moran JT, Santarelli S, Forsberg CG, Rogers TD, Stanwood GD, Hall BJ, Delpire E, Veenstra-VanderWeele J, Saxe MD,
-*Autism research : official journal of the International Society for Autism Research*.  
-
-* [Identification of the origin of force-feedback signals influencing motor neurons of the thoraco-coxal joint in an insect.](https://www.ncbi.nlm.nih.gov/pubmed/30976919)
-Haberkorn A, Gruhn M, Zill SN, Büschges A,
-*Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology*.  
-
-* [Loss of CREST leads to neuroinflammatory responses and ALS-like motor defects in mice.](https://www.ncbi.nlm.nih.gov/pubmed/30976389)
-Cheng C, Yang K, Wu X, Zhang Y, Shan S, Gitler A, Ghosh A, Qiu Z,
-*Translational neurodegeneration*.  
 
 ----
 # ORTHOPAEDICS/SPINE
 ----
 
 [Back to top](#table-of-contents)
+
+* [Asymmetric biomechanical characteristics of the paravertebral muscle in adolescent idiopathic scoliosis.](https://www.ncbi.nlm.nih.gov/pubmed/31004964)
+Liu Y, Pan A, Hai Y, Li W, Yin L, Guo R,
+*Clinical biomechanics (Bristol, Avon)*.  
 
 * [Validation of a freehand technique for cortical bone trajectory screws in the lumbar spine.](https://www.ncbi.nlm.nih.gov/pubmed/31003218)
 Tan Z, McLachlin S, Whyne C, Finkelstein J,
@@ -501,14 +492,6 @@ Chan JJ, Shepard N, Cho W,
 Shepard N, Cho W,
 *Global spine journal*.  
 
-* [Biomechanical Analysis of Cortical Versus Pedicle Screw Fixation Stability in TLIF, PLIF, and XLIF Applications.](https://www.ncbi.nlm.nih.gov/pubmed/30984495)
-Nomoto EK, Fogel GR, Rasouli A, Bundy JV, Turner AW,
-*Global spine journal*.  
-
-* [Modic I changes size increase from supine to standing MRI correlates with increase in pain intensity in standing position: uncovering the "biomechanical stress" and "active discopathy" theories in low back pain.](https://www.ncbi.nlm.nih.gov/pubmed/30982938)
-Splendiani A, Bruno F, Marsecano C, Arrigoni F, Di Cesare E, Barile A, Masciocchi C,
-*European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society*.  
-
 * [Lumbar spinal surgery improves locomotive syndrome in elderly patients with lumbar spinal canal stenosis: A multicenter prospective study.](https://www.ncbi.nlm.nih.gov/pubmed/30982707)
 Fujita N, Michikawa T, Miyamoto A, Sakurai A, Otaka Y, Suzuki S, Tsuji O, Nagoshi N, Okada E, Yagi M, Tsuji T, Kono H, Ishii K, Nakamura M, Matsumoto M, Watanabe K,
 *Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association*.  
@@ -517,19 +500,15 @@ Fujita N, Michikawa T, Miyamoto A, Sakurai A, Otaka Y, Suzuki S, Tsuji O, Nagosh
 Shen H, Fogel GR, Zhu J, Liao Z, Liu W,
 *World neurosurgery*.  
 
-* [Tailoring selection of transforaminal interbody spacers based on biomechanical characteristics and surgical goals: evaluation of an expandable spacer.](https://www.ncbi.nlm.nih.gov/pubmed/30978679)
-Godzik J, Lehrman JN, Newcomb AGUS, Menon RK, Whiting AC, Kelly BP, Snyder LA,
-*Journal of neurosurgery. Spine*.  
-
-* [Evaluating the efficacy of an educational ergonomics module for improving slit lamp positioning in ophthalmology residents.](https://www.ncbi.nlm.nih.gov/pubmed/30975337)
-Ratzlaff TD, Diesbourg TL, McAllister MJ, von Hacht M, Brissette AR, Bona MD,
-*Canadian journal of ophthalmology. Journal canadien d'ophtalmologie*.  
-
 ----
 # ORTHOPAEDICS/SURGERY
 ----
 
 [Back to top](#table-of-contents)
+
+* [Assessment of predisposing factors in myofascial pain syndrome and the analgesic effect of trigger point injections - A primary therapeutic interventional clinical trial.](https://www.ncbi.nlm.nih.gov/pubmed/31000895)
+Parthasarathy S, Sundar S, Mishra G,
+*Indian journal of anaesthesia*.  
 
 * [Biomechanical Analysis of Medial-Row All-Suture Suture Anchor Fixation for Rotator Cuff Repair in a Pair-Matched Cadaveric Model.](https://www.ncbi.nlm.nih.gov/pubmed/31000387)
 Bernardoni ED, Frank RM, Veera SS, Waterman BR, Griffin JW, Shewman EF, Cole BJ, Romeo AA, Verma NN,
@@ -538,6 +517,10 @@ Bernardoni ED, Frank RM, Veera SS, Waterman BR, Griffin JW, Shewman EF, Cole BJ,
 * [Cannulated Screw Prominence in Tension Band Wiring of Patella Fractures Increases Fracture Gapping: A Cadaver Study.](https://www.ncbi.nlm.nih.gov/pubmed/30998643)
 Avery MC, Jo S, Chang A, Ricci WM, McAndrew C, Miller AN, Tang S,
 *Clinical orthopaedics and related research*.  
+
+* [Experimental study of a new original mesh developed for pelvic floor reconstructive surgery.](https://www.ncbi.nlm.nih.gov/pubmed/30997545)
+Ai FF, Mao M, Zhang Y, Kang J, Zhu L,
+*International urogynecology journal*.  
 
 * [Congenital pseudarthrosis of the tibia: biological and biomechanical considerations to achieve union and prevent refracture.](https://www.ncbi.nlm.nih.gov/pubmed/30996736)
 Paley D,
@@ -555,21 +538,17 @@ Du YR, Ma JX, Wang S, Sun L, Wang Y, Lu B, Bai HH, Hu YC, Ma XL,
 Trieb K, Huber D, Sonntag R, Kretzer JP,
 *Zeitschrift fur Orthopadie und Unfallchirurgie*.  
 
-* [Biomechanical Impact of Localized Corneal Cross-linking Beyond the Irradiated Treatment Area.](https://www.ncbi.nlm.nih.gov/pubmed/30984983)
-Webb JN, Langille E, Hafezi F, Randleman JB, Scarcelli G,
-*Journal of refractive surgery (Thorofare, N.J. : 1995)*.  
+* [Thigmomorphogenesis and biomechanical responses of shade-grown Serianthes nelsonii plants to stem flexure.](https://www.ncbi.nlm.nih.gov/pubmed/30985234)
+Marler TE,
+*Plant signaling & behavior*.  
 
 * [The influence of radiographic markers of biomechanical variables on outcomes in reverse shoulder arthroplasty.](https://www.ncbi.nlm.nih.gov/pubmed/30984894)
 Roberson TA, Shanley E, Abildgaard JT, Granade CM, Adams KJ, Griscom JT, Hunt Q, Nix Q, Kissenberth MJ, Tolan SJ, Hawkins RJ, Tokish JM,
 *JSES open access*.  
 
-* [Biomechanical Properties of Posterior Meniscal Root Repairs: A Systematic Review.](https://www.ncbi.nlm.nih.gov/pubmed/30979628)
-Jiang EX, Everhart JS, Abouljoud M, Kirven JC, Magnussen RA, Kaeding CC, Flanigan DC,
-*Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association*.  
-
-* [Cytotoxicity and biomechanics of suture anchors used in labral repairs.](https://www.ncbi.nlm.nih.gov/pubmed/30976733)
-Khoo JK, Lee JHT, Lam PH, Wei AQ, Ronquillo J, Murrell GAC,
-*JSES open access*.  
+* [Biomechanical Analysis of Cortical Versus Pedicle Screw Fixation Stability in TLIF, PLIF, and XLIF Applications.](https://www.ncbi.nlm.nih.gov/pubmed/30984495)
+Nomoto EK, Fogel GR, Rasouli A, Bundy JV, Turner AW,
+*Global spine journal*.  
 
 ----
 # POSTURE/BALANCE
@@ -577,15 +556,19 @@ Khoo JK, Lee JHT, Lam PH, Wei AQ, Ronquillo J, Murrell GAC,
 
 [Back to top](#table-of-contents)
 
-* [Effects of repeated waist-pull perturbations on gait stability in subjects with cerebellar ataxia.](https://www.ncbi.nlm.nih.gov/pubmed/30975168)
-Aprigliano F, Martelli D, Kang J, Kuo SH, Kang UJ, Monaco V, Micera S, Agrawal SK,
-*Journal of neuroengineering and rehabilitation*.  
+* [Modic I changes size increase from supine to standing MRI correlates with increase in pain intensity in standing position: uncovering the "biomechanical stress" and "active discopathy" theories in low back pain.](https://www.ncbi.nlm.nih.gov/pubmed/30982938)
+Splendiani A, Bruno F, Marsecano C, Arrigoni F, Di Cesare E, Barile A, Masciocchi C,
+*European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society*.  
 
 ----
 # PROSTHETICS/ORTHOTICS
 ----
 
 [Back to top](#table-of-contents)
+
+* [Comparison of finite helical axes of normal and anatomically designed prosthetic knees.](https://www.ncbi.nlm.nih.gov/pubmed/30986763)
+Konda S, Tomita T, Yamazaki T, Oda K, Nakajima M, Nakane K, Kono K, Fujito T, Yoshikawa H, Sugamoto K,
+*Clinical biomechanics (Bristol, Avon)*.  
 
 * [Foot trajectories and loading rates in a transfemoral amputee for six different commercial prosthetic knees: An indication of adaptability.](https://www.ncbi.nlm.nih.gov/pubmed/30979583)
 Abouhossein A, Awad MI, Maqbool HF, Crisp C, Stewart TD, Messenger N, Richardson RC, Dehghani-Sanij AA, Bradley D,
@@ -597,16 +580,16 @@ Abouhossein A, Awad MI, Maqbool HF, Crisp C, Stewart TD, Messenger N, Richardson
 
 [Back to top](#table-of-contents)
 
+* [Optimising the Late-Stage Rehabilitation and Return-to-Sport Training and Testing Process After ACL Reconstruction.](https://www.ncbi.nlm.nih.gov/pubmed/31004279)
+Buckthorpe M,
+*Sports medicine (Auckland, N.Z.)*.  
+
 * [A Randomized and Controlled Crossover Study Investigating the Improvement of Walking and Posture Functions in Chronic Stroke Patients Using HAL Exoskeleton - The HALESTRO Study (HAL-Exoskeleton STROke Study).](https://www.ncbi.nlm.nih.gov/pubmed/30983953)
 Sczesny-Kaiser M, Trost R, Aach M, Schildhauer TA, Schwenkreis P, Tegenthoff M,
 *Frontiers in neuroscience*.  
 
 * [Differences in muscle activity and fatigue of the upper limb between Task-Specific training and robot assisted training among individuals post stroke.](https://www.ncbi.nlm.nih.gov/pubmed/30982537)
 Shahar N, Schwartz I, Portnoy S,
-*Journal of biomechanics*.  
-
-* [The influence of locomotor training on dynamic balance during steady-state walking post-stroke.](https://www.ncbi.nlm.nih.gov/pubmed/30981426)
-Vistamehr A, Kautz SA, Bowden MG, Neptune RR,
 *Journal of biomechanics*.  
 
 ----
@@ -619,17 +602,9 @@ Vistamehr A, Kautz SA, Bowden MG, Neptune RR,
 Cizek P, Faigl J,
 *Bioinspiration & biomimetics*.  
 
-* [Bio-inspired photo-detachable dry self-cleaning surface.](https://www.ncbi.nlm.nih.gov/pubmed/30990696)
-Chen P, Li X, Ma J, Zhang R, Qin F, Wang J, Hu TS, Zhang Y, Xu Q,
-*Langmuir : the ACS journal of surfaces and colloids*.  
-
 * [Swimming Performance of a Tensegrity Robotic Fish.](https://www.ncbi.nlm.nih.gov/pubmed/30985267)
 Chen B, Jiang H,
 *Soft robotics*.  
-
-* [Body Randomization Reduces the Sim-to-Real Gap for Compliant Quadruped Locomotion.](https://www.ncbi.nlm.nih.gov/pubmed/30983987)
-Vandesompele A, Urbain G, Mahmud H, Wyffels F, Dambre J,
-*Frontiers in neurorobotics*.  
 
 ----
 # SPORT/EXERCISE
@@ -637,9 +612,9 @@ Vandesompele A, Urbain G, Mahmud H, Wyffels F, Dambre J,
 
 [Back to top](#table-of-contents)
 
-* [Phase space methods for non-linear analysis of pedalling forces in cycling.](https://www.ncbi.nlm.nih.gov/pubmed/30998746)
-Kunert A, Ott M, Reuter T, Koska D, Maiwald C,
-*PloS one*.  
+* [A state-of-the-art review on badminton lunge attributes.](https://www.ncbi.nlm.nih.gov/pubmed/31005013)
+Lee JJJ, Loh WP,
+*Computers in biology and medicine*.  
 
 * [Motor competence and health-related fitness in children: A cross-cultural comparison between Portugal and the United States.](https://www.ncbi.nlm.nih.gov/pubmed/30997259)
 Luz C, Cordovil R, Rodrigues LP, Gao Z, Goodway JD, Sacko RS, Nesbitt DR, Ferkel RC, True LK, Stodden DF,
@@ -649,17 +624,13 @@ Luz C, Cordovil R, Rodrigues LP, Gao Z, Goodway JD, Sacko RS, Nesbitt DR, Ferkel
 Webster EK, Martin CK, Staiano AE,
 *Journal of sport and health science*.  
 
-* [Experimentally enhanced performance decreases survival in nature.](https://www.ncbi.nlm.nih.gov/pubmed/30991916)
-Husak JF, Lailvaux SP,
-*Biology letters*.  
+* [Kinematics and electromyographic activity of horse riders during various cross-country jumps in equestrian.](https://www.ncbi.nlm.nih.gov/pubmed/30994050)
+Fortier Guillaume J, Laroche D, Babault N,
+*Sports biomechanics*.  
 
 * [Inter-Session Reliability of the Tennis Serve and Influence of the Laboratory Context.](https://www.ncbi.nlm.nih.gov/pubmed/30988840)
 Tubez F, Forthomme B, Croisier JL, Brüls O, Denoël V, Paulus J, Schwartz C,
 *Journal of human kinetics*.  
-
-* [Individual play patterns stimulated by a familiar object are group-driven.](https://www.ncbi.nlm.nih.gov/pubmed/30988518)
-Zupan M, Rehn T, de Oliveira D, Malovrh Š, Keeling L,
-*Scientific reports*.  
 
 * [Exploring the Role of Wearable Technology in Sport Kinematics and Kinetics: A Systematic Review.](https://www.ncbi.nlm.nih.gov/pubmed/30987014)
 Adesida Y, Papi E, McGregor AH,
@@ -673,17 +644,9 @@ Dos'Santos T, Bishop C, Thomas C, Comfort P, Jones PA,
 Monfort SM, Pradarelli JJ, Grooms DR, Hutchison KA, Onate JA, Chaudhari AMW,
 *The American journal of sports medicine*.  
 
-* [Using Machine Learning to Predict Lower-Extremity Injury in US Special Forces.](https://www.ncbi.nlm.nih.gov/pubmed/30985586)
-Connaboy C, Eagle SR, Johnson CD, Flanagan SD, Mi QI, Nindl BC,
-*Medicine and science in sports and exercise*.  
-
 * [Effect of COL5A1, GDF5, and PPARA Genes on a Movement Screen and Neuromuscular Performance in Adolescent Team Sport Athletes.](https://www.ncbi.nlm.nih.gov/pubmed/30985523)
 Stastny P, Lehnert M, De Ste Croix M, Petr M, Svoboda Z, Maixnerova E, Varekova R, Botek M, Petrek M, Kocourkova L, Cięszczyk P,
 *Journal of strength and conditioning research*.  
-
-* [Assessing Horizontal Force Production in Resisted Sprinting: Computation and Practical Interpretation.](https://www.ncbi.nlm.nih.gov/pubmed/30975007)
-Cross MR, Tinwala F, Lenetsky S, Brown SR, Brughelli M, Morin JB, Samozino P,
-*International journal of sports physiology and performance*.  
 
 ----
 # TENDON/LIGAMENT
@@ -713,21 +676,49 @@ Zhang M, Zhen J, Zhang X, Yang Z, Zhang L, Hao D, Ren B,
 
 [Back to top](#table-of-contents)
 
-* [Short and long-term effects of bisphenol S (BPS) exposure during pregnancy and lactation on plasma lipids, hormones, and behavior in rats.](https://www.ncbi.nlm.nih.gov/pubmed/31003143)
-da Silva BS, Pietrobon CB, Bertasso IM, Lopes BP, Carvalho JC, Peixoto-Silva N, Santos TR, Claudio-Neto S, Manhães AC, Oliveira E, de Moura EG, Lisboa PC,
-*Environmental pollution (Barking, Essex : 1987)*.  
+* [Effects of hypothyroidism on the mesenteric and omental adipose tissue in rats.](https://www.ncbi.nlm.nih.gov/pubmed/31004687)
+López Fontana CM, Pennachio G, Zyla L, Toneatto J, Bruna FA, Ortiz N, Sassi PL, Santiano FE, García S, Sasso CV, Pietrobon E, Jahn GA, Pistone Creydt V, Soaje M, Carón RW,
+*Molecular and cellular endocrinology*.  
+
+* [Combinational therapy of lithium and human neural stem cells in rat spinal cord contusion model.](https://www.ncbi.nlm.nih.gov/pubmed/31004353)
+Mohammadshirazi A, Sadrosadat H, Jaberi R, Zareikheirabadi M, Mirsadeghi S, Naghdabadi Z, Ghaneezabadi M, Fardmanesh M, Baharvand H, Kiani S,
+*Journal of cellular physiology*.  
+
+* [Cryopreservation of tendon tissue using dimethyl sulfoxide combines conserved cell vitality with maintained biomechanical features.](https://www.ncbi.nlm.nih.gov/pubmed/31002728)
+Hochstrat E, Müller M, Frank A, Michel P, Hansen U, Raschke MJ, Kronenberg D, Stange R,
+*PloS one*.  
 
 * [An analytical poroelastic model of a spherical tumor embedded in normal tissue under creep compression.](https://www.ncbi.nlm.nih.gov/pubmed/31000348)
 Islam MT, Righetti R,
 *Journal of biomechanics*.  
 
-* [Experimental study of a new original mesh developed for pelvic floor reconstructive surgery.](https://www.ncbi.nlm.nih.gov/pubmed/30997545)
-Ai FF, Mao M, Zhang Y, Kang J, Zhu L,
-*International urogynecology journal*.  
+* [Experimental investigations of a manually versus an electrically driven skull drill for bedside usage.](https://www.ncbi.nlm.nih.gov/pubmed/30998712)
+Carolus A, Richter W, Fritzen CP, Schmieder K, Brenke C,
+*PloS one*.  
 
-* [Investigating the reciprocal relationships between locomotor sensitization to ethanol and PTSD-like clusters in DBA/2J mice.](https://www.ncbi.nlm.nih.gov/pubmed/30986492)
-Matonda-Ma-Nzuzi T, Didone V, Seutin V, Tirelli E, Quertemont E,
-*Behavioural brain research*.  
+* [Biophysical and ultrasonographic changes in lichen planus compared with uninvolved skin.](https://www.ncbi.nlm.nih.gov/pubmed/30997382)
+Yazdanparast T, Yazdani K, Humbert P, Khatami A, Ahmad Nasrollahi S, Zartab H, Izadi Firouzabadi L, Firooz A,
+*International journal of women's dermatology*.  
+
+* [Learning soft tissue behavior of organs for surgical navigation with convolutional neural networks.](https://www.ncbi.nlm.nih.gov/pubmed/30993520)
+Pfeiffer M, Riediger C, Weitz J, Speidel S,
+*International journal of computer assisted radiology and surgery*.  
+
+* [Bio-inspired photo-detachable dry self-cleaning surface.](https://www.ncbi.nlm.nih.gov/pubmed/30990696)
+Chen P, Li X, Ma J, Zhang R, Qin F, Wang J, Hu TS, Zhang Y, Xu Q,
+*Langmuir : the ACS journal of surfaces and colloids*.  
+
+* [Biomechanical Analysis of Subclinical Keratoconus With Normal Topographic, Topometric, and Tomographic Findings.](https://www.ncbi.nlm.nih.gov/pubmed/30984982)
+Koc M, Aydemir E, Tekin K, Inanc M, Kosekahya P, Kiziltoprak H,
+*Journal of refractive surgery (Thorofare, N.J. : 1995)*.  
+
+* [Microvascular bioengineering: a focus on pericytes.](https://www.ncbi.nlm.nih.gov/pubmed/30984287)
+Zhao H, Chappell JC,
+*Journal of biological engineering*.  
+
+* [Biophysical Measurements and Ultrasonographic Findings in Chronic Dermatitis in Comparison with Uninvolved Skin.](https://www.ncbi.nlm.nih.gov/pubmed/30983602)
+Yazdanparast T, Yazdani K, Humbert P, Khatami A, Nasrollahi SA, Firouzabadi LI, Firooz A,
+*Indian journal of dermatology*.  
 
 * [[Mechanical study of polyurethane elastomer and Medpor as the material of artificial auricular scaffold].](https://www.ncbi.nlm.nih.gov/pubmed/30983201)
 Liu G, Wang Q, Yang Q, Zhang L, Dong W, Liu Y, Guo R, Han J,
@@ -737,29 +728,15 @@ Liu G, Wang Q, Yang Q, Zhang L, Dong W, Liu Y, Guo R, Han J,
 Sorribes IC, Moore MNJ, Byrne HM, Jain HV,
 *Biophysical journal*.  
 
-* [Comparative evaluation of book-type acellular bone scaffold and fibrocartilage scaffold for bone-tendon healing.](https://www.ncbi.nlm.nih.gov/pubmed/30977542)
-Lu H, Tang Y, Liu F, Xie S, Qu J, Chen C,
-*Journal of orthopaedic research : official publication of the Orthopaedic Research Society*.  
-
-* [Effect of two (short-term) storage methods on load to failure testing of murine bone tissue.](https://www.ncbi.nlm.nih.gov/pubmed/30976119)
-Tiefenboeck TM, Payr S, Bajenov O, Koch T, Komjati M, Sarahrudi K,
-*Scientific reports*.  
-
-* [Biomechanical Behaviour and Biocompatibility of Ureidopyrimidinone-Polycarbonate Electrospun and Polypropylene Meshes in a Hernia Repair in Rabbits.](https://www.ncbi.nlm.nih.gov/pubmed/30974868)
-Mori da Cunha MGMC, Hympanova L, Rynkevic R, Mes T, Bosman AW, Deprest J,
-*Materials (Basel, Switzerland)*.  
-
 ----
 # TRAUMA/IMPACT
 ----
 
 [Back to top](#table-of-contents)
 
-----
-# UNIQUE TOPIC
-----
-
-[Back to top](#table-of-contents)
+* [An assessment of the utility and functionality of wearable head impact sensors in Australian Football.](https://www.ncbi.nlm.nih.gov/pubmed/31000457)
+McIntosh AS, Willmott C, Patton DA, Mitra B, Brennan JH, Dimech-Betancourt B, Howard TS, Rosenfeld JV,
+*Journal of science and medicine in sport*.  
 
 ----
 # VETERINARY/AGRICULTURAL
@@ -767,30 +744,22 @@ Mori da Cunha MGMC, Hympanova L, Rynkevic R, Mes T, Bosman AW, Deprest J,
 
 [Back to top](#table-of-contents)
 
-* [Three-dimensional finite element analysis to evaluate biomechanical effects of different alveolar decortication approaches on rate of canine retraction.](https://www.ncbi.nlm.nih.gov/pubmed/31000446)
-Gupta S, Ahuja S, Bhambri E, Jaura BS, Ahuja V,
-*International orthodontics*.  
-
-* [Kinematics and electromyographic activity of horse riders during various cross-country jumps in equestrian.](https://www.ncbi.nlm.nih.gov/pubmed/30994050)
-Fortier Guillaume J, Laroche D, Babault N,
-*Sports biomechanics*.  
-
 * [Lameness in Beef Cattle: UK Farmers' Perceptions, Knowledge, Barriers, and Approaches to Treatment and Control.](https://www.ncbi.nlm.nih.gov/pubmed/30984772)
 Tunstall J, Mueller K, Grove White D, Oultram JWH, Higgins HM,
 *Frontiers in veterinary science*.  
 
-* [Biophysical Measurements and Ultrasonographic Findings in Chronic Dermatitis in Comparison with Uninvolved Skin.](https://www.ncbi.nlm.nih.gov/pubmed/30983602)
-Yazdanparast T, Yazdani K, Humbert P, Khatami A, Nasrollahi SA, Firouzabadi LI, Firooz A,
-*Indian journal of dermatology*.  
-
 ----
-# VISUAL/VESTIBULAR/EYE
+# VISUAL/VESTIBULAR
 ----
 
 [Back to top](#table-of-contents)
 
-* [Biomechanical Analysis of Subclinical Keratoconus With Normal Topographic, Topometric, and Tomographic Findings.](https://www.ncbi.nlm.nih.gov/pubmed/30984982)
-Koc M, Aydemir E, Tekin K, Inanc M, Kosekahya P, Kiziltoprak H,
+* [Line-Field Optical Coherence Tomography as a tool for In vitro characterization of corneal biomechanics under physiological pressures.](https://www.ncbi.nlm.nih.gov/pubmed/31004101)
+Kazaili A, Lawman S, Geraghty B, Eliasy A, Zheng Y, Shen Y, Akhtar R,
+*Scientific reports*.  
+
+* [Biomechanical Impact of Localized Corneal Cross-linking Beyond the Irradiated Treatment Area.](https://www.ncbi.nlm.nih.gov/pubmed/30984983)
+Webb JN, Langille E, Hafezi F, Randleman JB, Scarcelli G,
 *Journal of refractive surgery (Thorofare, N.J. : 1995)*.  
 
 * [Functional Optical Zone and Centration Following SMILE and LASIK: A Prospective, Randomized, Contralateral Eye Study.](https://www.ncbi.nlm.nih.gov/pubmed/30984980)
