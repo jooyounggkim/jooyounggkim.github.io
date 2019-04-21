@@ -4,7 +4,6 @@ title: Biomechanics Literature Search
 excerpt: Using ~~magic~~ Machine Learning to classify biomechanics papers published in the last week
 header:
   teaser: ML.gif
-twitter_image: ML.gif
 collection: project
 author_profile: false
 share: true
