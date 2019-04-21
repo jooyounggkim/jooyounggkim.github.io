@@ -179,7 +179,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  literatureudpdate:
+  literature:
     output: true
     permalink: /:collection/:path/
 
@@ -223,7 +223,7 @@ defaults:
 #_literatureupdate
   - scope:
       path: ""
-      type: literatureupdate
+      type: literature
     values:
       layout: single
       author_profile: true

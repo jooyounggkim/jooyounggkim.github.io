@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Literature Updates"
-permalink: /literatureupdate/
-author_profile: true
+permalink: /literature/
+author_profile: false
 ---
 
-{% for post in site.literatureupdate reversed %}
+{% include base_path %}
+
+{% for post in site.literature reversed %}
   {% include archive-single.html %}
 {% endfor %}
