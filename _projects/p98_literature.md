@@ -42,6 +42,7 @@ useful and want me to continue, let me hear that too.
 <br>
 What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I find myself in a similar place 20 years later. I want to further automate the weekly Literature Update, but by using ~~magic~~ Machine Learning:  
 
+<br>  
 ![Machine Learning is Magic](/images/ML.gif){: .align-center}
 
 <br>  
