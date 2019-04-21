@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Biomechanics Literature Search
-excerpt: Python script searches/collects biomechanics papers published in the last week
+excerpt: Using Machine Learning to classify biomechanics papers published in the last week
 header:
   teaser: ML.gif
 twitter_image: ML.gif
