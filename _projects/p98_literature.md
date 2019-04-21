@@ -10,7 +10,7 @@ author_profile: false
 share: true
 ---
 <br>
-For over 20 years there have been a number of people in the Biomechanics community who have searched publication databases for relevant articles, categorized them, and then shared them with the Biomch-L community in the form of a weekly [Literature Update](https://biomch-l.isbweb.org/forums/7-Literature-Update). The first Literature Update post was by Dr. Rodger Kram in 1998 (at 2:02am!): 
+For over 20 years, people in the Biomechanics community have searched publication databases for relevant articles, categorized them, and shared them with the Biomch-L community in the form of a weekly [Literature Update](https://biomch-l.isbweb.org/forums/7-Literature-Update). The first Literature Update post was by Dr. Rodger Kram in 1998 (at 2:02am!): 
 
 >Biomch-Lers:  
 UC Berkeley library allows campus users to have free use of the Current  
@@ -40,15 +40,15 @@ useful and want me to continue, let me hear that too.
 >Rodger 
 
 <br>
-What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I find myself in a similar place 20 years later. I want to further automate the weekly Literature Update, but by using ~~magic~~ Machine Learning:  
+What stands out to me about Rodger's post was that he found a way to automate part of the literature search and wanted to give something back to Biomch-L. I find myself in a similar place 20 years later. I want to further automate the weekly Literature Update by using ~~magic~~ Machine Learning:  
 <br>  
 ![Machine Learning is Magic](/images/ML.gif){: .align-center}  
 <br>  
-While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to the people who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
+While parts of the current Literature Update process are automated, there is still a significant time commitment required to go through the papers and categorize them. Thanks to those who have maintained the Literature Updates over the years, there are years of weekly Literature Updates containing paper titles and their assigned topic. 
 <br>  
-Luckily for me, I was able to convince another graduate student, Gary Bruening, that this was an interesting idea. He wrote a python script that crawls through the Literature Updates and parses out the paper's information (title, authors, assigned topic, etc.). He was able to compile a dataset of over 37,000 biomechanics papers published since 2010! We were took a [supervized learning](https://towardsdatascience.com/supervised-machine-learning-classification-5e685fe18a6d) approach as we liked the Biomch-L categories and the 37,000 papers provided a reasonably-sized dataset to train the classification model. 
+I was able to convince another graduate student, Gary Bruening, that using machine learning to classify papers was an interesting idea. He wrote a python script that crawls through the Literature Updates and parses out the paper's information (title, authors, assigned topic, etc.). Gary was able to compile over 37,000 biomechanics papers published since 2010! We took a [supervized learning](https://towardsdatascience.com/supervised-machine-learning-classification-5e685fe18a6d) approach as we liked the current Biomch-L categories and 37,000 papers provided a reasonably-sized dataset to train the classification model. 
 <br>  
-We trained and compared multiple classification Machine Learning algorithms, settling on a Convolutional Neural Network. Then, we created a python script that searches PubMed for biomechanics-related papers published in the last week using Rodger's original keywords: `'Biomech*[Title/Abstract] OR locomot*[Title/Abstract]'`. We then use the trained CNN model to classify the papers from PubMed. Last, the script compiles the search results, formats their citations, and organizes them by topic. The end product is a markdown (.md) file saved to the [Literature Updates](https://github.com/alcantarar/literature_update/tree/master/Literature_Updates) folder. Here's a preview:  
+We compared multiple classification Machine Learning algorithms and created a python script that searches PubMed for biomechanics-related papers published in the last week using Rodger's original keywords: `'Biomech*[Title/Abstract] OR locomot*[Title/Abstract]'`. Then we used the top-performing model (a Convolutional Neural Network) to classify the papers from PubMed. Last, a script compiles the search results, formats their citations, and organizes them by topic. The end product is a markdown (.md) file saved to the [Literature Updates](https://github.com/alcantarar/literature_update/tree/master/Literature_Updates) folder. Here's a preview of the output:  
 
 >BONE
 ----
@@ -61,7 +61,7 @@ Wang L, Dong J, Xian CJ,
 Henyš P, Čapek L,
 *Computer methods in biomechanics and biomedical engineering*.  
   
-While the Classification model is fairly robust, there's always room to improve its performance. If you're interested in contributing to this project, the code and data used are located in my repository: [www.github.com/alcantarar/literature_update/](https://github.com/alcantarar/literature_update/)
+While the Classification model is fairly robust, there's always room to improve its performance. If you're interested in contributing to this project, the code and data used are located in my repository: [www.github.com/alcantarar/literature_update/](https://github.com/alcantarar/literature_update/). If you just want to peek at the code, it's in a jupyter notebook format [here](https://github.com/alcantarar/literature_update/blob/master/literature_search%20.ipynb).
 
 
 
