@@ -4,6 +4,7 @@ title: Biomechanics Literature Search
 excerpt: Python script searches/collects biomechanics papers published in the last week
 header:
   teaser: pubmed_teaser2.png
+twitter_image: ML.gif
 collection: project
 author_profile: false
 share: true
