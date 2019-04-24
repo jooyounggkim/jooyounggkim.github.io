@@ -30,7 +30,7 @@ excerpt: <br>
 [UNIQUE TOPIC](#uniquetopic)  
 [VETERINARY/AGRICULTURAL](#veterinaryagricultural)  
 [VISUAL/VESTIBULAR/EYE](#visualvestibulareye)  
-
+ 
 ----
 # BONE
 ----
@@ -79,7 +79,7 @@ b'Song Q, Jiao K, Tonggu L, Wang LG, Zhang SL, Yang YD, Zhang L, Bian JH, Hao DX
 b'Peker A, Balendran B, Paraskevopoulos I, Krokidis M,'
 *Annals of vascular surgery*.  
 
-* [Biomechanical Stress Profiling of Coronary Atherosclerosis: Identifying a Multifactorial Metric to Evaluate Plaque Rupture Risk.](https://www.ncbi.nlm.nih.gov/pubmed/31005542)
+* [Biomechanical Stress Profiling of Coronary Atherosclerosis: Identifying a Multifactorial Metric to Evaluate PlaqueÂ RuptureÂ Risk.](https://www.ncbi.nlm.nih.gov/pubmed/31005542)
 b'Doradla P, Otsuka K, Nadkarni A, Villiger M, Karanasos A, Zandvoort LJCV, Dijkstra J, Zijlstra F, Soest GV, Daemen J, Regar E, Bouma BE, Nadkarni SK,'
 *JACC. Cardiovascular imaging*.  
 
