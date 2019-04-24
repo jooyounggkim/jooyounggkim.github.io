@@ -1,7 +1,7 @@
 ---
 title: Biomechanics Literature Update
 collection: literature
-permalink: /literature/2019-4-23-litupdate
+permalink: /literature/2019-4-24-litupdate
 excerpt: <br>
 ---
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & 
