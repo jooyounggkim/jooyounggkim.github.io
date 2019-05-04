@@ -3,6 +3,7 @@ title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-4-23-litupdate
 excerpt: <br>
+classes: wide
 ---
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 ### Table Of Contents: 
