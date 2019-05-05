@@ -3,28 +3,12 @@ title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-4-30-litupdate
 excerpt: <br>
+toc: true
+toc_sticky: true
+toc_label: Topics
 ---
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
-### Table Of Contents: 
-[BONE](#bone)  
-[CARDIOVASCULAR/CARDIOPULMONARY](#cardiovascularcardiopulmonary)  
-[CELLULAR/SUBCELLULAR](#cellularsubcellular)  
-[COMPARATIVE](#comparative)  
-[DENTAL/ORAL/FACIAL](#dentaloralfacial)  
-[EVOLUTION/ANTHROPOLOGY](#evolutionanthropology)  
-[GAIT/LOCOMOTION](#gaitlocomotion)  
-[JOINT/CARTILAGE](#jointcartilage)  
-[METHODS](#methods)  
-[MODELING](#modeling)  
-[NEURAL](#neural)  
-[ORTHOPAEDICS/SPINE](#orthopaedicsspine)  
-[ORTHOPAEDICS/SURGERY](#orthopaedicssurgery)  
-[REHABILITATION](#rehabilitation)  
-[ROBOTICS](#robotics)  
-[SPORT/EXERCISE](#sportexercise)  
-[TENDON/LIGAMENT](#tendonligament)  
-[TISSUE/BIOMATERIAL](#tissuebiomaterial)  
-[VETERINARY/AGRICULTURAL](#veterinaryagricultural)  
+ 
 
 ----
 # BONE

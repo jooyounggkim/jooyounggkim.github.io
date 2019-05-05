@@ -1,36 +1,14 @@
 ---
 title: Biomechanics Literature Update
 collection: literature
-permalink: /literature/2019-4-23-litupdate
+permalink: /literature/2019-4-23-litupdate2
 excerpt: <br>
-classes: wide
+toc: true
+toc_sticky: true
+toc_label: Topics
 ---
-### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
-### Table Of Contents: 
-[BONE](#bone)  
-[CARDIOVASCULAR/CARDIOPULMONARY](#cardiovascularcardiopulmonary)  
-[CELLULAR/SUBCELLULAR](#cellularsubcellular)  
-[COMPARATIVE](#comparative)  
-[DENTAL/ORAL/FACIAL](#dentaloralfacial)  
-[EVOLUTION/ANTHROPOLOGY](#evolutionanthropology)  
-[GAIT/LOCOMOTION](#gaitlocomotion)  
-[HAND/FINGER/FOOT/TOE](#handfingerfoottoe)  
-[JOINT/CARTILAGE](#jointcartilage)  
-[METHODS](#methods)  
-[MODELING](#modeling)  
-[MUSCLE](#muscle)  
-[NEURAL](#neural)  
-[ORTHOPAEDICS/SPINE](#orthopaedicsspine)  
-[ORTHOPAEDICS/SURGERY](#orthopaedicssurgery)  
-[REHABILITATION](#rehabilitation)  
-[ROBOTICS](#robotics)  
-[SPORT/EXERCISE](#sportexercise)  
-[TENDON/LIGAMENT](#tendonligament)  
-[TISSUE/BIOMATERIAL](#tissuebiomaterial)  
-[TRAUMA/IMPACT](#traumaimpact)  
-[UNIQUE TOPIC](#uniquetopic)  
-[VETERINARY/AGRICULTURAL](#veterinaryagricultural)  
-[VISUAL/VESTIBULAR/EYE](#visualvestibulareye)  
+
+### Created by:[Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 
 ----
 # BONE
@@ -592,16 +570,6 @@ Islam MT, Righetti R,
 Ai FF, Mao M, Zhang Y, Kang J, Zhu L,
 *International urogynecology journal*.  
 
-----
-# TRAUMA/IMPACT
-----
-
-[Back to top](#table-of-contents)
-----
-# UNIQUE TOPIC
-----
-
-[Back to top](#table-of-contents)
 ----
 # VETERINARY/AGRICULTURAL
 ----
