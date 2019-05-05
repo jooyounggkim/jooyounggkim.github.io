@@ -8,13 +8,13 @@ toc_sticky: true
 toc_label: Topics
 ---
 
-### Created by:[Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
+### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 
 ----
 # BONE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Computational Modeling of Bone Cells and Their Biomechanical Behaviors in Responses to Mechanical Stimuli.](https://www.ncbi.nlm.nih.gov/pubmed/31002595)
 Wang L, Dong J, Xian CJ,
 *Critical reviews in eukaryotic gene expression*.  
@@ -51,7 +51,7 @@ Song Q, Jiao K, Tonggu L, Wang LG, Zhang SL, Yang YD, Zhang L, Bian JH, Hao DX, 
 # CARDIOVASCULAR/CARDIOPULMONARY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Demystifying the Use of Self Expandable Interwoven Nitinol Stents in Femoropopliteal Peripheral Arterial Disease.](https://www.ncbi.nlm.nih.gov/pubmed/31009734)
 Peker A, Balendran B, Paraskevopoulos I, Krokidis M,
 *Annals of vascular surgery*.  
@@ -88,7 +88,7 @@ Hu WK, Chen DW, Li B, Yang YF, Yu GR,
 # CELLULAR/SUBCELLULAR
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Reflection phase microscopy using spatio-temporal coherence of light.](https://www.ncbi.nlm.nih.gov/pubmed/31008154)
 Choi Y, Hosseini P, Kang JW, Kang S, Yang TD, Hyeon MG, Kim BM, So PTC, Yaqoob Z,
 *Optica*.  
@@ -125,7 +125,7 @@ Kwon S, Lee DH, Han SJ, Yang W, Quan FS, Kim KS,
 # COMPARATIVE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Long-term Video Tracking of Cohoused Aquatic Animals: A Case Study of the Daily Locomotor Activity of the Norway Lobster (Nephrops norvegicus).](https://www.ncbi.nlm.nih.gov/pubmed/31009003)
 Garcia JA, Sbragaglia V, Masip D, Aguzzi J,
 *Journal of visualized experiments : JoVE*.  
@@ -154,7 +154,7 @@ Vasilopoulou-Kampitsi M, Goyens J, Baeckens S, Van Damme R, Aerts P,
 # DENTAL/ORAL/FACIAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Treatment of mandibular angle fracture: Revision of the basic principles.](https://www.ncbi.nlm.nih.gov/pubmed/31003853)
 Bohluli B, Mohammadi E, Oskui IZ, Moaramnejad N,
 *Chinese journal of traumatology = Zhonghua chuang shang za zhi*.  
@@ -167,7 +167,7 @@ Melo G, Duarte J, Pauletto P, Porporatti AL, Stuginski-Barbosa J, Winocur E, Flo
 # EVOLUTION/ANTHROPOLOGY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [A coupled reaction-diffusion-strain model predicts cranial vault formation in development and disease.](https://www.ncbi.nlm.nih.gov/pubmed/31006064)
 Lee C, Richtsmeier JT, Kraft RH,
 *Biomechanics and modeling in mechanobiology*.  
@@ -180,7 +180,7 @@ Lacruz RS, Stringer CB, Kimbel WH, Wood B, Harvati K, O'Higgins P, Bromage TG, A
 # GAIT/LOCOMOTION
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [The influence of childhood obesity on spatio-temporal gait parameters.](https://www.ncbi.nlm.nih.gov/pubmed/31009919)
 Montes-Alguacil J, Páez-Moguer J, Jiménez Cebrián AM, Muñoz BÁ, Gijón-Noguerón G, Morales-Asencio JM,
 *Gait & posture*.  
@@ -213,7 +213,7 @@ Corsi C, Cimolin V, Capodaglio P, Condoluci C, Galli M,
 # HAND/FINGER/FOOT/TOE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Can a combination of lifestyle and clinical characteristics explain the presence of foot ulcer in patients with diabetes?](https://www.ncbi.nlm.nih.gov/pubmed/31005476)
 Naemi R, Chockalingam N, Lutale JK, Abbas ZG,
 *Journal of diabetes and its complications*.  
@@ -234,7 +234,7 @@ Ghanem I, Massaad A, Assi A, Rizkallah M, Bizdikian AJ, El Abiad R, Seringe R, M
 # JOINT/CARTILAGE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Acromioclavicular Joint Injuries: Evidence-based Treatment.](https://www.ncbi.nlm.nih.gov/pubmed/31008872)
 Frank RM, Cotter EJ, Leroux TS, Romeo AA,
 *The Journal of the American Academy of Orthopaedic Surgeons*.  
@@ -255,7 +255,7 @@ Okimura S, Mae T, Tachibana Y, Iuchi R, Nakata K, Yamashita T, Shino K,
 # METHODS
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Evaluation of individual plaque risk based on plaque anatomic and biomechanical characteristics: methodologies and clinical applications are approaching an inflection point.](https://www.ncbi.nlm.nih.gov/pubmed/31005992)
 Stone PH,
 *European heart journal*.  
@@ -276,7 +276,7 @@ Olsen AM, Hernández LP, Camp AL, Brainerd EL,
 # MODELING
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Two degrees of freedom, dynamic, hand-wrist EMG-force using a minimum number of electrodes.](https://www.ncbi.nlm.nih.gov/pubmed/31009829)
 Dai C, Zhu Z, Martinez-Luna C, Hunt TR, Farrell TR, Clancy EA,
 *Journal of electromyography and kinesiology : official journal of the International Society of Electrophysiological Kinesiology*.  
@@ -293,7 +293,7 @@ Pfeiffer M, Riediger C, Weitz J, Speidel S,
 # MUSCLE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Sarcopenia and lower limb pain are additively related to motor function and a history of falls and fracture in community-dwelling elderly people.](https://www.ncbi.nlm.nih.gov/pubmed/31008375)
 Maruya K, Fujita H, Arai T, Asahi R, Morita Y, Ishibashi H,
 *Osteoporosis and sarcopenia*.  
@@ -314,7 +314,7 @@ Edama M, Takabayashi T, Inai T, Kikumoto T, Hirabayashi R, Ito W, Nakamura E, Ik
 # NEURAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Oral gavage of capsaicin causes TRPV1-dependent acute hypothermia and TRPV1-independent long-lasting increase of locomotor activity in the mouse.](https://www.ncbi.nlm.nih.gov/pubmed/31009639)
 Inagaki H, Kurganov E, Pak Y, Furube E, Miyata S,
 *Physiology & behavior*.  
@@ -379,7 +379,7 @@ von Stockum S, Sanchez-Martinez A, Corrà S, Chakraborty J, Marchesan E, Locatel
 # ORTHOPAEDICS/SPINE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Bertolotti's syndrome in low-backache population: Classification and imaging findings.](https://www.ncbi.nlm.nih.gov/pubmed/31007488)
 Ravikanth R, Majumdar P,
 *Ci ji yi xue za zhi = Tzu-chi medical journal*.  
@@ -412,7 +412,7 @@ Kang J, Chen G, Zhai X, He X,
 # ORTHOPAEDICS/SURGERY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Biomechanical properties of pedicle screw fixation augmented with allograft bone particles in osteoporotic vertebrae: different sizes and amounts.](https://www.ncbi.nlm.nih.gov/pubmed/31009768)
 Jia C, Zhang R, Xing T, Gao H, Li H, Dong F, Zhang J, Ge P, Song P, Xu P, Zhang H, Shen C,
 *The spine journal : official journal of the North American Spine Society*.  
@@ -453,7 +453,7 @@ Du YR, Ma JX, Wang S, Sun L, Wang Y, Lu B, Bai HH, Hu YC, Ma XL,
 # REHABILITATION
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Ankle power biofeedback attenuates the distal-to-proximal redistribution in older adults.](https://www.ncbi.nlm.nih.gov/pubmed/31005854)
 Browne MG, Franz JR,
 *Gait & posture*.  
@@ -470,7 +470,7 @@ Buckthorpe M,
 # ROBOTICS
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Flipper bone distribution reveals flexible trailing edge in underwater flying marine tetrapods.](https://www.ncbi.nlm.nih.gov/pubmed/31006912)
 DeBlois MC, Motani R,
 *Journal of morphology*.  
@@ -487,7 +487,7 @@ Chen P, Li X, Ma J, Zhang R, Qin F, Wang J, Hu TS, Zhang Y, Xu Q,
 # SPORT/EXERCISE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Comparing Biomechanical Time Series Data During the Hang-Power Clean and Jump Shrug.](https://www.ncbi.nlm.nih.gov/pubmed/31009429)
 Kipp K, Comfort P, Suchomel TJ,
 *Journal of strength and conditioning research*.  
@@ -528,7 +528,7 @@ Adesida Y, Papi E, McGregor AH,
 # TENDON/LIGAMENT
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Lateral extra-articular reconstruction length changes during weightbearing knee flexion and pivot shift: A simulation study.](https://www.ncbi.nlm.nih.gov/pubmed/31005698)
 Blache Y, Kouevidjin B, de Guise J, Dumas R, Saithna A, Sonnery-Cottet B, Thaunat M,
 *Orthopaedics & traumatology, surgery & research : OTSR*.  
@@ -545,7 +545,7 @@ Richardson MW, Tsouris ND, Hassan CR, Elbayar JH, Qin YX, Komatsu DE, Rizzi AV, 
 # TISSUE/BIOMATERIAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Artificial Neural Network Learns Clinical Assessment of Spasticity in Modified Ashworth Scale.](https://www.ncbi.nlm.nih.gov/pubmed/31009599)
 Park JH, Kim Y, Lee KJ, Yoon YS, Kang SH, Kim H, Park HS,
 *Archives of physical medicine and rehabilitation*.  
@@ -574,7 +574,7 @@ Ai FF, Mao M, Zhang Y, Kang J, Zhu L,
 # VETERINARY/AGRICULTURAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Three-dimensional finite element analysis to evaluate biomechanical effects of different alveolar decortication approaches on rate of canine retraction.](https://www.ncbi.nlm.nih.gov/pubmed/31000446)
 Gupta S, Ahuja S, Bhambri E, Jaura BS, Ahuja V,
 *International orthodontics*.  
@@ -587,7 +587,7 @@ Fortier Guillaume J, Laroche D, Babault N,
 # VISUAL/VESTIBULAR/EYE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Gravito-inertial ambiguity resolved through head stabilization.](https://www.ncbi.nlm.nih.gov/pubmed/31007539)
 Farkhatdinov I, Michalska H, Berthoz A, Hayward V,
 *Proceedings. Mathematical, physical, and engineering sciences*.  

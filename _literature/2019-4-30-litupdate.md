@@ -14,7 +14,7 @@ toc_label: Topics
 # BONE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [The Rorschach butterfly, understanding bone biomechanics prior to using nomenclature in bone trauma interpretations.](https://www.ncbi.nlm.nih.gov/pubmed/31035136)
 L'Abbé EN, Symes SA, Raymond DE, Ubelaker DH,
 *Forensic science international*.  
@@ -63,7 +63,7 @@ Ma L, Hua R, Tian Y, Cheng H, Fajardo RJ, Pearson JJ, Guda T, Shropshire DB, Gu 
 # CARDIOVASCULAR/CARDIOPULMONARY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Mavacamten Treatment for Obstructive Hypertrophic Cardiomyopathy: A Clinical Trial.](https://www.ncbi.nlm.nih.gov/pubmed/31035291)
 Heitner SB, Jacoby D, Lester SJ, Owens A, Wang A, Zhang D, Lambing J, Lee J, Semigran M, Sehnert AJ,
 *Annals of internal medicine*.  
@@ -100,7 +100,7 @@ Walton SL, Tjongue M, Tare M, Kwok E, Probyn M, Parkington HC, Bertram JF, Morit
 # CELLULAR/SUBCELLULAR
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Chemotherapy-induced cachexia dysregulates hypothalamic and systemic lipoamines and is attenuated by cannabigerol.](https://www.ncbi.nlm.nih.gov/pubmed/31035309)
 Brierley DI, Harman JR, Giallourou N, Leishman E, Roashan AE, Mellows BAD, Bradshaw HB, Swann JR, Patel K, Whalley BJ, Williams CM,
 *Journal of cachexia, sarcopenia and muscle*.  
@@ -149,7 +149,7 @@ Titov VN, Sazhina NN, Evteeva NМ,
 # COMPARATIVE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Aging circadian rhythms and cannabinoids.](https://www.ncbi.nlm.nih.gov/pubmed/31035036)
 Hodges EL, Ashpole NM,
 *Neurobiology of aging*.  
@@ -206,7 +206,7 @@ Pylatiuk C, Zhao H, Gursky E, Reischl M, Peravali R, Foulkes N, Loosli F,
 # DENTAL/ORAL/FACIAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Biomechanical performance of cranial implants with different thicknesses and material properties: A finite element study.](https://www.ncbi.nlm.nih.gov/pubmed/31035070)
 Marcián P, Narra N, Borák L, Chamrad J, Wolff J,
 *Computers in biology and medicine*.  
@@ -231,7 +231,7 @@ Berger G, Pereira LFO, Souza EM, Rached RN,
 # EVOLUTION/ANTHROPOLOGY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Limited effects of early life manipulations on sex-specific gene expression and behavior in adulthood.](https://www.ncbi.nlm.nih.gov/pubmed/31034851)
 Candemir E, Post A, Dischinger US, Palme R, Slattery DA, O'Leary A, Reif A,
 *Behavioural brain research*.  
@@ -260,7 +260,7 @@ Granatosky MC, Schmitt D,
 # GAIT/LOCOMOTION
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Reliability of the Closed Kinetic Chain Upper Extremity Stability Test in young adults.](https://www.ncbi.nlm.nih.gov/pubmed/31035171)
 Silva YA, Novaes WA, Dos Passos MHP, Nascimento VYS, Cavalcante BR, Pitangui ACR, De Araújo RC,
 *Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine*.  
@@ -317,7 +317,7 @@ Chen PB, Kim JH, Young L, Clark JM, Park Y,
 # JOINT/CARTILAGE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [The Effect of Cryotherapy Application to the Knee Joint on Dynamic Postural Stability.](https://www.ncbi.nlm.nih.gov/pubmed/31034322)
 Fullam K, Delahunt E, Caulfield B, Coughlan GF, McNulty W, Campbell D,
 *Journal of sport rehabilitation*.  
@@ -346,7 +346,7 @@ Espregueira-Mendes J, Andrade R, Silva L, Pereira B, Sevivas N, Bastos R,
 # METHODS
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Intracochlear Electrocochleography: Influence of Scalar Position of the Cochlear Implant Electrode on Postinsertion Results.](https://www.ncbi.nlm.nih.gov/pubmed/31033920)
 Riggs WJ, Dwyer RT, Holder JT, Mattingly JK, Ortmann A, Noble JH, Dawant BM, Valenzuela CV, O'Connell BP, Harris MS, Litvak LM, Koka K, Buchman CA, Labadie RF, Adunka OF,
 *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*.  
@@ -383,7 +383,7 @@ Pillunat KR, Herber R, Spoerl E, Erb C, Pillunat LE,
 # MODELING
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Development and validation of a geometrically personalized finite element model of the lower ligamentous cervical spine for clinical applications.](https://www.ncbi.nlm.nih.gov/pubmed/31035068)
 Nikkhoo M, Cheng CH, Wang JL, Khoz Z, El-Rich M, Hebela N, Khalaf K,
 *Computers in biology and medicine*.  
@@ -424,7 +424,7 @@ Bayoglu R, Galibarov PE, Verdonschot N, Koopman B, Homminga J,
 # NEURAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Long-Lasting Effects of Repeated Ketamine Administration in Adult and Adolescent Rats.](https://www.ncbi.nlm.nih.gov/pubmed/31034850)
 Shawn Bates ML, Trujillo KA,
 *Behavioural brain research*.  
@@ -573,7 +573,7 @@ Mayumi K, Danielle B, Lisa L, Alexanda F, Nathan C, Boyang Q, Ahmad ST, Bernard 
 # ORTHOPAEDICS/SPINE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [The influence of bilateral pedicle screw fixation on vibration response of the disc degenerated human lumbar spine: A finite element stress analysis.](https://www.ncbi.nlm.nih.gov/pubmed/31033465)
 Fan W, Guo LX,
 *Technology and health care : official journal of the European Society for Engineering and Medicine*.  
@@ -606,7 +606,7 @@ Jobidon-Lavergne H, Kadoury S, Knez D, Aubin CE,
 # ORTHOPAEDICS/SURGERY
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Fracture obliquity is a predictor for loss of reduction in supracondylar humeral fractures in older children.](https://www.ncbi.nlm.nih.gov/pubmed/31033871)
 Segal D, Cobb L, Little KJ,
 *Journal of pediatric orthopedics. Part B*.  
@@ -667,7 +667,7 @@ Holmes SW, Huff LW, Barnes AJ, Baier AJ,
 # REHABILITATION
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Single Sessions of High-Definition Transcranial Direct Current Stimulation Do Not Alter Lower Extremity Biomechanical or Corticomotor Response Variables Post-stroke.](https://www.ncbi.nlm.nih.gov/pubmed/31031579)
 Kindred JH, Kautz SA, Wonsetler EC, Bowden MG,
 *Frontiers in neuroscience*.  
@@ -688,7 +688,7 @@ Turner AJ, Chander H, Knight AC,
 # ROBOTICS
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Neuromechanical control of leg length and orientation in children and adults during single-leg hopping.](https://www.ncbi.nlm.nih.gov/pubmed/31030280)
 Beerse M, Wu J,
 *Experimental brain research*.  
@@ -705,7 +705,7 @@ Zhao Y, Xia H, Yao Y, Li R,
 # SPORT/EXERCISE
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Characteristics of Contact Force and Muscle Activation During Choreographed Falls With Two Common Landing Techniques in Contemporary Dance.](https://www.ncbi.nlm.nih.gov/pubmed/31034327)
 Van Ramshorst C, Choi WJ,
 *Journal of applied biomechanics*.  
@@ -742,7 +742,7 @@ Dyer B, Disley BX,
 # TENDON/LIGAMENT
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Patellar and hamstring autografts are associated with different jump task loading asymmetries after ACL reconstruction.](https://www.ncbi.nlm.nih.gov/pubmed/31034636)
 Miles JJ, King E, Falvey ÉC, Daniels KAJ,
 *Scandinavian journal of medicine & science in sports*.  
@@ -759,7 +759,7 @@ Thompson SM, Prinold JAI, Hill AM, Reilly P, Emery RJH, Bull AMJ,
 # TISSUE/BIOMATERIAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Bioengineered analog of stromal cell-derived factor 1α preserves the biaxial mechanical properties of native myocardium after infarction.](https://www.ncbi.nlm.nih.gov/pubmed/31035067)
 Wang H, Wisneski A, Paulsen MJ, Imbrie-Moore A, Wang Z, Xuan Y, Hernandez HL, Lucian HJ, Eskandari A, Thakore AD, Farry JM, Hironaka CE, von Bornstaedt D, Steele AN, Stapleton LM, Williams KM, Wu MA, MacArthur JW, Woo YJ,
 *Journal of the mechanical behavior of biomedical materials*.  
@@ -820,7 +820,7 @@ Zhu S, Schniederberend M, Zhitnitsky D, Jain R, Galán JE, Kazmierczak BI, Liu J
 # VETERINARY/AGRICULTURAL
 ----
 
-[Back to top](#table-of-contents)
+[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
 * [Comparison of antidepressant and side effects in mice after intranasal administration of (R,S)-ketamine, (R)-ketamine, and (S)-ketamine.](https://www.ncbi.nlm.nih.gov/pubmed/31034852)
 Chang L, Zhang K, Pu Y, Qu Y, Wang SM, Xiong Z, Ren Q, Dong C, Fujita Y, Hashimoto K,
 *Pharmacology, biochemistry, and behavior*.  
