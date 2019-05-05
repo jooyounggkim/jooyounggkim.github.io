@@ -3,7 +3,6 @@ title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-4-23-litupdate
 excerpt: <br>
-<<<<<<< HEAD
 toc: true
 toc_sticky: true
 toc_label: Topics
