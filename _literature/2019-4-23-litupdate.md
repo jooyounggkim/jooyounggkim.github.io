@@ -5,7 +5,7 @@ permalink: /literature/2019-4-23-litupdate
 excerpt: <br>
 toc: true
 toc_sticky: true
-toc_label: Topics
+toc_label: Topics 
 ---
 
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
