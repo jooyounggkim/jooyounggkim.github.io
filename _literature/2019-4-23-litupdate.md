@@ -1,7 +1,7 @@
 ---
 title: Biomechanics Literature Update
 collection: literature
-permalink: /literature/2019-4-23-litupdate2
+permalink: /literature/2019-4-23-litupdate
 excerpt: <br>
 <<<<<<< HEAD
 toc: true
