@@ -7,6 +7,7 @@ header:
 collection: project
 author_profile: false
 share: true
+layout: splash
 ---
 <br>
 For over 20 years, people in the Biomechanics community have searched publication databases for relevant articles, categorized them, and shared them with the Biomch-L community in the form of a weekly [Literature Update](https://biomch-l.isbweb.org/forums/7-Literature-Update). The first Literature Update post was by Dr. Rodger Kram in 1998 (at 2:02am!): 
