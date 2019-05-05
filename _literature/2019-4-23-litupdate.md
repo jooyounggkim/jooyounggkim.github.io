@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: Topics
 ---
 
-### Created by:[Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
+### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 
 ----
 # BONE
