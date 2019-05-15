@@ -43,68 +43,12 @@ Cosman MN, Britz HM, Rolian C,
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [CardioFAN: open source platform for noninvasive assessment of pulse transit time and pulsatile flow in hyperelastic vascular networks.](https://www.ncbi.nlm.nih.gov/pubmed/31076923)
-Seyed Vahedein Y, Liberson AS,
-*Biomechanics and modeling in mechanobiology*.  
-
 * [Euler's Elastica-Based Biomechanics of the Papillary Muscle Approximation in Ischemic Mitral Valve Regurgitation: A Simple 2D Analytical Model.](https://www.ncbi.nlm.nih.gov/pubmed/31075914)
 Nappi F, Carotenuto AR, Avtaar Singh SS, Mihos C, Fraldi M,
 *Materials (Basel, Switzerland)*.  
 
-* [Effect of Wall Elasticity on Hemodynamics and Wall Shear Stress in Patient-Specific Simulations in the Coronary Arteries.](https://www.ncbi.nlm.nih.gov/pubmed/31074768)
-Eslami P, Tran J, Jin Z, Karady J, Sotoodeh R, Lu MT, Hoffmann U, Marsden A,
-*Journal of biomechanical engineering*.  
-
-* [Inhibition of contraction strength and frequency by wall shear stress in a single-lymphangion model.](https://www.ncbi.nlm.nih.gov/pubmed/31074761)
-Bertram CD, Macaskill C, Moore JE,
-*Journal of biomechanical engineering*.  
-
-* [In vivo dynamics of the tracheal airway and its influences on respiratory airflows.](https://www.ncbi.nlm.nih.gov/pubmed/31074759)
-Sul B, Altes T, Ruppert K, Qing K, Hariprasad DS, Morris M, Reifman J, Wallqvist A,
-*Journal of biomechanical engineering*.  
-
-* [Model-based analysis of arterial pulse signals for tracking changes in arterial wall parameters: a pilot study.](https://www.ncbi.nlm.nih.gov/pubmed/31073807)
-Wang D, Reynolds L, Alberts T, Vahala L, Hao Z,
-*Biomechanics and modeling in mechanobiology*.  
-
-* [Mechanical stresses associated with flattening of human femoropopliteal artery specimens during planar biaxial testing and their effects on the calculated physiologic stress-stretch state.](https://www.ncbi.nlm.nih.gov/pubmed/31069592)
-Jadidi M, Desyatova A, MacTaggart J, Kamenskiy A,
-*Biomechanics and modeling in mechanobiology*.  
-
-* [Modeling the effect of blood vessel bifurcation ratio on occlusive thrombus formation.](https://www.ncbi.nlm.nih.gov/pubmed/31066295)
-Lakshmanan HHS, Shatzel JJ, Olson SR, McCarty OJT, Maddala J,
-*Computer methods in biomechanics and biomedical engineering*.  
-
-* [A computational model for understanding the micro-mechanics of collagen fiber network in the tunica adventitia.](https://www.ncbi.nlm.nih.gov/pubmed/31065952)
-Ayyalasomayajula V, Pierrat B, Badel P,
-*Biomechanics and modeling in mechanobiology*.  
-
-* [ChoRe: A device for trans-catheter chordae tendineae repair.](https://www.ncbi.nlm.nih.gov/pubmed/31064250)
-Culmone C, Ali A, Scali M, Menciassi A, Breedveld P,
-*Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine*.  
-
-* [Predictors for reoperation after lower limb amputation in patients with peripheral arterial disease.](https://www.ncbi.nlm.nih.gov/pubmed/31063045)
-Berli MC, Wanivenhaus F, Kabelitz M, Götschi T, Böni T, Rancic Z, Waibel FWA,
-*VASA. Zeitschrift fur Gefasskrankheiten*.  
-
-* [Layer-specific arterial micromechanics and microstructure: Influences of age, anatomical location, and processing technique.](https://www.ncbi.nlm.nih.gov/pubmed/31010593)
-Rafuse M, Xu X, Stenmark K, Neu CP, Yin X, Tan W,
-*Journal of biomechanics*.  
-
 * [In vitro analysis of blood flow in a microvascular network with realistic geometry.](https://www.ncbi.nlm.nih.gov/pubmed/30975487)
 Kodama Y, Aoki H, Yamagata Y, Tsubota K,
-*Journal of biomechanics*.  
-
-* [A critical comparison of different residence time measures in aneurysms.](https://www.ncbi.nlm.nih.gov/pubmed/30954250)
-Reza MMS, Arzani A,
-*Journal of biomechanics*.  
-
-* [MRI-based modeling of spleno-mesenteric confluence flow.](https://www.ncbi.nlm.nih.gov/pubmed/30928204)
-Rutkowski DR, Medero R, Garcia FJ, Roldán-Alzate A,
-*Journal of biomechanics*.  
-
-* [An in vitro investigation of the inflammatory response to the strain amplitudes which occur during high frequency oscillation ventilation and conventional mechanical ventilation.](https://www.ncbi.nlm.nih.gov/pubmed/30922612)
-Harris C, Thorpe SD, Rushwan S, Wang W, Thompson CL, Peacock JL, Knight MM, Gooptu B, Greenough A,
 *Journal of biomechanics*.  
 
 ----
@@ -127,14 +71,6 @@ Lee DK, Lee H, Yoon J, Hong S, Lee Y, Kim KT, Kim JW, Song MR,
 * [Active fluid with Acidithiobacillus ferrooxidans: correlations between swimming and the oxidation route.](https://www.ncbi.nlm.nih.gov/pubmed/31073789)
 Torrenegra JD, Agudelo-Morimitsu LC, Márquez-Godoy MA, Hernández-Ortiz JP,
 *Journal of biological physics*.  
-
-* [Domain specific mechanical modulation of VWF-ADAMTS13 interaction.](https://www.ncbi.nlm.nih.gov/pubmed/31067148)
-Li Z, Lin J, Sulchek T, Cruz MA, Wu J, Dong JF, Zhu C,
-*Molecular biology of the cell*.  
-
-* [Study of bovine sperm motility in shear-thinning viscoelastic fluids.](https://www.ncbi.nlm.nih.gov/pubmed/30954248)
-Hyakutake T, Sato K, Sugita K,
-*Journal of biomechanics*.  
 
 * [Dronpa: A Light-Switchable Fluorescent Protein for Opto-Biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/30912662)
 Jöhr R, Bauer MS, Schendel LC, Kluger C, Gaub HE,
@@ -160,10 +96,6 @@ Moran CJ, Young CM, Gerry SP,
 * [Attachment beyond the adhesive system: the contribution of claws in gecko clinging and locomotion.](https://www.ncbi.nlm.nih.gov/pubmed/31070737)
 Naylor ER, Higham TE,
 *Integrative and comparative biology*.  
-
-* [The clues are in the flow: how swim propulsion should be interpreted.](https://www.ncbi.nlm.nih.gov/pubmed/31070116)
-Soh J, Sanders R,
-*Sports biomechanics*.  
 
 * [Microbiota alter metabolism and mediate neurodevelopmental toxicity of 17β-estradiol.](https://www.ncbi.nlm.nih.gov/pubmed/31068624)
 Catron TR, Swank A, Wehmas LC, Phelps D, Keely SP, Brinkman NE, McCord J, Singh R, Sobus J, Wood CE, Strynar M, Wheaton E, Tal T,
@@ -208,10 +140,6 @@ Benowitz KM, Coleman JM, Matzkin LM,
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Contralateral preoperative templating of lower limbs' mechanical angles is a reasonable option.](https://www.ncbi.nlm.nih.gov/pubmed/31073842)
-Jacquet C, Laumonerie P, LiArno S, Faizan A, Sharma A, Dagneaux L, Ollivier M,
-*Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA*.  
-
 * [Distinct muscle-tendon interaction during running at different speeds and in different loading conditions.](https://www.ncbi.nlm.nih.gov/pubmed/31070955)
 Werkhausen A, Cronin NJ, Albracht K, Bojsen-Møller J, Seynnes OR,
 *Journal of applied physiology (Bethesda, Md. : 1985)*.  
@@ -224,29 +152,9 @@ Provot T, Chiementin X, Bolaers F, Murer S,
 Vidal AB, Monezi LA, Sarro KJ, Barros RML,
 *Sports biomechanics*.  
 
-* [Running and Walking Foot Loading in Children Aged 4-10 Years.](https://www.ncbi.nlm.nih.gov/pubmed/31034309)
-Mesquita PR, Neri SGR, Lima RM, Manfio EF, de David AC,
-*Journal of applied biomechanics*.  
-
-* [Dispersion of helical axes during shoulder movements in young and elderly subjects.](https://www.ncbi.nlm.nih.gov/pubmed/30926136)
-Temporiti F, Furone R, Cescon C, Barbero M, Gatti R,
-*Journal of biomechanics*.  
-
-* [Effects of vibration intensity on lower limb joint moments during standing.](https://www.ncbi.nlm.nih.gov/pubmed/30904333)
-Yang F, Underdahl M, Yang H, Yang C,
-*Journal of biomechanics*.  
-
 * [Postural stability during gait for adults with hereditary spastic paraparesis.](https://www.ncbi.nlm.nih.gov/pubmed/30862381)
 van Vugt Y, Stinear J, Claire Davies T, Zhang Y,
 *Journal of biomechanics*.  
-
-* [Anthropometric Changes During Pregnancy Provide Little Explanation of Dynamic Balance Changes.](https://www.ncbi.nlm.nih.gov/pubmed/30860422)
-Catena RD, Campbell N, Werner AL, Iverson KM,
-*Journal of applied biomechanics*.  
-
-* [The Influence of Motion Control, Neutral, and Cushioned Running Shoes on Lower Limb Kinematics.](https://www.ncbi.nlm.nih.gov/pubmed/30860416)
-Langley B, Cramp M, Morrison SC,
-*Journal of applied biomechanics*.  
 
 ----
 # JOINT/CARTILAGE
@@ -256,14 +164,6 @@ Langley B, Cramp M, Morrison SC,
 * [Towards Patient-Specific Computational Modelling of Articular Cartilage on the Basis of Advanced Multiparametric MRI Techniques.](https://www.ncbi.nlm.nih.gov/pubmed/31073178)
 Linka K, Schäfer A, Hillgärtner M, Itskov M, Knobe M, Kuhl C, Hitpass L, Truhn D, Thuering J, Nebelung S,
 *Scientific reports*.  
-
-* [Knee osteoarthritis risk is increased 4-6 fold after knee injury - a systematic review and meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/31072840)
-Poulsen E, Goncalves GH, Bricca A, Roos EM, Thorlund JB, Juhl CB,
-*British journal of sports medicine*.  
-
-* [A multiscale synthesis: characterizing acute cartilage failure under an aggregate tibiofemoral joint loading.](https://www.ncbi.nlm.nih.gov/pubmed/31069591)
-Adouni M, Faisal TR, Gaith M, Dhaher YY,
-*Biomechanics and modeling in mechanobiology*.  
 
 ----
 # METHODS
@@ -290,32 +190,12 @@ Peres J, Bastien C, Christensen J, Asgharpour Z,
 Herber R, Kaiser A, Grählert X, Range U, Raiskup F, Pillunat LE, Spörl E,
 *Der Ophthalmologe : Zeitschrift der Deutschen Ophthalmologischen Gesellschaft*.  
 
-* [Methodological considerations for kinematic analysis of upper limbs in healthy and poststroke adults Part II: a systematic review of motion capture systems and kinematic metrics.](https://www.ncbi.nlm.nih.gov/pubmed/31064281)
-Mesquita IA, Fonseca PFPD, Pinheiro ARV, Velhote Correia MFP, Silva CICD,
-*Topics in stroke rehabilitation*.  
-
-* [An image-based method to measure joint deformity in inflammatory arthritis: development and pilot study.](https://www.ncbi.nlm.nih.gov/pubmed/31064209)
-Henchie TF, Gravallese EM, Bredbenner TL, Troy KL,
-*Computer methods in biomechanics and biomedical engineering*.  
-
 * [Spectrum of skeletal disorders during the peripartum period: MRI patterns.](https://www.ncbi.nlm.nih.gov/pubmed/31063145)
 Vassalou EE, Klontzas ME, Tsifountoudis IP, Spanakis K, Karantanas AH,
 *Diagnostic and interventional radiology (Ankara, Turkey)*.  
 
-* [Measurement error in μCT-based three-dimensional geometric morphometrics introduced by surface generation and landmark data acquisition.](https://www.ncbi.nlm.nih.gov/pubmed/31062345)
-Engelkes K, Helfsgott J, Hammel JU, Büsse S, Kleinteich T, Beerlink A, Gorb SN, Haas A,
-*Journal of anatomy*.  
-
-* [Automated remote fall detection using impact features from video and audio.](https://www.ncbi.nlm.nih.gov/pubmed/30922611)
-Geertsema EE, Visser GH, Viergever MA, Kalitzin SN,
-*Journal of biomechanics*.  
-
 * [Age and body mass index associations with body segment parameters.](https://www.ncbi.nlm.nih.gov/pubmed/30914188)
 Merrill Z, Perera S, Chambers A, Cham R,
-*Journal of biomechanics*.  
-
-* [Reliability of medial-longitudinal-arch measures for skin-markers based kinematic analysis.](https://www.ncbi.nlm.nih.gov/pubmed/30910360)
-Caravaggi P, Matias AB, Taddei UT, Ortolani M, Leardini A, Sacco ICN,
 *Journal of biomechanics*.  
 
 * [Tests to Measure Core Stability in Laboratory and Field Settings: Reliability and Correlation Analyses.](https://www.ncbi.nlm.nih.gov/pubmed/30860424)
@@ -331,34 +211,6 @@ Vera-Garcia FJ, López-Plaza D, Juan-Recio C, Barbado D,
 Mohamed S, Coccarelli A, Mauro A, Massarotti N, Romano MR, Romano V, Nithiarasu P,
 *Biomechanics and modeling in mechanobiology*.  
 
-* [Musculoskeletal modelling of the human cervical spine for the investigation of injury mechanisms during axial impacts.](https://www.ncbi.nlm.nih.gov/pubmed/31071162)
-Silvestros P, Preatoni E, Gill HS, Gheduzzi S, Hernandez BA, Holsgrove TP, Cazzola D,
-*PloS one*.  
-
-* [Asymmetric cupula displacement due to endolymph vortex in the human semicircular canal.](https://www.ncbi.nlm.nih.gov/pubmed/31069593)
-Goyens J, Pourquie MJBM, Poelma C, Westerweel J,
-*Biomechanics and modeling in mechanobiology*.  
-
-* [Development and validation of a kinematically-driven discrete element model of the patellofemoral joint.](https://www.ncbi.nlm.nih.gov/pubmed/31003752)
-Gustafson JA, Elias JJ, Debski RE, Farrokhi S,
-*Journal of biomechanics*.  
-
-* [Characterization of the passive mechanical properties of spine muscles across species.](https://www.ncbi.nlm.nih.gov/pubmed/30967251)
-Zwambag DP, Gsell KY, Brown SHM,
-*Journal of biomechanics*.  
-
-* [Development of a statistical shape-function model of the implanted knee for real-time prediction of joint mechanics.](https://www.ncbi.nlm.nih.gov/pubmed/30928205)
-Gibbons KD, Clary CW, Rullkoetter PJ, Fitzpatrick CK,
-*Journal of biomechanics*.  
-
-* [A mathematical model to investigate the effects of intravenous fluid administration and fluid loss.](https://www.ncbi.nlm.nih.gov/pubmed/30914190)
-Rosalina TT, Bouwman RA, van Sambeek MRHM, van de Vosse FN, Bovendeerd PHM,
-*Journal of biomechanics*.  
-
-* [Improving the prediction of sideways fall-induced impact force for women by developing a female-specific equation.](https://www.ncbi.nlm.nih.gov/pubmed/30902414)
-Sarvi MN, Luo Y,
-*Journal of biomechanics*.  
-
 ----
 # NEURAL
 ----
@@ -371,10 +223,6 @@ Guo H, Xie Q, Cui J, Xu D, Deji C, Chen Y, Wang Y, Lai J,
 * [Behaviour and neuropathology in mice injected with human contactin-associated protein 2 antibodies.](https://www.ncbi.nlm.nih.gov/pubmed/31079141)
 Giannoccaro MP, Menassa DA, Jacobson L, Coutinho E, Prota G, Lang B, Leite MI, Cerundolo V, Liguori R, Vincent A,
 *Brain : a journal of neurology*.  
-
-* [Complexity matching and coordination in individual and dyadic performance.](https://www.ncbi.nlm.nih.gov/pubmed/31078945)
-Schloesser DS, Kello CT, Marmelat V,
-*Human movement science*.  
 
 * [Monoaminergic system is implicated in the antidepressant-like effect of hyperoside and protocatechuic acid isolated from Impatiens glandulifera Royle in mice.](https://www.ncbi.nlm.nih.gov/pubmed/31077758)
 Orzelska-Górka J, Szewczyk K, Gawrońska-Grzywacz M, Kędzierska E, Głowacka E, Herbet M, Dudka J, Biała G,
@@ -449,21 +297,9 @@ Balikci T, Kıyak G, Heydar AM, Bawaneh MK, Bezer M,
 Rubinic DM, Koo V, Dudley J, Owens SC,
 *Journal of manipulative and physiological therapeutics*.  
 
-* [Quasi-automatic early detection of progressive idiopathic scoliosis from biplanar radiography: a preliminary validation.](https://www.ncbi.nlm.nih.gov/pubmed/31076919)
-Vergari C, Gajny L, Courtois I, Ebermeyer E, Abelin-Genevois K, Kim Y, Langlais T, Vialle R, Assi A, Ghanem I, Dubousset J, Skalli W,
-*European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society*.  
-
 * [Biomechanical implications of unilateral facetectomy, unilateral facetectomy plus partial contralateral facetectomy, and complete bilateral facetectomy in minimally invasive transforaminal interbody fusion.](https://www.ncbi.nlm.nih.gov/pubmed/31075766)
 Snyder LA, Lehrman JN, Menon RK, Godzik J, Newcomb AGUS, Kelly BP,
 *Journal of neurosurgery. Spine*.  
-
-* [The effect of extensible and non-extensible lumbar belts on trunk muscle activity and lumbar stiffness in subjects with and without low-back pain.](https://www.ncbi.nlm.nih.gov/pubmed/31075735)
-Ludvig D, Preuss R, Larivière C,
-*Clinical biomechanics (Bristol, Avon)*.  
-
-* [Partitioning the total seatback reaction force amongst the lumbar spine motion segments during simulated rear impact collisions.](https://www.ncbi.nlm.nih.gov/pubmed/31072236)
-Zehr JD, Fewster KM, Gooyers CE, Parkinson RJ, Callaghan JP,
-*International journal of occupational safety and ergonomics : JOSE*.  
 
 * [Finite element analysis of a ball-and-socket artificial disc design to suppress excessive loading on facet joints: a comparative study with ProDisc.](https://www.ncbi.nlm.nih.gov/pubmed/31070301)
 Choi J, Shin DA, Kim S,
@@ -473,27 +309,11 @@ Choi J, Shin DA, Kim S,
 Liu H, Wang H, Liu J, Li C, Zhou Y, Xiang L,
 *Journal of orthopaedic surgery and research*.  
 
-* [Numerical simulations of bone remodelling and formation following nucleotomy.](https://www.ncbi.nlm.nih.gov/pubmed/30948042)
-Calvo-Echenique A, Bashkuev M, Reitmaier S, Pérez-Del Palomar A, Schmidt H,
-*Journal of biomechanics*.  
-
-* [Incorporating loading variability into in vitro injury analyses and its effect on cumulative compression tolerance in porcine cervical spine units.](https://www.ncbi.nlm.nih.gov/pubmed/30904332)
-Zehr JD, Tennant LM, Callaghan JP,
-*Journal of biomechanics*.  
-
-* [Comparative Strength and Endurance Parameters of the Craniocervical and Cervicothoracic Extensors and Flexors in Females With and Without Idiopathic Neck Pain.](https://www.ncbi.nlm.nih.gov/pubmed/30860406)
-O'Leary S, Hoogma C, Solberg ØM, Sundberg S, Pedler A, Van Wyk L,
-*Journal of applied biomechanics*.  
-
 ----
 # ORTHOPAEDICS/SURGERY
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Early femoral component migration: comparing the anterior and posterior approach to the hip.](https://www.ncbi.nlm.nih.gov/pubmed/31081380)
-Culliton K, Louati H, Sandoval E, Gofton W, Pagé A, Gharib G, Beaulé PE,
-*Hip international : the journal of clinical and experimental research on hip pathology and therapy*.  
-
 * [Initial stability of one-stage anterior debridement and cage implantation combined with anterior-lateral fixation by a dual screw-rod construct in the treatment of lumbosacral tuberculosis: a cadaveric biomechanical study.](https://www.ncbi.nlm.nih.gov/pubmed/31077171)
 Liu J, Gao Y, Gao Z, Niu B, Lv D, Yang Y,
 *BMC musculoskeletal disorders*.  
@@ -522,10 +342,6 @@ Grünewald D, Langenmair E, Hirschmüller A, Maier D, Südkamp NP, Konstantinidi
 Wu XB, Wang JQ, Sun X, Han W,
 *Orthopaedic surgery*.  
 
-* [The choice of the femoral center of rotation affects material loss in total knee replacement wear testing - A parametric finite element study of ISO 14243-3.](https://www.ncbi.nlm.nih.gov/pubmed/30940359)
-Mell SP, Wimmer MA, Lundberg HJ,
-*Journal of biomechanics*.  
-
 ----
 # REHABILITATION
 ----
@@ -535,17 +351,9 @@ Mell SP, Wimmer MA, Lundberg HJ,
 Conway D, Ladlow P, Ferreira J, Mani-Babu S, Bennett AN,
 *Journal of the Royal Army Medical Corps*.  
 
-* [Exercise-based games interventions at home in individuals with a neurological disease: a systematic review and meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/31078706)
-Perrochon A, Borel B, Istrate D, Compagnat M, Daviet JC,
-*Annals of physical and rehabilitation medicine*.  
-
 * [Gait training using a robotic hip exoskeleton improves metabolic gait efficiency in the elderly.](https://www.ncbi.nlm.nih.gov/pubmed/31073188)
 Martini E, Crea S, Parri A, Bastiani L, Faraguna U, McKinney Z, Molino-Lova R, Pratali L, Vitiello N,
 *Scientific reports*.  
-
-* [It is good to feel better, but better to feel good: whether a patient finds treatment 'successful' or not depends on the questions researchers ask.](https://www.ncbi.nlm.nih.gov/pubmed/31072841)
-Roos EM, Boyle E, Frobell RB, Lohmander LS, Ingelsrud LH,
-*British journal of sports medicine*.  
 
 * [Biomechanical Evaluation of Three-Dimensional Printed Dynamic Hand Device for Patients with Chronic Stroke.](https://www.ncbi.nlm.nih.gov/pubmed/31071047)
 Huang TY, Pan LH, Yang WW, Huanga LY, Sun PC, Chen CS,
@@ -593,10 +401,6 @@ Demarie S, Chirico E, Gianfelici A, Vannozzi G,
 Hiley MJ, Bajwa Z, Liang Y, Blenkinsop GM,
 *Sports biomechanics*.  
 
-* [Acute and longitudinal effects of weighted vest training on sprint-running performance: a systematic review.](https://www.ncbi.nlm.nih.gov/pubmed/31070108)
-Macadam P, Cronin JB, Feser EH,
-*Sports biomechanics*.  
-
 * [Differences in trunk and upper extremity kinematics and segmental velocities during the offside forehand polo swing between male and female athletes.](https://www.ncbi.nlm.nih.gov/pubmed/31068097)
 Oliver GD, Gilmer GG, Barfield JW, Brittain AR,
 *Journal of sports sciences*.  
@@ -613,19 +417,11 @@ Roscoe CMP, James RS, Duncan MJ,
 Shultz SP, Carpes F, Furlong LA, Landry S, DeVita P,
 *Journal of biomechanics*.  
 
-* [Optimization of the flight technique in ski jumping: The influence of wind.](https://www.ncbi.nlm.nih.gov/pubmed/30940358)
-Jung A, Müller W, Staat M,
-*Journal of biomechanics*.  
-
 ----
 # TENDON/LIGAMENT
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Ultrasonic strain elastography for detecting abnormalities in the supraspinatus tendon: an intra- and inter-rater reliability study.](https://www.ncbi.nlm.nih.gov/pubmed/31072860)
-Brage K, Hjarbaek J, Kjaer P, Ingwersen KG, Juul-Kristensen B,
-*BMJ open*.  
-
 * [The Medial Patellofemoral Ligament Is a Dynamic and Anisometric Structure: An In Vivo Study on Length Changes and Isometry.](https://www.ncbi.nlm.nih.gov/pubmed/31070936)
 Kernkamp WA, Wang C, Li C, Hu H, van Arkel ERA, Nelissen RGHH, LaPrade RF, van de Velde SK, Tsai TY,
 *The American journal of sports medicine*.  
@@ -633,18 +429,6 @@ Kernkamp WA, Wang C, Li C, Hu H, van Arkel ERA, Nelissen RGHH, LaPrade RF, van d
 * [Characterization of moderate tendinopathy in ex vivo stress-deprived rat tail tendons.](https://www.ncbi.nlm.nih.gov/pubmed/31068196)
 Jafari L, Savard M, Gobeil F, Langelier E,
 *Biomedical engineering online*.  
-
-* [Three-dimensional in vivo kinematics and finite helical axis variables of the ovine stifle joint following partial anterior cruciate ligament transection.](https://www.ncbi.nlm.nih.gov/pubmed/30955851)
-Barton KI, Shekarforoush M, Heard BJ, Sevick JL, Martin CR, Frank CB, Hart DA, Shrive NG,
-*Journal of biomechanics*.  
-
-* [The mechanical and biochemical properties of tail tendon in a rat model of obesity: Effect of moderate exercise and prebiotic fibre supplementation.](https://www.ncbi.nlm.nih.gov/pubmed/30954249)
-Rios JL, Ko L, Joumaa V, Liu S, Diefenthaeler F, Sawatsky A, Hart DA, Reimer RA, Herzog W,
-*Journal of biomechanics*.  
-
-* [Quantitative comparison of three rat models of Achilles tendon injury: A multidisciplinary approach.](https://www.ncbi.nlm.nih.gov/pubmed/30952452)
-Huegel J, Boorman-Padgett JF, Nuss CA, Minnig MCC, Chan PY, Kuntz AF, Waldorff EI, Zhang N, Ryaby JT, Soslowsky LJ,
-*Journal of biomechanics*.  
 
 ----
 # TISSUE/BIOMATERIAL
@@ -691,10 +475,6 @@ Levy A, Kottner J, Gefen A,
 Chiang ER, Ma HL, Wang JP, Chang MC, Liu CL, Chen TH, Hung SC,
 *Journal of orthopaedic research : official publication of the Orthopaedic Research Society*.  
 
-* [Sensitivity of multifrequency magnetic resonance elastography and diffusion-weighted imaging to cellular and stromal integrity of liver tissue.](https://www.ncbi.nlm.nih.gov/pubmed/30961968)
-de Schellenberger AA, Tzschätzsch H, Polchlopek B, Bertalan G, Schrank F, Garczynska K, Janmey PA, Braun J, Sack I,
-*Journal of biomechanics*.  
-
 ----
 # VETERINARY/AGRICULTURAL
 ----
@@ -703,10 +483,6 @@ de Schellenberger AA, Tzschätzsch H, Polchlopek B, Bertalan G, Schrank F, Garcz
 * [Lameness and lying behavior in grazing dairy cows.](https://www.ncbi.nlm.nih.gov/pubmed/31079902)
 Thompson AJ, Weary DM, Bran JA, Daros RR, Hötzel MJ, von Keyserlingk MAG,
 *Journal of dairy science*.  
-
-* [Clinical practice guidelines for the management of olfactory dysfunction - Secondary publication.](https://www.ncbi.nlm.nih.gov/pubmed/31076272)
-Miwa T, Ikeda K, Ishibashi T, Kobayashi M, Kondo K, Matsuwaki Y, Ogawa T, Shiga H, Suzuki M, Tsuzuki K, Furuta A, Motoo Y, Fujieda S, Kurono Y,
-*Auris, nasus, larynx*.  
 
 * [Health, behaviour and growth performance of Charolais and Limousin bulls fattened on different types of flooring.](https://www.ncbi.nlm.nih.gov/pubmed/31062671)
 Magrin L, Gottardo F, Brscic M, Contiero B, Cozzi G,
