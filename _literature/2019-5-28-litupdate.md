@@ -2,7 +2,7 @@
 layout: single
 title: Biomechanics Literature Update
 collection: literature
-permalink: /literature/2019-5-29-litupdate
+permalink: /literature/2019-5-28-litupdate
 excerpt: <br>
 toc: true
 toc_sticky: true
