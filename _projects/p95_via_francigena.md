@@ -10,8 +10,8 @@ classes: single
 share: true
 ---
 
-# Via Francigena by Bike
-### A 10-day, 400 mile bike journey through Italy, from Parma to Rome. A tale of Bikes and Beer. 
+# Via Francigena by Bike:
+### A tale of Bikes and Beer 
 <br>
 <style>
     .google-maps {
