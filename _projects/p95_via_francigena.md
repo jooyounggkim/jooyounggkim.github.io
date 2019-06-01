@@ -1,8 +1,8 @@
 ---
 layout: splash
 collection: projects
-title: Bike Trip
-excerpt: Riding Via Francigena
+title: Via Francigena by Bike
+excerpt: 400 mile bike trip along through Italy, from Parma to Rome.
 header:
   teaser: /via_francigena/viafrancigena.png
 twitter_image: /via_francigena/viafrancigena.png
