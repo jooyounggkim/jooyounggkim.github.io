@@ -1,14 +1,17 @@
 ---
 layout: splash
 collection: projects
-title: Via Francigena by Bike
-excerpt: 400 mile bike trip along through Italy, from Parma to Rome.
+title: Italy's Via Francigena by Bike
+excerpt: 10-day, 400 mile bike trip through Italy, from Parma to Rome.
 header:
   teaser: /via_francigena/viafrancigena_logo.png
 twitter_image: /via_francigena/viafrancigena_logo.png
-classes: wide
+classes: single
 share: true
 ---
+
+# Via Francigena by Bike
+#### A 10-day, 400 mile bike journey through Italy, from Parma to Rome. A tale of Bikes and Beer. 
 
 <style>
     .google-maps {
