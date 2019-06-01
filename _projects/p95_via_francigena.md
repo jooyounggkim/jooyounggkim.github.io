@@ -10,9 +10,8 @@ classes: single
 share: true
 ---
 
-# Via Francigena by Bike:
-### A tale of Bikes and Beer 
-<br>
+# Via Francigena by Bike: A Tale of Bikes and Beer  
+
 <style>
     .google-maps {
         position: relative;
