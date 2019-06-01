@@ -4,8 +4,8 @@ collection: projects
 title: Bike Trip
 excerpt: Riding Via Francigena
 header:
-  teaser: nbd_logo.jpg
-twitter_image: nbd_logo.jpg
+  teaser: /via_francigena/viafrancigena.png
+twitter_image: /via_francigena/viafrancigena.png
 classes: wide
 share: true
 ---
