@@ -15,7 +15,7 @@ share: true
 <style>
     .google-maps {
         position: relative;
-        padding-bottom: 60%; // This is the aspect ratio
+        padding-bottom: 50%; // This is the aspect ratio
         height: 0;
         overflow: hidden;
     }
