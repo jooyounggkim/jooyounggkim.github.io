@@ -18,7 +18,7 @@ I like to run, snowboard, play Dungeons & Dragons, and program in my spare time.
 In 2015 I completed a BSc in Applied Human Physiology at Seattle Pacific University, where I worked with [Dr. Cara Wall-Scheffler](https://wallscheffler.wordpress.com/) 
 to investigate the physiological and biomechanical effects of pushing a stroller while running.
 After graduating from SPU, I worked as a researcher in the Biomechanics Lab at Brooks Running, where I investigated the effects of footwear on running injury and performance.
-In 2019 I completed a Masters degree at CU Boulder in 2019, where I investigated the effects of running prosthetic leg mass on running economy and biomechanical asymmetry.
+I completed a Masters degree at CU Boulder in 2019, where I investigated the effects of running prosthetic leg mass on running economy and biomechanical asymmetry.
 
 
 
