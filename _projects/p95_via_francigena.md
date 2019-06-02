@@ -10,7 +10,7 @@ classes: single
 share: true
 ---
 
-# Via Francigena by Bike: A Tale of Bikes and Beer  
+# Via Francigena by Bike
 ### Open sidebar (button on top-left of map) or select waypoints to read about our journey! 
 <style>
     .google-maps {
