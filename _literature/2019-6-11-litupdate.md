@@ -3,7 +3,7 @@ layout: single
 title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-6-11-litupdate
-excerpt: <br>
+excerpt: This is a test Excerpt. Biomechanical Indices are more sensitive than diameter in predicting rupture of asymptomatic abdomical aortic aneurysms
 toc: true
 toc_sticky: true
 toc_label: Topics
