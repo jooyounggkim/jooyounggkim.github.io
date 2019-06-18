@@ -3,7 +3,7 @@ layout: single
 title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-6-18-litupdate
-excerpt: <br>
+excerpt: Generated from a weekly PubMed search & categorized by a machine learning algorithm trained on 50,000 biomechanics-related publications.
 toc: true
 toc_sticky: true
 toc_label: Topics
