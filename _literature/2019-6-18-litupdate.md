@@ -35,7 +35,7 @@ Kaur R, Ajitha M,
 *European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences*.  
 (61.8%) 
 
-* [Stimulation of fracture healing by growth factors and cell-based technologies]](https://www.ncbi.nlm.nih.gov/pubmed/31201492)
+* [Stimulation of fracture healing by growth factors and cell-based technologies](https://www.ncbi.nlm.nih.gov/pubmed/31201492)
 Everding J, Stolberg-Stolberg J, Raschke MJ, Stange R,
 *Der Unfallchirurg*.  
 (88.7%) 
@@ -645,7 +645,7 @@ Ahn CB, Son KH, Yu YS, Kim TH, Lee JI, Lee JW,
 *Biomedical materials (Bristol, England)*.  
 (90.5%) 
 
-* [Corneal Biomechanics and Measurement of Intraocular Pressure Measurement in Pathological Corneas]](https://www.ncbi.nlm.nih.gov/pubmed/31195413)
+* [Corneal Biomechanics and Measurement of Intraocular Pressure Measurement in Pathological Corneas](https://www.ncbi.nlm.nih.gov/pubmed/31195413)
 Luebke J, Maier PC,
 *Klinische Monatsblatter fur Augenheilkunde*.  
 (49.4%) 
