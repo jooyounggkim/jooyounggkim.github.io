@@ -305,7 +305,7 @@ Khasawneh RR, Allouh MZ, Abu-El-Rub E,
 *PloS one*.  
 (38.4%) 
 
-* [Study on corneal biomechanical properties of suspicious keratoconus patients in corneal topography]](https://www.ncbi.nlm.nih.gov/pubmed/31189274)
+* [Study on corneal biomechanical properties of suspicious keratoconus patients in corneal topography](https://www.ncbi.nlm.nih.gov/pubmed/31189274)
 Zhang YH, Wang Y, Li LY, Zhang L, Wei PH,
 *[Zhonghua yan ke za zhi] Chinese journal of ophthalmology*.  
 (41.9%) 
