@@ -235,7 +235,7 @@ Li SSW, Chow DHK,
 *Human factors*.  
 (91.9%) 
 
-* [Update: Clinical imaging of cartilage-part 2 : Aspects helpul in daily clinical practice]](https://www.ncbi.nlm.nih.gov/pubmed/31187161)
+* [Update: Clinical imaging of cartilage-part 2 : Aspects helpul in daily clinical practice](https://www.ncbi.nlm.nih.gov/pubmed/31187161)
 Glaser C, Heuck A, Horng A,
 *Der Radiologe*.  
 (47.7%) 
