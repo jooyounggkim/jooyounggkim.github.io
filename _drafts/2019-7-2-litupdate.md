@@ -1292,7 +1292,7 @@ Müller S, Flury R, Zimmermann S, de Wild M, Fogerty S, Lafosse L, Bongiorno V, 
 *Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA*.  
 47.4% ORTHOPAEDICS/SURGERY; 43.2% TENDON/LIGAMENT
 
-* [Atraumatic and aseptic osteonecrosis of large joints]](https://www.ncbi.nlm.nih.gov/pubmed/31250028)
+* [Atraumatic and aseptic osteonecrosis of large joints](https://www.ncbi.nlm.nih.gov/pubmed/31250028)
 Grieser T,
 *Der Radiologe*.  
 20.0% GAIT/LOCOMOTION; 18.0% COMPARATIVE
