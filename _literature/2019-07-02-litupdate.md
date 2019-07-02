@@ -623,7 +623,7 @@ Kim TI, Jung W, Chung JY, Jeong H, Kim SH,
 *Journal of orthopaedic surgery and research*.  
 (61.9%) 
 
-* [Finite element analysis on biomechanical properties of medial collateral ligament of elbow joint under different flexion angles]](https://www.ncbi.nlm.nih.gov/pubmed/31232542)
+* [Finite element analysis on biomechanical properties of medial collateral ligament of elbow joint under different flexion angles](https://www.ncbi.nlm.nih.gov/pubmed/31232542)
 Pan K, Wang F, Zhang J, Li M, Shi P, Cao Z, Zhou J,
 *Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi*.  
 (91.8%) 
