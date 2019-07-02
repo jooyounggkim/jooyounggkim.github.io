@@ -420,6 +420,10 @@ Allen SA, Tran LH, Oakes HV, Brown RW, Pond BB,
 *Neurotoxicity research*.  
 (75.3%) 
 
+* [Adaptation of Running Biomechanics to Repeated Barefoot Running: A Randomized Controlled Study.](https://www.ncbi.nlm.nih.gov/pubmed/31166116)
+Hollander K, Liebl D, Meining S, Mattes K, Willwacher S, Zech A,
+*The American journal of sports medicine*.  
+
 ----
 # JOINT/CARTILAGE
 ----
@@ -494,6 +498,10 @@ Qing Q, Zhang YJ, Yang JL, Ning LJ, Zhang YJ, Jiang YL, Zhang Y, Luo JC, Qin TW,
 Shapira Y, Sammons V, Forden J, Guo GF, Kipp A, Girgulis J, Mishra T, de Villers Alant JD, Midha R,
 *Neurosurgery*.  
 (95.7%) 
+
+* [Establishing outcome measures in early knee osteoarthritis.](https://www.ncbi.nlm.nih.gov/pubmed/31201386)
+Emery CA, Whittaker JL, Mahmoudian A, Lohmander LS, Roos EM, Bennell KL, Toomey CM, Reimer RA, Thompson D, Ronsky JL, Kuntze G, Lloyd DG, Andriacchi T, Englund M, Kraus VB, Losina E, Bierma-Zeinstra S, Runhaar J, Peat G, Luyten FP, Snyder-Mackler L, Risberg MA, Mobasheri A, Guermazi A, Hunter DJ, Arden NK,
+*Nature reviews. Rheumatology*. 
 
 ----
 # METHODS
@@ -1095,6 +1103,10 @@ Jeanblanc J, Sauton P, Jeanblanc V, Legastelois R, Echeverry-Alzate V, Lebourgeo
 *Addiction biology*.  
 (99.0%) 
 
+* [Integrated Analysis of Young Swimmers' Sprint Performance.](https://www.ncbi.nlm.nih.gov/pubmed/30599800)
+Silva AF, Figueiredo P, Ribeiro J, Alves F, Vilas-Boas JP, Seifert L, Fernandes RJ,
+*Motor control*.  
+
 ----
 # TENDON/LIGAMENT
 ----
@@ -1251,7 +1263,7 @@ Hashizume S, Hobara H, Kobayashi Y,
 (45.5%) 
 
 ----
-# unknown: Num=45
+# Unclear Category
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
@@ -1259,11 +1271,6 @@ Hashizume S, Hobara H, Kobayashi Y,
 Hu R, Chen X, Huang C, Cao S, Zhang X, Chen X,
 *Journal of neural engineering*.  
 27.5% MODELING; 26.9% METHODS
-
-* [Exposure to cadmium causes inhibition of otolith development and behavioral impairment in zebrafish larvae.](https://www.ncbi.nlm.nih.gov/pubmed/31260825)
-Han J, Liu K, Wang R, Zhang Y, Zhou B,
-*Aquatic toxicology (Amsterdam, Netherlands)*.  
-25.4% CELLULAR/SUBCELLULAR; 24.1% COMPARATIVE
 
 * [Iliopsoas Mass, Hydroureter, and Back Squats: Using Biomechanics and Diagnostic Persistence to Diagnose a Germ Cell Tumor.](https://www.ncbi.nlm.nih.gov/pubmed/31258427)
 Berry AC, Fussell J, Shapira G, Dawson W, Hogue A,
@@ -1280,70 +1287,30 @@ Unal G, Canbeyli R,
 *Behavioural brain research*.  
 26.9% COMPARATIVE; 23.0% NEURAL
 
-* [Modeling of antipsychotics-induced metabolic alterations in mice: An experimental approach precluding psychosis as a predisposing factor.](https://www.ncbi.nlm.nih.gov/pubmed/31254565)
-Singh R, Bansal Y, Sodhi RK, Saroj P, Medhi B, Kuhad A,
-*Toxicology and applied pharmacology*.  
-15.1% VETERINARY/AGRICULTURAL; 14.2% BONE
-
 * [The new LassoLoop360° technique for biomechanically superior tissue grip.](https://www.ncbi.nlm.nih.gov/pubmed/31254030)
 Müller S, Flury R, Zimmermann S, de Wild M, Fogerty S, Lafosse L, Bongiorno V, Rosso C,
 *Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA*.  
 47.4% ORTHOPAEDICS/SURGERY; 43.2% TENDON/LIGAMENT
-
-* [Substrate Compliance Directs the Osteogenic Lineages of Stem Cells from the Human Apical Papilla via the Processes of Mechanosensing and Mechanotransduction.](https://www.ncbi.nlm.nih.gov/pubmed/31251564)
-Zhou C, Zhang D, Zou J, Li X, Zou S, Xie J,
-*ACS applied materials & interfaces*.  
-49.6% GAIT/LOCOMOTION; 34.8% NEURAL
 
 * [Atraumatic and aseptic osteonecrosis of large joints]](https://www.ncbi.nlm.nih.gov/pubmed/31250028)
 Grieser T,
 *Der Radiologe*.  
 20.0% GAIT/LOCOMOTION; 18.0% COMPARATIVE
 
-* [The Analysis of the Causes of Sudden Deaths Among Workers of Locomotive Crews]](https://www.ncbi.nlm.nih.gov/pubmed/31242840)
-Zhidkova EA, Naigovzina NB, Kalinin MR, Gutor EM, Gurevich KG,
-*Kardiologiia*.  
-55.3% GAIT/LOCOMOTION; 37.0% SPORT/EXERCISE
-
-* [E46K mutant α-synuclein is more degradation resistant and exhibits greater toxic effects than wild-type α-synuclein in Drosophila models of Parkinson's disease.](https://www.ncbi.nlm.nih.gov/pubmed/31242217)
-Sakai R, Suzuki M, Ueyama M, Takeuchi T, Minakawa EN, Hayakawa H, Baba K, Mochizuki H, Nagai Y,
-*PloS one*.  
-34.9% GAIT/LOCOMOTION; 31.8% SPORT/EXERCISE
-
 * [Development of pelvic incidence and lumbar lordosis in children and adolescents.](https://www.ncbi.nlm.nih.gov/pubmed/31241249)
 Bailey JF, Shefi S, Soudack M, Kramer PA, Been E,
 *Anatomical record (Hoboken, N.J. : 2007)*.  
 22.0% NEURAL; 20.6% MODELING
-
-* [Dissecting fat-tailed fluctuations in the cytoskeleton with active micropost arrays.](https://www.ncbi.nlm.nih.gov/pubmed/31239336)
-Shi Y, Porter CL, Crocker JC, Reich DH,
-*Proceedings of the National Academy of Sciences of the United States of America*.  
-41.1% TENDON/LIGAMENT; 35.6% ORTHOPAEDICS/SURGERY
 
 * [Extensor pollicis longus rerouting for thumb-in-palm deformity in cerebral palsy: a biomechanical analysis.](https://www.ncbi.nlm.nih.gov/pubmed/31238779)
 Alewijnse JV, Kreulen M, van Loon J, Smeulders MJC,
 *The Journal of hand surgery, European volume*.  
 13.2% GAIT/LOCOMOTION; 12.6% REHABILITATION
 
-* [Incarvillateine produces antinociceptive and motor suppressive effects via adenosine receptor activation.](https://www.ncbi.nlm.nih.gov/pubmed/31237895)
-Kim J, Bogdan DM, Elmes MW, Awwa M, Yan S, Che J, Lee G, Deutsch DG, Rizzo RC, Kaczocha M, Ojima I,
-*PloS one*.  
-36.3% ORTHOPAEDICS/SURGERY; 34.1% VETERINARY/AGRICULTURAL
-
 * [Current Concepts in Osteoarthritis of the Ankle: Review.](https://www.ncbi.nlm.nih.gov/pubmed/31237341)
 Khlopas H, Khlopas A, Samuel LT, Ohliger E, Sultan AA, Chughtai M, Mont MA,
 *Surgical technology international*.  
 45.6% ORTHOPAEDICS/SURGERY; 37.2% TENDON/LIGAMENT
-
-* [Management of severe stifle trauma: 2. Periarticular fractures.](https://www.ncbi.nlm.nih.gov/pubmed/31234746)
-Conte A, Addison E,
-*Journal of feline medicine and surgery*.  
-20.1% COMPARATIVE; 17.6% NEURAL
-
-* [Autism-associated missense genetic variants impact locomotion and neurodevelopment in Caenorhabditis elegans.](https://www.ncbi.nlm.nih.gov/pubmed/31220273)
-Wong WR, Brugman KI, Maher S, Oh JY, Howe K, Kato M, Sternberg PW,
-*Human molecular genetics*.  
-32.6% MODELING; 25.4% METHODS
 
 * [Measuring Tensile Strength to Better Establish Protective Capacity of Sacral Prophylactic Dressings Over 7 Days of Laboratory Aging.](https://www.ncbi.nlm.nih.gov/pubmed/31219898)
 Burton JN, Fredrickson AG, Capunay C, Tanner L, Oberg C, Santamaria N, Gefen A, Call E,
@@ -1358,27 +1325,12 @@ Galletta L, Stephens NB, Bardo A, Kivell TL, Marchi D,
 * [Finite Element Based-Analysis for Pre and Post Lumbar Fusion of Adult Degenerative Scoliosis Patients.](https://www.ncbi.nlm.nih.gov/pubmed/31202369)
 Haddas R, Xu M, Lieberman I, Yang J,
 *Spine deformity*.  
-51.9% METHODS; 39.2% GAIT/LOCOMOTION
-
-* [Establishing outcome measures in early knee osteoarthritis.](https://www.ncbi.nlm.nih.gov/pubmed/31201386)
-Emery CA, Whittaker JL, Mahmoudian A, Lohmander LS, Roos EM, Bennell KL, Toomey CM, Reimer RA, Thompson D, Ronsky JL, Kuntze G, Lloyd DG, Andriacchi T, Englund M, Kraus VB, Losina E, Bierma-Zeinstra S, Runhaar J, Peat G, Luyten FP, Snyder-Mackler L, Risberg MA, Mobasheri A, Guermazi A, Hunter DJ, Arden NK,
-*Nature reviews. Rheumatology*.  
-21.6% CELLULAR/SUBCELLULAR; 21.2% NEURAL
-
-* [Establishing simple image-based methods and a cost-effective instrument for toxicity assessment on circadian rhythm dysregulation in fish.](https://www.ncbi.nlm.nih.gov/pubmed/31182629)
-Audira G, Sampurna BP, Juniardi S, Liang ST, Lai YH, Han L, Hsiao CD,
-*Biology open*.  
-19.2% SPORT/EXERCISE; 18.5% REHABILITATION
+51.9% METHODS; 39.2% GAIT/LOCOMOTION 
 
 * [Exploratory locomotion, a predictor of addiction vulnerability, is oligogenic in rats selected for this phenotype.](https://www.ncbi.nlm.nih.gov/pubmed/31182603)
 Zhou Z, Blandino P, Yuan Q, Shen PH, Hodgkinson CA, Virkkunen M, Watson SJ, Akil H, Goldman D,
 *Proceedings of the National Academy of Sciences of the United States of America*.  
 47.1% GAIT/LOCOMOTION; 44.2% SPORT/EXERCISE
-
-* [Biomechanical Evaluation of the Depth of Resection During Femoral Neck Osteoplasty for Anterior Impingement Following Slipped Capital Femoral Epiphysis.](https://www.ncbi.nlm.nih.gov/pubmed/31169746)
-Dale KM, Burns GT, Li Y,
-*Journal of pediatric orthopedics*.  
-45.5% NEURAL; 33.8% CELLULAR/SUBCELLULAR
 
 * [The Natural History of Lower Extremity Malalignment.](https://www.ncbi.nlm.nih.gov/pubmed/31169641)
 McClure PK, Herzenberg JE,
@@ -1389,11 +1341,6 @@ McClure PK, Herzenberg JE,
 Erdemir A, Besier TF, Halloran JP, Imhauser CW, Laz PJ, Morrison TM, Shelburne KB,
 *Journal of biomechanical engineering*.  
 49.4% METHODS; 34.3% MODELING
-
-* [Adaptation of Running Biomechanics to Repeated Barefoot Running: A Randomized Controlled Study.](https://www.ncbi.nlm.nih.gov/pubmed/31166116)
-Hollander K, Liebl D, Meining S, Mattes K, Willwacher S, Zech A,
-*The American journal of sports medicine*.  
-48.7% CARDIOVASCULAR/CARDIOPULMONARY; 47.7% MODELING
 
 * [Mechanical behavior of ctenoid scales: Joint-like structures control the deformability of the scales in the flatfish Solea solea (Pleuronectiformes).](https://www.ncbi.nlm.nih.gov/pubmed/31075517)
 Spinner M, Schaber CF, Chen SM, Geiger M, Gorb SN, Rajabi H,
@@ -1410,73 +1357,9 @@ Rosa DP, Borstad JD, Ferreira JK, Camargo PR,
 *Physical therapy*.  
 32.1% JOINT/CARTILAGE; 25.9% ORTHOPAEDICS/SURGERY
 
-* [An integrin α<sub>IIb</sub>β<sub>3</sub> intermediate affinity state mediates biomechanical platelet aggregation.](https://www.ncbi.nlm.nih.gov/pubmed/30911119)
-Chen Y, Ju LA, Zhou F, Liao J, Xue L, Su QP, Jin D, Yuan Y, Lu H, Jackson SP, Zhu C,
-*Nature materials*.  
-28.4% ORTHOPAEDICS/SURGERY; 26.5% MODELING
-
-* [Therapeutic potential of endothelial progenitor cells in a rat model of epilepsy: Role of autophagy.](https://www.ncbi.nlm.nih.gov/pubmed/30847250)
-Ali SO, Shahin NN, Safar MM, Rizk SM,
-*Journal of advanced research*.  
-39.2% GAIT/LOCOMOTION; 36.3% SPORT/EXERCISE
-
-* [Evaluation of the pharmacological involvement of ATP-sensitive potassium (K<sub>ATP</sub>) channels in the antidepressant-like effects of topiramate on mice.](https://www.ncbi.nlm.nih.gov/pubmed/30828738)
-Shakiba S, Rezaee M, Afshari K, Kazemi K, Sharifi KA, Haddadi NS, Haj-Mirzaian A, Kamalian A, Jazaeri SZ, Richter K, Dehpour AR,
-*Naunyn-Schmiedeberg's archives of pharmacology*.  
-29.1% COMPARATIVE; 20.1% NEURAL
-
-* [Central neuropeptide-S treatment improves neurofunctions of 6-OHDA-induced Parkinsonian rats.](https://www.ncbi.nlm.nih.gov/pubmed/30825442)
-Bülbül M, Sinen O, Özkan A, Aslan MA, Ağar A,
-*Experimental neurology*.  
-16.7% TISSUE/BIOMATERIAL; 14.1% METHODS
-
-* [Assessment of changes in the micro-nano environment of intervertebral disc degeneration based on Pfirrmann grade.](https://www.ncbi.nlm.nih.gov/pubmed/30710732)
-Che YJ, Guo JB, Liang T, Chen X, Zhang W, Yang HL, Luo ZP,
-*The spine journal : official journal of the North American Spine Society*.  
-28.7% COMPARATIVE; 27.5% NEURAL
-
-* [Systemic treatment with the enteric bacterial metabolic product propionic acid results in reduction of social behavior in juvenile rats: Contribution to a rodent model of autism spectrum disorder.](https://www.ncbi.nlm.nih.gov/pubmed/30689218)
-Shams S, Foley KA, Kavaliers M, MacFabe DF, Ossenkopp KP,
-*Developmental psychobiology*.  
-23.5% REHABILITATION; 20.9% SPORT/EXERCISE
-
-* [Integrated Analysis of Young Swimmers' Sprint Performance.](https://www.ncbi.nlm.nih.gov/pubmed/30599800)
-Silva AF, Figueiredo P, Ribeiro J, Alves F, Vilas-Boas JP, Seifert L, Fernandes RJ,
-*Motor control*.  
-13.2% DENTAL/ORAL/FACIAL; 13.1% ORTHOPAEDICS/SURGERY
-
-* [Intraocular pressure changes in eyes with small incision lenticules and laser in situ keratomileusis.](https://www.ncbi.nlm.nih.gov/pubmed/30556213)
-Wang KJ, Wang WW, Tsai CL, Wang IJ,
-*Clinical & experimental optometry*.  
-25.6% METHODS; 19.3% MODELING
-
-* [The Rear Tip Extender for Inflatable Penile Prostheses: Introduction of "Rigidity Factor" and Review of the Literature.](https://www.ncbi.nlm.nih.gov/pubmed/30551977)
-Thirumavalavan N, Cordon BH, Gross MS, Taylor J, Eid JF,
-*Sexual medicine reviews*.  
-52.4% CARDIOVASCULAR/CARDIOPULMONARY; 44.0% CELLULAR/SUBCELLULAR
-
-* [Measurement reliability of phonation threshold pressure in pediatric subjects.](https://www.ncbi.nlm.nih.gov/pubmed/30408173)
-Hoffman MR, Scholp AJ, Hedberg CD, Lamb JR, Braden MN, McMurray JS, Jiang JJ,
-*The Laryngoscope*.  
-32.9% COMPARATIVE; 27.8% EVOLUTION/ANTHROPOLOGY
-
 * [Is Bone Elevation in Hand Muscle Attachments Associated with Biomechanical Stress? A Histological Approach to an Anthropological Question.](https://www.ncbi.nlm.nih.gov/pubmed/30332724)
 Karakostis FA, Vlachodimitropoulos D, Piagkou M, Scherf H, Harvati K, Moraitis K,
 *Anatomical record (Hoboken, N.J. : 2007)*.  
 21.8% METHODS; 18.8% TISSUE/BIOMATERIAL
 
-* [Melatonin Ameliorates Neuropharmacological and Neurobiochemical Alterations Induced by Subchronic Exposure to Arsenic in Wistar Rats.](https://www.ncbi.nlm.nih.gov/pubmed/30306420)
-Durappanavar PN, Nadoor P, Waghe P, Pavithra BH, Jayaramu GM,
-*Biological trace element research*.  
-29.9% GAIT/LOCOMOTION; 20.4% REHABILITATION
-
-* [Accuracy and Safety of Lateral Vertebral Notch-Referred Technique Used in Subaxial Cervical Pedicle Screw Placement.](https://www.ncbi.nlm.nih.gov/pubmed/30189031)
-Pan Z, Zhong J, Xie S, Yu L, Wu C, Ha Y, Kim KN, Zhang Y, Cao K,
-*Operative neurosurgery (Hagerstown, Md.)*.  
-23.1% NEURAL; 17.0% METHODS
-
-* [Radial head arthroplasty: a historical perspective.](https://www.ncbi.nlm.nih.gov/pubmed/30097728)
-Laumonerie P, Tibbo ME, Reina N, Pham TT, Bonnevialle N, Mansat P,
-*International orthopaedics*.  
-15.5% SPORT/EXERCISE; 12.1% VETERINARY/AGRICULTURAL
 
