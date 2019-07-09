@@ -75,7 +75,7 @@ Abudu YP, Pankiv S, Mathai BJ, Lamark T, Johansen T, Simonsen A,
 ----
 
 [Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Importance of the tibial slope in knee arthroplasty]](https://www.ncbi.nlm.nih.gov/pubmed/31270557)
+* [Importance of the tibial slope in knee arthroplasty](https://www.ncbi.nlm.nih.gov/pubmed/31270557)
 Wittenberg S, Sentuerk U, Renner L, Weynandt C, Perka CF, Gwinner C,
 *Der Orthopade*.  
 (43.5%) 
@@ -149,6 +149,12 @@ Sweeney CG, Kearney PJ, Fagan RR, Smith LA, Bolden NC, Zhao-Shea R, Rivera IV, K
 Siri S, Maier F, Santos S, Pierce DM, Feng B,
 *American journal of physiology. Gastrointestinal and liver physiology*.  
 (76.2%) 
+
+* [Ankle kinematics and kinetics during gait in healthy and rheumatoid arthritis post-menopausal women.](https://www.ncbi.nlm.nih.gov/pubmed/31267798)
+Aleixo P, Vaz Patto J, Cardoso A, Moreira H, Abrantes J,
+*Somatosensory & motor research*.  
+44.7% CELLULAR/SUBCELLULAR; 34.3% NEURAL
+
 
 ----
 # JOINT/CARTILAGE
@@ -309,21 +315,10 @@ Chen J, Wu X,
 # SPORT/EXERCISE
 ----
 
-[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Competing Fluid Forces Control Endothelial Sprouting in a 3-D Microfluidic Vessel Bifurcation Model.](https://www.ncbi.nlm.nih.gov/pubmed/31277456)
-Akbari E, Spychalski GB, Rangharajan KK, Prakash S, Song JW,
-*Micromachines*.  
-(96.9%) 
-
-* [Effect of disease-modifying anti-rheumatic drugs on bone structure and strength in psoriatic arthritis patients.](https://www.ncbi.nlm.nih.gov/pubmed/31269973)
-Simon D, Kleyer A, Bayat S, Tascilar K, Kampylafka E, Meinderink T, Schuster L, Petrov R, Liphardt AM, Rech J, Schett G, Hueber AJ,
-*Arthritis research & therapy*.  
-(47.3%) 
-
-* [Single-Cell-Derived Tumor-Sphere Formation and Drug-Resistance Assay Using an Integrated Microfluidics.](https://www.ncbi.nlm.nih.gov/pubmed/31148455)
-Pang L, Ding J, Ge Y, Fan J, Fan SK,
-*Analytical chemistry*.  
-(83.0%) 
+* [Classification of Soccer and Basketball Players' Jumping Performance Characteristics: A Logistic Regression Approach.](https://www.ncbi.nlm.nih.gov/pubmed/31277434)
+Chalitsios C, Nikodelis T, Panoutsakopoulos V, Chassanidis C, Kollias I,
+*Sports (Basel, Switzerland)*.  
+31.7% METHODS; 31.5% ROBOTICS
 
 ----
 # TENDON/LIGAMENT
@@ -380,73 +375,4 @@ Lemme NJ, Li NY, Kleiner JE, Tan S, DeFroda SF, Owens BD,
 *The American journal of sports medicine*.  
 (56.1%) 
 
-----
-# unknown: Num=13
-----
-
-[Back to top](#created-by-ryan-alcantara--gary-bruening---university-of-colorado-boulder)
-* [Comparative Stiffness of an Equine Distal Sesamoid Bone Fracture Model Stabilized with 3.5-mm versus 4.5-mm Cortical Bone Screws in Lag Fashion.](https://www.ncbi.nlm.nih.gov/pubmed/31279325)
-Mampe JR, Tatarniuk DM, Suarez-Fuentes DG, Kraus KH,
-*Veterinary and comparative orthopaedics and traumatology : V.C.O.T*.  
-32.2% CELLULAR/SUBCELLULAR; 26.2% NEURAL
-
-* [A clinical study on the 6-year outcomes of immediately loaded three implants for completely edentulous mandibles: "the all-on-3 concept".](https://www.ncbi.nlm.nih.gov/pubmed/31278484)
-Ayna M, Sagheb K, Gutwald R, Wieker H, Flörke C, Açil Y, Wiltfang J, Gülses A,
-*Odontology*.  
-16.9% METHODS; 16.5% MODELING
-
-* [Effect of neurokinin-1-receptor blockage on fracture healing in rats.](https://www.ncbi.nlm.nih.gov/pubmed/31278316)
-Hofman M, Rabenschlag F, Andruszkow H, Andruszkow J, Möckel D, Lammers T, Kolejewska A, Kobbe P, Greven J, Teuben MPJ, Poeze M, Hildebrand F,
-*Scientific reports*.  
-21.7% NEURAL; 19.0% CELLULAR/SUBCELLULAR
-
-* [Classification of Soccer and Basketball Players' Jumping Performance Characteristics: A Logistic Regression Approach.](https://www.ncbi.nlm.nih.gov/pubmed/31277434)
-Chalitsios C, Nikodelis T, Panoutsakopoulos V, Chassanidis C, Kollias I,
-*Sports (Basel, Switzerland)*.  
-31.7% METHODS; 31.5% ROBOTICS
-
-* [Thrust and Hydrodynamic Efficiency of the Bundled Flagella.](https://www.ncbi.nlm.nih.gov/pubmed/31277385)
-Danis U, Rasooli R, Chen CY, Dur O, Sitti M, Pekkan K,
-*Micromachines*.  
-51.0% NEURAL; 40.1% CELLULAR/SUBCELLULAR
-
-* [Differential circadian and light-driven rhythmicity of clock gene expression and behaviour in the turbot, Scophthalmus maximus.](https://www.ncbi.nlm.nih.gov/pubmed/31276539)
-Ceinos RM, Chivite M, López-Patiño MA, Naderi F, Soengas JL, Foulkes NS, Míguez JM,
-*PloS one*.  
-26.6% NEURAL; 20.0% CELLULAR/SUBCELLULAR
-
-* [<i>In vitro</i> and preclinical characterisation of compressed, macro-porous and collagen coated poly-ε-caprolactone electro-spun scaffolds.](https://www.ncbi.nlm.nih.gov/pubmed/31269477)
-Fuller K, Gaspar D, Delgado LM, Shoseyov O, Zeugolis D,
-*Biomedical materials (Bristol, England)*.  
-47.6% MODELING; 40.5% METHODS
-
-* [Ankle kinematics and kinetics during gait in healthy and rheumatoid arthritis post-menopausal women.](https://www.ncbi.nlm.nih.gov/pubmed/31267798)
-Aleixo P, Vaz Patto J, Cardoso A, Moreira H, Abrantes J,
-*Somatosensory & motor research*.  
-44.7% CELLULAR/SUBCELLULAR; 34.3% NEURAL
-
-* [Neurobehavioral effects of neonatal opioid exposure in mice: Influence of the OPRM1 SNP.](https://www.ncbi.nlm.nih.gov/pubmed/31267641)
-Robinson SA, Jones AD, Brynildsen JK, Ehrlich ME, Blendy JA,
-*Addiction biology*.  
-23.5% NEURAL; 19.7% CELLULAR/SUBCELLULAR
-
-* [Glial α-synuclein promotes neurodegeneration characterized by a distinct transcriptional program in vivo.](https://www.ncbi.nlm.nih.gov/pubmed/31267577)
-Olsen AL, Feany MB,
-*Glia*.  
-29.0% COMPARATIVE; 28.7% EVOLUTION/ANTHROPOLOGY
-
-* [Gaussian process emulation to accelerate parameter estimation in a mechanical model of the left ventricle: a critical step towards clinical end-user relevance.](https://www.ncbi.nlm.nih.gov/pubmed/31266415)
-Noè U, Lazarus A, Gao H, Davies V, Macdonald B, Mangion K, Berry C, Luo X, Husmeier D,
-*Journal of the Royal Society, Interface*.  
-17.3% SPORT/EXERCISE; 16.3% ORTHOPAEDICS/SURGERY
-
-* [Micro-anatomical record of cortical bone remodeling and high vascularity in a fossil giant rat midshaft femur.](https://www.ncbi.nlm.nih.gov/pubmed/31265766)
-Miszkiewicz JJ, Louys J, O'Connor S,
-*Anatomical record (Hoboken, N.J. : 2007)*.  
-47.9% EVOLUTION/ANTHROPOLOGY; 43.4% COMPARATIVE
-
-* [Hip Arthroscopy as Part of a Salvage Procedure for Avascular Necrosis (AVN) in a 7-Year-Old Child.](https://www.ncbi.nlm.nih.gov/pubmed/31263092)
-Delniotis I, Leidinger B,
-*The American journal of case reports*.  
-46.5% CELLULAR/SUBCELLULAR; 36.9% NEURAL
 
