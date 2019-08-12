@@ -20,6 +20,9 @@ author_profile: false
 --->
 
 * **Alcantara, R.**, Day, E., Hahn, M., Grabowski, A. **(2019)**. Sacral Accelerations Predict Whole Body Kinematics
+and Kinetics During Running. International Society of Biomechanics. *(podium)*
+
+* **Alcantara, R.**, Day, E., Hahn, M., Grabowski, A. **(2019)**. Sacral Accelerations Predict Whole Body Kinematics
 and Kinetics During Running. American Society of Biomechanics, Rocky Mountain Meeting. *(podium)*
 
 * **Alcantara, R.**, Beck, O., Grabowski, A. **(2018)**. Mass added to a running-specific prosthesis increases
