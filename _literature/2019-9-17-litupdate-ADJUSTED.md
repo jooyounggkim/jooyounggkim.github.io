@@ -8,6 +8,7 @@ toc: true
 toc_sticky: true  
 toc_label: Topics  
 ---
+### Read more about this Machine Learning-assisted literature update [here!](https://alcantarar.github.io/projects/p98_literature/)
 ### Created by: [Ryan Alcantara](https://twitter.com/Ryan_Alcantara_) & [Gary Bruening](https://twitter.com/garebearbru) - University of Colorado Boulder
 
 ----
