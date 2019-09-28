@@ -18,10 +18,10 @@ redirect_from:
 
 Education
 ======
-* B.S. Applied Human Biology, Seattle Pacific University, 2015
+* Ph.D Biomechanics, Univeristy of Colorado Boulder, 2021 (expected)
 * M.S. Biomechanics, Univeristy of Colorado Boulder, 2019
   * *Effects of added mass on running economy and vertical ground reaction force asymmetry in runners with unilateral transtibial amputation*
-* Ph.D Biomechanics, Univeristy of Colorado Boulder, 2021 (expected)
+* B.S. Applied Human Biology, Seattle Pacific University, 2015
 
 Professional Experience
 ======
