@@ -223,7 +223,7 @@ defaults:
 # dryft documentation
   - scope:
       path: ""
-      type: pages
+      type: dryft
     values:
       layout: single
       author_profile: false
