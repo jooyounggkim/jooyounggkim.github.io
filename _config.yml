@@ -182,6 +182,9 @@ collections:
   literature:
     output: true
     permalink: /:collection/:path/
+  dryft:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
