@@ -25,7 +25,7 @@ share: true
 --->
 
 * <b>Alcantara, R.</b> (2019) Dryft: A Python and MATLAB package to correct drifting ground reaction
-force signals during treadmill running. <i>under review</i>
+force signals during treadmill running. <i>Journal of Open Source Software 4(44), 1910</i> [https://doi.org/10.21105/joss.01910](https://doi.org/10.21105/joss.01910)
 
 * <b>Alcantara, R.,</b> Beck, O., Grabowski, A. (2019) [Added lower limb mass does not affect
 biomechanical asymmetry but increases metabolic power in runners with a unilateral transtibial amputation.](https://osf.io/preprints/sportrxiv/xcus7/) Preprint. <i>SportRxiv</i>.
