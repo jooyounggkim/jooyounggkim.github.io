@@ -1,7 +1,7 @@
 ---
 title: Comps Collection
 collection: comps-collection
-permalink: /comps-collection/hansson1938insufficiency
+permalink: /comps-collection/Summaries/Hansson1938Insufficiency
 excerpt: <br>
 toc: false
 toc_sticky: false

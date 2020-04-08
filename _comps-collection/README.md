@@ -30,7 +30,7 @@ publication. There are more references than listed here if you know where to loo
 **Aleman 1929** *Tidskrift i militar helsovard (Swedish)*
 * [x] [On Insufficiency Fractures of Femur and Tibia](References/Hansson1938Insufficiency.pdf)    
 **Hansson** **1938** *Acta Radiologica*
-[**SUMMARY**](Summaries/Hansson1938Insufficiency.md)
+[**SUMMARY**](Summaries/Hansson1938Insufficiency)
 * [ ] ["Stress" or "Fatigue" Fractures of Bone](References/Hartley1943Stress.pdf)    
 **Hartley 1943** *Br J Rad*
 * [ ] [Compact Bone as a non-isotropic material](References/Dempster1952Compact.pdf)    
