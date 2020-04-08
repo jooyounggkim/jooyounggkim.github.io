@@ -1,5 +1,5 @@
 ---
-title: Comps Collection
+title: Hey! Nothing to see here.
 collection: comps-collection
 permalink: /comps-collection/
 excerpt: <br>
@@ -7,10 +7,8 @@ toc: false
 toc_sticky: false
 toc_label: Topics 
 ---
-Hey! Nothing to see here. 
-It's just a curated (and by no means comprehensive) list of papers summarized for my comprehensive exam (March 2020). 
-Publications are organized by year. I abandoned this method after a while so that's why there aren't summaries for each
-publication. There are more references than listed here if you know where to look. 
+This is definitely not a list of papers summarized for my comprehensive exam (March 2020). 
+There are more references than listed here if you know where to look... ;)
 
 ## Table of Contents
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
