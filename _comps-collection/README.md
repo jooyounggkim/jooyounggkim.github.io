@@ -13,13 +13,12 @@ There are more references than listed here if you know where to look... ;)
 ###### B-D summaries ported as of 4/7/20
 
 ## Table of Contents
-* [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
-    * [pre-1970](#pre-1970)
-    * [1970s](#1970s)
-    * [1980s](#1980s)
-    * [1990s](#1990s)
-    * [2000s](#2000s)
-    * [2010s](#2010s)
+   * [pre-1970](#pre-1970)
+   * [1970s](#1970s)
+   * [1980s](#1980s)
+   * [1990s](#1990s)
+   * [2000s](#2000s)
+   * [2010s](#2010s)
     
 ## Papers sorted in chronological order
 ## pre-1970
