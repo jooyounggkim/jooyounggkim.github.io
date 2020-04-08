@@ -1,3 +1,12 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Burr1985Bone
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
 # Bone remodeling in response to *in vivo* fatigue microdamage
 [Burr et al 1985](../References/Burr1985Bone.pdf)
 

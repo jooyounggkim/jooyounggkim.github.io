@@ -1,3 +1,13 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Bennell1998Prospective
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
+
 # A 12-month prospective study of the relationship between stress fractures and bone turnover in athletes
 [Bennell et al 1998](../References/Bennell1998Prospective.pdf)
 

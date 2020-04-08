@@ -1,3 +1,12 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Crossley1999Ground
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
 # Ground reaction forces, bone characteristics, and tibial stress fracture in male runners
 [Crossley, Bennell, Wrigley, & Barry 1999](../References/Crossley1999Ground.pdf)
 

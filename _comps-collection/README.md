@@ -10,6 +10,8 @@ toc_label: Topics
 This is definitely not a list of papers summarized for my comprehensive exam (March 2020). 
 There are more references than listed here if you know where to look... ;)
 
+###### B-D summaries ported as of 4/7/20
+
 ## Table of Contents
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
     * [pre-1970](#pre-1970)
@@ -44,7 +46,7 @@ There are more references than listed here if you know where to look... ;)
 
 * [x] [Mechanical and morphological aspects of experimental overload and fatigue in bone](References/Chamay1970Mechanical.pdf)    
 **Chamay 1970** *J Biomech*
-[**SUMMARY**](Summaries/Chamay1970Mechanical.md)
+[**SUMMARY**](Summaries/Chamay1970Mechanical)
 * [x] [Musculoskeletal injuries in jogging](References/Glick1970Musculoskeletal.pdf)    
 **Glick** & Katch **1970** *Arch Phys Med Rehab*
 [**SUMMARY**](Summaries/Glick1970Musculoskeletal.md)
@@ -52,10 +54,10 @@ There are more references than listed here if you know where to look... ;)
 **Sweet**, Allman, **1971** *Radiology*
 * [x] [Injuries to Runners](References/Brubaker1974Injuries.pdf)    
 **Brubaker** & James **1974** *J Sports Med*
-[**SUMMARY**](Summaries/Brubaker1974Injuries.md)
+[**SUMMARY**](Summaries/Brubaker1974Injuries)
 * [x] [Tibial stress syndrome in athletes](References/Clement1974Tibial.pdf)    
 **Clement** **1974** *J Sports Med*
-[**SUMMARY**](Summaries/Clement1974Tibial.md)
+[**SUMMARY**](Summaries/Clement1974Tibial)
 * [x] [Stress fractures in men and women undergoing military training](References/Protzman1977Stress.pdf)    
 **Protzman** **1977** *J Bone Joint Surg*
 [**SUMMARY**](Summaries/Protzman1977Stress.md)
@@ -106,7 +108,7 @@ There are more references than listed here if you know where to look... ;)
 **Fitch 1984** *Austrailian Fam Phys*
 * [x] [Bone remodeling in response to invivo fatigue microdamage](References/Burr1985Bone.pdf)    
 **Burr**, Martin, Schaffler, Radin **1985** *J Biomechanics*
-[**SUMMARY**](Summaries/Burr1985Bone.md)
+[**SUMMARY**](Summaries/Burr1985Bone)
 * [x] [The correlation between cumulative march training and stress fractures in soldiers](References/Giladi1985Correlation.pdf)    
 **Giladi** Danon, Milgrom, Aharonson **1985** *Military Med*
 [**SUMMARY**](Summaries/Giladi1985Correlation.md)
@@ -170,7 +172,7 @@ There are more references than listed here if you know where to look... ;)
 **Bennell**, Malcolm, Thomas, Wark, Brukner **1996** *Amer J Sports Med*
 * [x] [Models for the pathogenesis of stress fractures in athletes](References/Bennell1996Models.pdf)    
 **Bennell**, Malcolm, Wark, Brukner **1996** *Br J Sports Med*
-[**SUMMARY**](Summaries/Bennell1996Models.md)
+[**SUMMARY**](Summaries/Bennell1996Models)
 * [ ] [Risk factors for stress fractures in track and field athletes: a twelve-month prospective study](References/Bennell1996Risk.pdf)    
 **Bennell**, Malcolm, Thomas, Reid, Bruykner, Ebeling, Wark **1996** *Amer J Sports Med*
 * [ ] [Stress fractures: a review of 180 cases.](References/Brukner1996Stress.pdf)    
@@ -183,17 +185,17 @@ There are more references than listed here if you know where to look... ;)
 **Brukner** and Bennell **1997** *Sports Med*
 * [x] [Tibial stress injuries: An aetiological review for the purposes of guiding management](References/Beck1998Tibial.pdf)    
 **Beck** **1998** *Sports Med*
-[**SUMMARY**](Summaries/Beck1998Tibial.md)
+[**SUMMARY**](Summaries/Beck1998Tibial)
 * [x] [A 12-month prospective study of the relationship between stress fractures and bone turnover in athletes](References/Bennell1998Prospective.pdf)    
 **Bennell**, Malcom, Brukner, Green, Hopper, Wark, Ebeling **1998** *Calcif Tissue Int*
-[**SUMMARY**](Summaries/Bennell1998Prospective.md)
+[**SUMMARY**](Summaries/Bennell1998Prospective)
 * [ ] [A dynamical systems approach to lower extremity running injuries](References/Hamill1999Dynamical.pdf)    
 **Hamill**, van Emmerik, Heiderscheit, Li **1999** *Clin Biomech*
 * [ ] [The effects of muscle stiffness and damping on simulated impact force peaks during running](References/Nigg1999Effect.pdf)    
 **Nigg** & Liu **1999** *J Biomech*
 * [x] [Ground reaction forces, bone characteristics, and tibial stress fracture in male runners](References/Crossley1999Ground.pdf)    
 **Crossley**, Bennell, Wrigley, Oakes **1999** *Med Sci Sports Ex*
-[**SUMMARY**](Summaries/Crossley1999Ground.md)
+[**SUMMARY**](Summaries/Crossley1999Ground)
 * [ ] [Risk Factors for Stress Fractures](References/Bennell1999Risk.pdf)    
 **Bennell**, Matheson, Meeuwisse, Brukner **1999** *Sports Med*
 

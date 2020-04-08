@@ -1,3 +1,12 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Brubaker1974Injuries
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
 # Injuries to runners
 ### [Brubaker & James 1974](../References/Brubaker1974Injuries.pdf)
 

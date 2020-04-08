@@ -1,3 +1,13 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Beck1998Tibial
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
+
 # Tibial Stress Injuries
 ## An Aetiological Review for the Purposes of Guiding Management
 [Beck 1998](../References/Beck1998Tibial.pdf)

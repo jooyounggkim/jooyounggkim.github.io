@@ -1,7 +1,7 @@
 ---
 title: 
 collection: comps-collection
-permalink: /comps-collection/Summaries/Hansson1938Insufficiency
+permalink: /comps-collection/Summaries/Devas1958Stress
 excerpt: <br>
 toc: false
 toc_sticky: false

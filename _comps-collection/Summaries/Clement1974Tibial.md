@@ -1,3 +1,12 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Clement1974Tibial
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
 # Tibial stress syndrome in athletes
 [Clement 1974](../References/Clement1974Tibial.pdf)
 

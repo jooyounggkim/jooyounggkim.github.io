@@ -1,3 +1,12 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Chamay1970Mechanical
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
 # Mechanical and morphological aspects of experimental overlaod and fatigue in bone
 [Chamay 1970](../References/Chamay1970Mechanical.pdf)
 
