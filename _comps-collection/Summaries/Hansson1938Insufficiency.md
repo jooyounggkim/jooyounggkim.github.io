@@ -1,7 +1,11 @@
 ---
-title: <br>
+title: Comps Collection
 collection: comps-collection
+permalink: /comps-collection/hansson1938insufficiency
 excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
 ---
 
 # On insufficiency fractures of femur and tibia

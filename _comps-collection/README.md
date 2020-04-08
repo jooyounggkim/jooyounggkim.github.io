@@ -10,7 +10,7 @@ toc_label: Topics
 Hey! Nothing to see here. 
 It's just a curated (and by no means comprehensive) list of papers summarized for my comprehensive exam (March 2020). 
 Publications are organized by year. I abandoned this method after a while so that's why there aren't summaries for each
-publication.
+publication. There are more references than listed here if you know where to look. 
 
 ## Table of Contents
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
