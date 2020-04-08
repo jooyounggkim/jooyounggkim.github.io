@@ -7,11 +7,10 @@ toc: false
 toc_sticky: false
 toc_label: Topics 
 ---
-
-# Comprehensive-Exam
-place to organize comprehensive exam documents
-
-A curated list of papers summarized for my comprehensive exam. Organized by topic, author, or publication date
+Hey! Nothing to see here. 
+It's just a curated (and by no means comprehensive) list of papers summarized for my comprehensive exam (March 2020). 
+Publications are organized by year. I abandoned this method after a while so that's why there aren't summaries for each
+publication.
 
 ## Table of Contents
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
@@ -22,17 +21,8 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
     * [2000s](#2000s)
     * [2010s](#2010s)
     
-* [Papers sorted by first author](#papers-sorted-by-first-author)
-    * [E](#E)
-    * [F](#F)
-    * [W](#W)
-    
 ## Papers sorted in chronological order
 ### pre-1970
-:white_check_mark: :white_check_mark: 
-:black_square_button: :black_square_button: :black_square_button: :black_square_button: 
-:black_square_button:
-
 [back to top](#table-of-contents)
 * [ ] [Fussodem und Rontgenstrahlen](References/Stechow1897Fussodem.pdf)    
 **Stechow 1897** *Duetsche Militararztliche Zeitschrift*
@@ -52,10 +42,6 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
 **Slocum** & Bill Bowerman **1962** *Clin Orthop Rel Res*
 
 ### 1970s
-:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: 
-:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
-:white_check_mark: :black_square_button:
-
 [back to top](#table-of-contents)
 
 * [x] [Mechanical and morphological aspects of experimental overload and fatigue in bone](References/Chamay1970Mechanical.pdf)    
@@ -89,15 +75,6 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
 [**SUMMARY**](Summaries/Stokes1979Forces.md)
 
 ### 1980s
-:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
-:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
-:white_check_mark: :white_check_mark: :white_check_mark:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button: 
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button:  
-
 [back to top](#table-of-contents)
 
 * [x] [nature and causes of injuries in women resulting from an endurance training program](References/Kowal1980Nature.pdf)    
@@ -177,12 +154,6 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
 **Collins**, Wagner, Peterson, Storey **1989** *Am Orth Soc Sports Med*
 
 ### 1990s
-:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: 
-:white_check_mark: :white_check_mark:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-
 [back to top](#table-of-contents)
 
 * [ ] [Stress fractures: Identifiable risk factors](References/Giladi1991Stress.pdf)    
@@ -229,12 +200,6 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
 **Bennell**, Matheson, Meeuwisse, Brukner **1999** *Sports Med*
 
 ### 2000s
-:white_check_mark:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button: 
-:black_square_button: 
-
 [back to top](#table-of-contents)
 
 * [x] [Evaluation of lower extremity overuse injury potential in runners](References/Hreljac2000Evaluation.pdf)    
@@ -270,9 +235,6 @@ A curated list of papers summarized for my comprehensive exam. Organized by topi
 **Creaby** & Dixon **2008** *Med Sci Sport Ex*
 
 ### 2010s
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-:black_square_button: :black_square_button: :black_square_button: :black_square_button:
-
 [back to top](#table-of-contents)
 
 * [ ] [Effects of running speed on a probabilistic stress fracture model](References/Edwards2010Effects.pdf)    
