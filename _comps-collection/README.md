@@ -1,3 +1,13 @@
+---
+title: Comps Collection
+collection: comps-collection
+permalink: /comps-collection/
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
+
 # Comprehensive-Exam
 place to organize comprehensive exam documents
 
