@@ -22,7 +22,7 @@ publication.
     * [2010s](#2010s)
     
 ## Papers sorted in chronological order
-### pre-1970
+## pre-1970
 [back to top](#table-of-contents)
 * [ ] [Fussodem und Rontgenstrahlen](References/Stechow1897Fussodem.pdf)    
 **Stechow 1897** *Duetsche Militararztliche Zeitschrift*
@@ -41,7 +41,7 @@ publication.
 * [ ] [Biomechanics of Running](References/Slocum1962Biomechanics.pdf)    
 **Slocum** & Bill Bowerman **1962** *Clin Orthop Rel Res*
 
-### 1970s
+## 1970s
 [back to top](#table-of-contents)
 
 * [x] [Mechanical and morphological aspects of experimental overload and fatigue in bone](References/Chamay1970Mechanical.pdf)    
@@ -74,7 +74,7 @@ publication.
 **Stokes**, Hutton, Stott **1979** *J Anat*
 [**SUMMARY**](Summaries/Stokes1979Forces.md)
 
-### 1980s
+## 1980s
 [back to top](#table-of-contents)
 
 * [x] [nature and causes of injuries in women resulting from an endurance training program](References/Kowal1980Nature.pdf)    
@@ -153,7 +153,7 @@ publication.
 * [ ] [Overuse injuries in triathletes: a study of the 1086 Seafair Triathlon](References/Collins1989Overuse.pdf)    
 **Collins**, Wagner, Peterson, Storey **1989** *Am Orth Soc Sports Med*
 
-### 1990s
+## 1990s
 [back to top](#table-of-contents)
 
 * [ ] [Stress fractures: Identifiable risk factors](References/Giladi1991Stress.pdf)    
@@ -199,7 +199,7 @@ publication.
 * [ ] [Risk Factors for Stress Fractures](References/Bennell1999Risk.pdf)    
 **Bennell**, Matheson, Meeuwisse, Brukner **1999** *Sports Med*
 
-### 2000s
+## 2000s
 [back to top](#table-of-contents)
 
 * [x] [Evaluation of lower extremity overuse injury potential in runners](References/Hreljac2000Evaluation.pdf)    
@@ -234,7 +234,7 @@ publication.
 * [ ] [External Frontal Plane Loads May Be Associated with Tibial Stress Fracture](References/Creaby2008External.pdf)    
 **Creaby** & Dixon **2008** *Med Sci Sport Ex*
 
-### 2010s
+## 2010s
 [back to top](#table-of-contents)
 
 * [ ] [Effects of running speed on a probabilistic stress fracture model](References/Edwards2010Effects.pdf)    
