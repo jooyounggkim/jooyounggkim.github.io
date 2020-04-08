@@ -37,7 +37,7 @@ publication. There are more references than listed here if you know where to loo
 **Dempster** & Liddicoat **1952** *Amer J Anat*
 * [x] [Stress Fractures of the Tibia in Athletes or "Shin Soreness"](References/Devas1958Stress.pdf)    
 **Devas** **1958** *J Bone Joint Surg*
-[**SUMMARY**](Summaries/Devas1958Stress.md)
+[**SUMMARY**](Summaries/Devas1958Stress)
 * [ ] [Biomechanics of Running](References/Slocum1962Biomechanics.pdf)    
 **Slocum** & Bill Bowerman **1962** *Clin Orthop Rel Res*
 

@@ -1,3 +1,13 @@
+---
+title: 
+collection: comps-collection
+permalink: /comps-collection/Summaries/Hansson1938Insufficiency
+excerpt: <br>
+toc: false
+toc_sticky: false
+toc_label: Topics 
+---
+
 # Stress fractures of the tibia in athletes or "shin soreness"
 ### [Devas 1958](../References/Devas1958Stress.pdf)
 

@@ -1,5 +1,5 @@
 ---
-title: Comps Collection
+title: 
 collection: comps-collection
 permalink: /comps-collection/Summaries/Hansson1938Insufficiency
 excerpt: <br>
