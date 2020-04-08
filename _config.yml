@@ -185,6 +185,9 @@ collections:
   dryft:
     output: true
     permalink: /:collection/:path/
+  comps:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,6 +230,14 @@ defaults:
   - scope:
       path: ""
       type: dryft
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# comps collection documentation
+  - scope:
+      path: ""
+      type: comps
     values:
       layout: single
       author_profile: false
