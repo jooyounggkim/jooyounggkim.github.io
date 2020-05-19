@@ -14,7 +14,7 @@ share: true
 This is a little different from the work-related projects, but I rode ~400 miles through Italy after 
 graduating with my masters degree and found a cool way to document the trip using the GPS data. 
 
-#### Open sidebar (button on top-left of map) or select waypoints/tracks to read about our journey!
+## Open sidebar (button on top-left of map) or select waypoints/tracks to read about our journey!
 <style>
     .google-maps {
         position: relative;
