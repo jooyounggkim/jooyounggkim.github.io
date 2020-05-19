@@ -11,9 +11,10 @@ redirect_from:
   - /about.html
 ---
 <br>
-I'm currently a Biomechanics PhD student at the University of Colorado Boulder in Dr. Alena Grabowski's [Applied Biomechanics Laboratory](https://www.colorado.edu/iphy/research/applied-biomechanics-lab). 
+I'm currently a Biomechanics PhD candidate at the University of Colorado Boulder in Dr. Alena Grabowski's [Applied Biomechanics Laboratory](https://www.colorado.edu/iphy/research/applied-biomechanics-lab). 
 My research interests include footwear biomechanics, running-related injuries, and sprinting mechanics. 
-I like to run, snowboard, play Dungeons & Dragons, and program in my spare time.  
+I like to run, snowboard, play Dungeons & Dragons, and program in my spare time. Check out some of the 
+[projects](https://alcantarar.github.io/projects/) I've been working on!
 <br>
 In 2015 I completed a BSc in Applied Human Physiology at Seattle Pacific University, where I worked with [Dr. Cara Wall-Scheffler](https://wallscheffler.wordpress.com/) 
 to investigate the physiological and biomechanical effects of pushing a stroller while running.
