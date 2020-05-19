@@ -10,12 +10,11 @@ permalink: /publications/
 author_profile: false
 share: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+You can also find my articles on my <a href="https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en&authuser=2">Google Scholar</a>
+and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</a> pages. Feel free to tweet/email if you can't find a PDF.
+
 
 <!--- below converts page to collection --->
 <!---
