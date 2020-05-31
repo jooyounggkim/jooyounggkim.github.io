@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: " "
 layout: single
 header:
   overlay_image: header_image.jpg
@@ -10,7 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome!
+## Hello World!
 I'm a biomechanist enthusiastic about research software, reproducibility, and data science. I actively use python, R, MATLAB, and git in my research and like enjoy developing statistical models and developing research software. My interests include machine learning, wearable devices, and running injury, which I'm combining to quantify stress fracture risk in U.S. collegiate cross country athletes. 
 
 ### What am I up to?
