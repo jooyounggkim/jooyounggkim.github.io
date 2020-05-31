@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Biomechanics Literature Search
+title: Machine Learning Literature Update
 excerpt: Using Machine Learning to classify biomechanics papers published in the last week
 header:
   teaser: ML.gif
