@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: RYAN ALCANTARA
+layout: single
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
