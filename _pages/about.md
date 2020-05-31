@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: <br>
 layout: single
 header:
   overlay_image: header_image.jpg
