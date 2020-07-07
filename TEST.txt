@@ -1,7 +1,7 @@
 # main script
 
 ### section 1
-`broken code`
+`fixed code`
 
 ### section 2
 `broken code`
