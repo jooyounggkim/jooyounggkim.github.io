@@ -7,4 +7,4 @@
 `fixed code`
 
 ### section 3
-`broken code`
+`fixed code`
