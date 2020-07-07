@@ -4,7 +4,7 @@
 `broken code`
 
 ### section 2
-`broken code`
+`fixed code`
 
 ### section 3
 `broken code`
