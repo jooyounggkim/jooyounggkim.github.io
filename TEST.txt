@@ -1,3 +1,10 @@
-big change
+# main script
 
-another big change
+### section 1
+`fixed code again`
+
+### section 2
+`fixed code again`
+
+### section 3
+`fixed code`
