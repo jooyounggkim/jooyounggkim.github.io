@@ -22,7 +22,7 @@ and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</
   {% include archive-single.html %}
 {% endfor %}
 --->
-* <b>Alcantara, R.</b> & Grabowski, A. [Prosthetic leg design, force production, and curve sprint performance: A pilot study.](https://commons.nmu.edu/isbs/vol38/iss1/230/) <i>ISBS Proceedings Archive</i> 38 (1), 230.
+* <b>Alcantara, R.</b> [Prosthetic leg design, force production, and curve sprint performance: A pilot study.](https://commons.nmu.edu/isbs/vol38/iss1/230/) <i>ISBS Proceedings Archive</i> 38 (1), 230.
 
 * <b>Alcantara, R.,</b> Beck, O., Grabowski, A. [Added lower limb mass does not affect biomechanical asymmetry but increases metabolic
 power during treadmill running.](https://link.springer.com/article/10.1007/s00421-020-04367-9) <i>European Journal of Applied Physiology 120, 1449-1456.</i> (2020). 
