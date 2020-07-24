@@ -19,6 +19,8 @@ author_profile: false
 {% endfor %}
 --->
 
+* **Alcantara, R. (2020).** [Prosthetic Leg Design, Force Production, and Curve Sprint Performance: A Pilot Study.](https://www.ryan-alcantara.com/projects/p93_ISBS2020/) International Society of Biomechanics in Sports *(virtual presentation)*
+
 * **Alcantara, R.**, Day, E., Hahn, M., Grabowski, A. **(2019)**. Sacral Accelerations Predict Whole Body Kinematics
 and Kinetics During Running. International Society of Biomechanics. *(podium)*
 
