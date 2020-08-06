@@ -17,7 +17,7 @@ add comments, or even revert a code base back to a previous version if something
 wrong. Using version control software can even help the lone researcher manage their 
 project, keeping them from having to remember the difference between “Analysis_FINAL.m” 
 or “Analysis_FINAL_FINAL.m”. 
-
+<br>
 At the 2020 American Society of Biomechanics Conference, I led a tutorial introducing
 Git and GitHub as version control tools for researchers. [Gary Bruening](https://github.com/gbruening),
 [Ross Wilkinson](https://twitter.com/rd_wilkinson), [Steve Kasica](https://github.com/swkasica), and I
