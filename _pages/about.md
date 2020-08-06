@@ -20,7 +20,7 @@ I'm currently a Biomechanics PhD candidate at the University of Colorado Boulder
 My general research interests include footwear biomechanics, running-related injuries, and sprinting mechanics. Check out some of the 
 [projects](https://alcantarar.github.io/projects/) I've been working on or [follow me](https://twitter.com/Ryan_Alcantara_) on twitter!
 <br>    
-Recently, I've become interested in research software, developing [dryft](https://github.com/alcantarar/dryft#dryft), an open source python/MATLAB package to process force-measuring treadmill data. 
+I've become interested in research software, developing [dryft](https://github.com/alcantarar/dryft#dryft), an open source python/MATLAB package to process force-measuring treadmill data. I also recently led a [Git/GitHub workshop for researchers](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/) at the 2020 American Society of Biomechanics annual meeting.
 <br>    
 When I'm not working, I enjoy running, snowboarding, playing Dungeons & Dragons, and helping researchers with their programming problems.
 
