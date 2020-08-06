@@ -3,7 +3,7 @@ layout: single
 title: GitHub for Researchers
 excerpt: Tutorial introducing version control to academic researchers
 header:
-  teaser: github_cover_pic.png
+  teaser: github_PNG20.png
 collection: project
 author_profile: true
 share: true
