@@ -11,7 +11,8 @@ share: true
 <br>
 {% include youtubePlayer.html id="6OkOmPqumWo" %}
 <br> 
-At the 2020 ASB Conference, I led a tutorial introducing
+At the 2020 American Society of Biomechanics Conference,
+ I led a tutorial introducing
 Git and GitHub as version control tools for researchers. 
 [Gary Bruening](https://github.com/gbruening),
 [Ross Wilkinson](https://twitter.com/rd_wilkinson), 
@@ -36,7 +37,7 @@ own or with a small group:
 
 If you have any questions or just want to chat about
 version control, reach out via email or Twitter! Thanks
-to the American Society for Biomechanics for letting me
+to the American Society of Biomechanics for letting me
 host a tutorial and everyone who made it possible, 
 either in the months of preparation or the day-of 
 execution. 
