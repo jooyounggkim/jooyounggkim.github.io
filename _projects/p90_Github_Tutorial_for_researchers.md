@@ -11,12 +11,12 @@ share: true
 <br>
 {% include youtubePlayer.html id="6OkOmPqumWo" %}
 <br> 
-At the 2020 ASB Conference, I lead a tutorial introducing
+At the 2020 ASB Conference, I led a tutorial introducing
 Git and GitHub as version control tools for researchers. 
-With the help of [Gary Bruening](https://github.com/gbruening),
-[Ross Wilkinson](https://twitter.com/rd_wilkinson),
-and [Steve Kasica](https://github.com/swkasica), we
-created an interactive tutorial where attendees
+[Gary Bruening](https://github.com/gbruening),
+[Ross Wilkinson](https://twitter.com/rd_wilkinson), 
+[Steve Kasica](https://github.com/swkasica), and I
+designed an interactive tutorial where attendees
 learned the basic concepts of version control with
 Git and practiced collaborating on a coding project
 in small groups via GitHub. The tutorial has example
