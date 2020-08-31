@@ -109,14 +109,15 @@ ggplot(tree_pred_long) +
 
 ### Conclusion
 
-The ridgeplots don’t adhere to the units of the y axis, but they show us
+I've annotated the figure above to highlight the tree vs forest predictions.
+The ridgeplots don’t adhere to the units of the y axis and show us
 the relative distribution of the individual predictions that make up the
 quantile regression forest. It’s kinda neat to see how the tree
 predictions compare to the final aggregated prediction! 
 
 ### Example Script
-**A gist of the R script can be found 
-[here](https://gist.github.com/alcantarar/c54fae92fe384c535f1e44658b3e6115)**
+*A gist of the R script can be found 
+[here](https://gist.github.com/alcantarar/c54fae92fe384c535f1e44658b3e6115)*
 
 ### Tips and Tricks
 
