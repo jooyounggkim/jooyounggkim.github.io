@@ -10,23 +10,24 @@ author_profile: true
 share: true
 ---
 
-One of my research studies utilizes a random forest algorithm to predict
-continuous biomechanical variables. Specifically, I used a Quantile
-Regression Forest (QRF) in R using the `caret` and `quantregForest`
-package. I will try to describe Random Forest algorithms in a sentence:
+One of my research studies uses a random forest algorithm to predict
+continuous biomechanical variables. If you don't know anything about
+random forestes, I'll try to describe them in a sentence:
 They are a type of algorithm that aggregates a large number of
 predictions made by decision *trees* and produces a single prediction
-for the whole *forest*.
-
+for the whole *forest*. Specifically, I am using a Quantile
+Regression Forest (QRF) in R using the `caret` and `quantregForest`
+package. 
+<br>
 When I was assessing the accuracy of my QRF model, I wanted to visualize
 the variability in the individual tree predictions alongside the
-aggregated prediction (seeing the forest for the trees, so to speek).
+aggregated prediction (seeing the forest for the trees, so to speak).
 After looking around online, I couldn’t find any examples of someone
-doing this, so I thought I’d do a quick write-up on my process. Maybe
-it’s beneficial to someone wanting to better visualize what a random
-forest algorithm is actually doing inside the “black box” of this
-machine learning algorithm.I’ll use the `mtcars` dataset to try and 
-predict a car’s MPG:
+doing this, so I thought I’d do a quick write-up on how I was able to
+accomplish this (plot at the bottom). Maybe it will be beneficial to 
+someone wanting to better visualize what is going on inside the “
+black box” of this machine learning algorithm. For this example, I’ll 
+use the `mtcars` dataset to try and predict a car’s MPG:
 
 ``` r
 library(tidyr)
@@ -66,8 +67,7 @@ str(pred)
     ##   .. ..$ : chr [1:8] "Mazda RX4" "Mazda RX4 Wag" "Datsun 710" "Hornet 4 Drive" ...
     ##   .. ..$ : NULL
 
-<br> 
-
+<br>
 I chose to visualize the tree predictions with ridgeplots in a predicts
 vs observed plot. The format of `pred` isn’t ggplot friendly, so we need
 to do some reshaping with `tidyr`, `aggregate`, and `merge` before
