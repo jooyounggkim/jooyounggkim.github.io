@@ -25,9 +25,10 @@ aggregated prediction (seeing the forest for the trees, so to speak).
 After looking around online, I couldn’t find any examples of someone
 doing this, so I thought I’d do a quick write-up on how I was able to
 accomplish this (plot at the bottom). Maybe it will be beneficial to 
-someone wanting to better visualize what is going on inside the “
-black box” of this machine learning algorithm. For this example, I’ll 
-use the `mtcars` dataset to try and predict a car’s MPG:
+someone wanting to better visualize what is going on inside the 
+“black box” of this machine learning algorithm. For this example, I’ll 
+use the `mtcars` dataset to try and predict a car’s MPG. Jump to the
+bottom for the link to the whole R script.
 
 ``` r
 library(tidyr)
@@ -111,10 +112,11 @@ ggplot(tree_pred_long) +
 The ridgeplots don’t adhere to the units of the y axis, but they show us
 the relative distribution of the individual predictions that make up the
 quantile regression forest. It’s kinda neat to see how the tree
-predictions compare to the final aggregated prediction\! 
+predictions compare to the final aggregated prediction! 
 
-The whole R script can be found
-[here](https://github.com/alcantarar/alcantarar.github.io/blob/master/code_examples/plot_qrf_trees.R)
+### Example Script
+**A gist of the R script can be found 
+[here](https://gist.github.com/alcantarar/c54fae92fe384c535f1e44658b3e6115)**
 
 ### Tips and Tricks
 
