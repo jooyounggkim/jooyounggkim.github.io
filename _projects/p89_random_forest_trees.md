@@ -18,7 +18,7 @@ predictions made by decision *trees* and produces a single prediction
 for the whole *forest*. Specifically, I am using a Quantile
 Regression Forest (QRF) in R using the `caret` and `quantregForest`
 package. 
-<br>
+
 When I was assessing the accuracy of my QRF model, I wanted to visualize
 the variability in the individual tree predictions alongside the
 aggregated prediction (seeing the forest for the trees, so to speak).
