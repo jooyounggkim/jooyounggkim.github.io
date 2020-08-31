@@ -68,9 +68,9 @@ str(pred)
     ##   .. ..$ : NULL
 
 <br>
-I chose to visualize the tree predictions with ridgeplots in a predicts
-vs observed plot. The format of `pred` isn’t ggplot friendly, so we need
-to do some reshaping with `tidyr`, `aggregate`, and `merge` before
+I chose to visualize the tree predictions with ridgeplots in a predicted
+vs observed plot. The format of `pred` isn’t exactly ggplot-friendly, so we 
+need to do some reshaping with `tidyr`, `aggregate`, and `merge` before
 plotting:
 
 ``` r
@@ -111,8 +111,9 @@ ggplot(tree_pred_long) +
 The ridgeplots don’t adhere to the units of the y axis, but they show us
 the relative distribution of the individual predictions that make up the
 quantile regression forest. It’s kinda neat to see how the tree
-predictions compare to the final aggregated prediction\! The whole R
-script can be found
+predictions compare to the final aggregated prediction\! 
+
+The whole R script can be found
 [here](https://github.com/alcantarar/alcantarar.github.io/blob/master/code_examples/plot_qrf_trees.R)
 
 ### Tips and Tricks
