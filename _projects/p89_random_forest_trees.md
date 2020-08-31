@@ -4,7 +4,7 @@ title: Seeing the (Random) Forest for the Trees
 excerpt: Visualize Individual Tree Predictions in Random Forest!
 header:
   teaser: qrf_trees.png
-twitter_image: qrf_trees.png
+twitter_image: qrf_trees_example.png
 collection: project
 author_profile: true
 share: true
