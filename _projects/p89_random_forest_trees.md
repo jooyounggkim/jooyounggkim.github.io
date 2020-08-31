@@ -127,7 +127,7 @@ predictions compare to the final aggregated prediction!
     to get a general idea.
 
   - You might notice that the ridgeplots are not entirely continuous
-    (e.g. Duster 260). This is aesthetics and you can adjust the
+    (e.g. Merc 240D). This is aesthetics and you can adjust the
     threshold of what to show with the `rel_min_height` parameter.
 
   - If you have categorical variables in your QRF, you will need to
