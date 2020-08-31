@@ -25,9 +25,8 @@ After looking around online, I couldn’t find any examples of someone
 doing this, so I thought I’d do a quick write-up on my process. Maybe
 it’s beneficial to someone wanting to better visualize what a random
 forest algorithm is actually doing inside the “black box” of this
-machine learning algorithm.
-
-I’ll use the `mtcars` dataset to try and predict a car’s MPG:
+machine learning algorithm.I’ll use the `mtcars` dataset to try and 
+predict a car’s MPG:
 
 ``` r
 library(tidyr)
@@ -109,12 +108,12 @@ ggplot(tree_pred_long) +
 
 ### Conclusion
 
-The Ridgeplots don’t adhere to the units of the y axis, but they show us
+The ridgeplots don’t adhere to the units of the y axis, but they show us
 the relative distribution of the individual predictions that make up the
 quantile regression forest. It’s kinda neat to see how the tree
 predictions compare to the final aggregated prediction\! The whole R
 script can be found
-[here](https://github.com/alcantarar/files/plot_qrf_trees.R)
+[here](https://github.com/alcantarar/alcantarar.github.io/blob/master/code_examples/plot_qrf_trees.R)
 
 ### Tips and Tricks
 
