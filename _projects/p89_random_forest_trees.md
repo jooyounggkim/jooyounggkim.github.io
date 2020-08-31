@@ -29,7 +29,7 @@ machine learning algorithm.
 
 I’ll use the `mtcars` dataset to try and predict a car’s MPG:
 
-``` r
+```
 library(tidyr)
 library(caret)
 library(quantregForest)
@@ -46,7 +46,7 @@ case) by default. We need to change the class of the `finalModel` to
 only ‘randomForest’. This provides predictions for the forest
 (`aggregate`) and the trees (`individual`):
 
-``` r
+```
 n_cars = 8
 class(qrf$finalModel)
 ```
@@ -74,7 +74,7 @@ vs observed plot. The format of `pred` isn’t ggplot friendly, so we need
 to do some reshaping with `tidyr`, `aggregate`, and `merge` before
 plotting:
 
-``` r
+```
 # reshape individual tree predictions for ggplot
 obs <- mtcars$mpg[1:n_cars]
 car <- row.names(mtcars)[1:n_cars]
@@ -105,7 +105,7 @@ ggplot(tree_pred_long) +
 
     ## Picking joint bandwidth of 0.276
 
-![](how_to_plot_qrf_tree_predictions_files/figure-gfm/pressure-1.png)<!-- -->
+![](images/qrf_trees_example.png)<!-- -->
 
 ### Conclusion
 
