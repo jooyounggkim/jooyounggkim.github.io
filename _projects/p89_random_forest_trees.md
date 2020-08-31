@@ -105,7 +105,7 @@ ggplot(tree_pred_long) +
 
     ## Picking joint bandwidth of 0.276
 
-![](images/qrf_trees_example.png)<!-- -->
+![](https://raw.githubusercontent.com/alcantarar/alcantarar.github.io/master/images/qrf_trees_example.png)
 
 ### Conclusion
 
