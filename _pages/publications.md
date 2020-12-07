@@ -22,9 +22,9 @@ and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</
   {% include archive-single.html %}
 {% endfor %}
 --->
-* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds. <i>under review</i>.
+* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds. <i>under review at PeerJ</i>.
 
-*  Day, E., <b>Alcantara, R.</b>, McGeehan, M., Grabowski, A., Hahn, M. Low-pass filter cutoff frequency affects sacral-mounted inertial measurement unit estimations of peak vertical ground reaction forces and contact time during treadmill running. <i>under review</i>.
+*  Day, E., <b>Alcantara, R.</b>, McGeehan, M., Grabowski, A., Hahn, M. Low-pass filter cutoff frequency affects sacral-mounted inertial measurement unit estimations of peak vertical ground reaction forces and contact time during treadmill running. <i>under review at Journal of Biomechanics</i>.
 
 * <b>Alcantara, R.</b> [Prosthetic leg design, force production, and curve sprint performance: A pilot study.](https://commons.nmu.edu/isbs/vol38/iss1/230/) <i>ISBS Proceedings Archive</i> 38 (1), 230.
 
