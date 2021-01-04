@@ -7,10 +7,8 @@ header:
 collection: project
 author_profile: true
 share: true
-layout: splash
 ---
 <br>
-
 Since 1998, volunteers in the Biomechanics community have searched publication databases for relevant articles, categorized 
 them, and shared them via the 
 [Biomch-L Literature Update](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update). While parts of the 
