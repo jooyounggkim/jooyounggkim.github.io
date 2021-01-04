@@ -44,5 +44,4 @@ categories.
 Starting January 1st, 2021, BiomchBERT will be used to categorize the publications in the Biomch-L Literature Update. 
 Don't worry, a human will still be involved in double checking BiomchBERT's work. Source code for BiomchBERT can be found
 on the [github page](https://github.com/alcantarar/BiomchBERT). Weekly Literature Updates will be posted on [Biomch-L](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update).
-
-*Read about the early attempt to automate the Biomch-L Literature Update [here](https://ryan-alcantara.com/projects/p98_literature/)*
+Read about the early attempt to automate the Biomch-L Literature Update [here](https://ryan-alcantara.com/projects/p98_literature/).
