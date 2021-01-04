@@ -179,9 +179,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  literature:
-    output: true
-    permalink: /:collection/:path/
   dryft:
     output: true
     permalink: /:collection/:path/
@@ -242,17 +239,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-#_literatureupdate
-  - scope:
-      path: ""
-      type: literature
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      header:
-        overlay_image: header_image.jpg
-        overlay_filter: 0.3
+
 
 # Sass/SCSS
 sass:
