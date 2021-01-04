@@ -19,8 +19,6 @@ datasets are needed to train neural networks. Thanks to those who have diligentl
 the years, there are tens of thousands of categorized publications ready to be used to train a neural network!
 
 ### Who's BERT?
-![](https://raw.githubusercontent.com/alcantarar/alcantarar.github.io/master/images/bert.jpg)*Bert from Sesame Street is not involved.*
-
 [BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) is an open-source neural network
 developed by Google AI and originally trained on all the Wikipedia text to discern the relationship between
 sentences (semantic similarity) in a given corpus and improve the quality of Google search results. BERT has been used
