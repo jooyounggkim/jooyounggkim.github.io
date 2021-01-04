@@ -29,8 +29,8 @@ reduce the time required to generate the Biomch-L Literature Update.
 ### Introducing BiomchBERT
 In order to fine-tune BERT to classify biomechanics publications, we needed to create a dataset from the previous Biomch-L 
 Literature Updates (16,000 papers). Gary Bruening developed a webscraper that extracted the publication information (title,
-abstract, authors, journal) and assigned topic for each Literature Update published from 2010-2018. Then, Ryan Alcantara
-fine-tuned a [version of BERT trained on text from MEDLINE/PubMed](https://tfhub.dev/google/experts/bert/pubmed/2) to
+abstract, authors, journal) and assigned topic for each Literature Update published from 2010-2018. Then, I
+fine-tuned a version of BERT trained on text from MEDLINE/PubMed to
 classify publications into 1 of 27 categories. This fine-tuned BERT network, named BiomchBERT, can now be used to classify 
 new publications based on their title and abstract with 72% accuracy. That level of accuracy may not seem very impressive
 at first, but consider the overlap between categories like "Comparative" and "Evolution/Anthropology", or 
