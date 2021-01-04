@@ -10,9 +10,6 @@ share: true
 ---
 <br>
 
-![BiomchBERT_Accuracy](https://raw.githubusercontent.com/alcantarar/BiomchBERT/main/Plots/BiomchBERT_confusion_matrix.png) *BiomchBERT has a prediction accuracy of 72% across 27 categories (tested on 1,600 publications)*
-
-###
 Since 1998, volunteers in the Biomechanics community have searched publication databases for relevant articles, categorized 
 them, and shared them via the 
 [Biomch-L Literature Update](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update). While parts of the 
@@ -41,9 +38,12 @@ at first, but consider the overlap between categories like "Comparative" and "Ev
 "Joints/Cartilage", and "Orthopaedics/Surgery". Many publications can reasonably be categorized into one of several 
 categories.
 
+### BiomchBERT has a prediction accuracy of 72% across 27 categories (tested on 1,600 publications)
+![BiomchBERT_Accuracy](https://raw.githubusercontent.com/alcantarar/BiomchBERT/main/Plots/BiomchBERT_confusion_matrix.png) 
+
+### Moving Forward
 Starting January 1st, 2021, BiomchBERT will be used to categorize the publications in the Biomch-L Literature Update. 
 Don't worry, a human will still be involved in double checking BiomchBERT's work. Source code for BiomchBERT can be found
-on the [github page](https://github.com/alcantarar/BiomchBERT). Weekly Literature Updates are posted on [Biomch-L](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update).
+on the [github page](https://github.com/alcantarar/BiomchBERT). Weekly Literature Updates will be posted on [Biomch-L](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update).
 
-###
 *Read about the early attempt to automate the Biomch-L Literature Update [here](https://ryan-alcantara.com/projects/p98_literature/)*
