@@ -16,4 +16,4 @@ redirect_from:
 {% include base_path %}
 [Download Full CV](http://alcantarar.github.io/files/Alcantara_CV.pdf){: .btn .btn--primary .btn--large}
 
-<embed src="http://alcantarar.github.io/files/Alcantara_CV.pdf", width='1000', height='2000', type="application/pdf" />
+<embed src="https://alcantarar.github.io/files/Alcantara_CV.pdf", type="application/pdf" />
