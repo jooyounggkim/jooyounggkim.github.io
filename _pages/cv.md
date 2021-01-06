@@ -13,6 +13,6 @@ redirect_from:
   - /resume
 ---
 
-<object width="400" height="1000" type="application/pdf" data="https://alcantarar.github.io/files/Alcantara_CV.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<object width="400" height="1000" type="application/pdf" data="https://alcantarar.github.io/files/Alcantara_CV.pdf">
     <p>Something went wrong with the PDF rendering. The PDF is loacted here: https://alcantarar.github.io/files/Alcantara_CV.pdf.</p>
 </object>
