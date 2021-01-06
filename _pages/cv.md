@@ -13,7 +13,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 [Download Full CV](http://alcantarar.github.io/files/Alcantara_CV.pdf){: .btn .btn--primary .btn--large}
-
+<br>
 <embed src="https://alcantarar.github.io/files/Alcantara_CV.pdf", type="application/pdf" />
