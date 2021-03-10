@@ -12,8 +12,8 @@ share: true
 ---
 {% include base_path %}
 
-You can also find my articles on my <a href="https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en&authuser=2">Google Scholar</a>
-and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</a> pages. Feel free to tweet/email if you can't find a PDF.
+You can also find my publications at <a href="https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en&authuser=2">Google Scholar</a>
+and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</a>. Feel free to tweet/email if you can't find a PDF.
 
 
 <!--- below converts page to collection --->
@@ -22,9 +22,9 @@ and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</
   {% include archive-single.html %}
 {% endfor %}
 --->
-* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds. <i>under review at PeerJ</i>.
+* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds. <i>in press at PeerJ</i>.
 
-*  Day, E., <b>Alcantara, R.</b>, McGeehan, M., Grabowski, A., Hahn, M. Low-pass filter cutoff frequency affects sacral-mounted inertial measurement unit estimations of peak vertical ground reaction forces and contact time during treadmill running. <i>under review at Journal of Biomechanics</i>.
+*  Day, E., <b>Alcantara, R.</b>, McGeehan, M., Grabowski, A., Hahn, M. Low-pass filter cutoff frequency affects sacral-mounted inertial measurement unit estimations of peak vertical ground reaction forces and contact time during treadmill running. <i>Journal of Biomechanics, 119, 110323 </i>(2021).
 
 * <b>Alcantara, R.</b> [Prosthetic leg design, force production, and curve sprint performance: A pilot study.](https://commons.nmu.edu/isbs/vol38/iss1/230/) <i>ISBS Proceedings Archive</i> 38 (1), 230.
 
@@ -33,9 +33,6 @@ power during treadmill running.](https://link.springer.com/article/10.1007/s0042
 
 * <b>Alcantara, R.</b> [Dryft: A Python and MATLAB package to correct drifting ground reaction
 force signals during treadmill running.](https://joss.theoj.org/papers/10.21105/joss.01910) <i>Journal of Open Source Software 4(44), 1910</i>. (2019).
-
-* <b>Alcantara, R.,</b> Beck, O., Grabowski, A. [Added lower limb mass does not affect
-biomechanical asymmetry but increases metabolic power in runners with a unilateral transtibial amputation.](https://osf.io/preprints/sportrxiv/xcus7/) <i>SportRxiv preprint</i>. (2019).
 
 * <b>Alcantara, R.,</b> Trudeau, M., Rohr, E. [Calcaneus range of motion underestimated by markers on running shoe heel.](http://alcantarar.github.io/files/Alcantara_et_al_2018.pdf) <i>Gait & Posture</i>. 63. (2018).
 
