@@ -21,7 +21,7 @@ author_profile: false
 * **Alcantara, R.** & Grabowski, A. **(2021)**. [Biomechanics of the Inside and Outside Leg When Sprinting Along Flat Curves.](https://www.youtube.com/watch?v=MrSFyqg1FJk)
 American Society of Biomechanics, Rocky Mountain Meeting.
 
-Diaz, G., **Alcantara, R.,** Grabowski, A. **(2021)**. Effects of Curve Radii on Maximum Curve Sprinting Velocity in Athletes
+* Diaz, G., **Alcantara, R.,** Grabowski, A. **(2021)**. Effects of Curve Radii on Maximum Curve Sprinting Velocity in Athletes
 With a Leg Amputation. American Society of Biomechanics, Rocky Mountain Meeting.
 
 * **Alcantara, R. (2020).** [Prosthetic Leg Design, Force Production, and Curve Sprint Performance: A Pilot Study.](https://www.ryan-alcantara.com/projects/p93_ISBS2020/) International Society of Biomechanics in Sports
