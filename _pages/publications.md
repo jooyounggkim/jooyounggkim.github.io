@@ -23,7 +23,7 @@ and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</
 {% endfor %}
 --->
 
-* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds. <i>in press at PeerJ</i>.
+* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. [Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds.](https://peerj.com/articles/11199/) <i>PeerJ 9:e11199</i> (2021).
 
 * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.1101/2021.03.17.435901) bioRxiv (2021).
 
