@@ -15,7 +15,7 @@ I'm a biomechanist enthusiastic about machine learning, wearable devices, resear
 My general research interests include running-related injuries, footwear biomechanics, and sprinting mechanics. Check out some of the 
 [projects](https://alcantarar.github.io/projects/) I've been working on or [follow me](https://twitter.com/Ryan_Alcantara_) on twitter!
  
-### What am I up to?
+## What am I up to?
 I'm currently a postdoctoral research fellow at Stanford University in the [Neuromuscular Biomechanics Lab](https://nmbl.stanford.edu/) under the guidance of Dr. Scott Delp. 
 I received my Ph.D. and M.Sc. from the University of Colorado Boulder, where I worked in Dr. Alena Grabowski's [Applied Biomechanics Laboratory](https://www.colorado.edu/iphy/research/applied-biomechanics-lab). 
 <br>   
