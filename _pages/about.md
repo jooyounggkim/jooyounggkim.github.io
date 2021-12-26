@@ -22,3 +22,6 @@ I received my Ph.D. and M.Sc. from the University of Colorado Boulder, where I w
 Throughout my Ph.D. I became interested in research software, developing [dryft](https://github.com/alcantarar/dryft#dryft), an open source python/MATLAB package to process force-measuring treadmill data. I also recently led a [Git/GitHub workshop for researchers](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/) at the 2020 American Society of Biomechanics annual meeting.
 <br>    
 When I'm not working, I enjoy petting dogs, hiking, snowboarding, playing Dungeons & Dragons, and helping researchers with their python, R, and MATLAB problems.
+<br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ryan-alcantara-5b632589" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ryan-alcantara-5b632589?trk=profile-badge">Ryan Alcantara</a></div>
+              
