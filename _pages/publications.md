@@ -23,9 +23,9 @@ and <a href="https://www.researchgate.net/profile/Ryan_Alcantara">Researchgate</
 {% endfor %}
 --->
 
-* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. [Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds.](https://peerj.com/articles/11199/) <i>PeerJ 9:e11199</i> (2021).
-
-* <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.1101/2021.03.17.435901) bioRxiv (2021).
+* <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022).
+ 
+* <b>Alcantara, R.</b>, Day, E., Hahn, M., Grabowski, A. [Sacral acceleration can predict whole-body kinetics and stride kinematics across running speeds.](https://doi.org/10.7717/peerj.11199) <i>PeerJ 9:e11199</i> (2021).
 
 *  Day, E., <b>Alcantara, R.</b>, McGeehan, M., Grabowski, A., Hahn, M. Low-pass filter cutoff frequency affects sacral-mounted inertial measurement unit estimations of peak vertical ground reaction forces and contact time during treadmill running. <i>Journal of Biomechanics, 119, 110323 </i>(2021).
 
