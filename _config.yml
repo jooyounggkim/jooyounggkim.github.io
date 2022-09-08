@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RYAN ALCANTARA"
+title                    : "Ryan Alcantara"
 title_separator          : "-"
 name                     : &name "Ryan Alcantara"
 description              : &description "Ryan's Personal Website"
@@ -87,10 +87,10 @@ author:
   bio              : "Biomechanics Researcher"
   location         : "Cupertino, California, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
   googlescholar    : "https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en"
   email            : "ryansalcantara@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ryan_Alcantara"
+  researchgate     : #"https://www.researchgate.net/profile/Ryan_Alcantara"
   uri              :
   bitbucket        :
   codepen          :
