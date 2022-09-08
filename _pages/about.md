@@ -11,14 +11,5 @@ redirect_from:
   - /about.html
 ---
 ## Hello World!
-I'm a biomechanist enthusiastic about machine learning, wearable devices, research software, and reproducibility.
-My general research interests include running-related injuries, footwear biomechanics, and sprinting mechanics. Check out some of the 
-[projects](https://alcantarar.github.io/projects/) I've been working on or [follow me](https://twitter.com/Ryan_Alcantara_) on twitter!
- 
-## What am I up to?
-I'm currently a postdoctoral research fellow at Stanford University in the [Neuromuscular Biomechanics Lab](https://nmbl.stanford.edu/) under the guidance of Dr. Scott Delp. 
-I received my Ph.D. and M.Sc. from the University of Colorado Boulder, where I worked in Dr. Alena Grabowski's [Applied Biomechanics Laboratory](https://www.colorado.edu/iphy/research/applied-biomechanics-lab). 
-<br>   
-Throughout my Ph.D. I became interested in research software, developing [dryft](https://github.com/alcantarar/dryft#dryft), an open source python/MATLAB package to process force-measuring treadmill data. I also recently led a [Git/GitHub workshop for researchers](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/) at the 2020 American Society of Biomechanics annual meeting.
-<br>    
-When I'm not working, I enjoy petting dogs, hiking, snowboarding, playing Dungeons & Dragons, and helping researchers with their python, R, and MATLAB problems.
+I'm a biomechanics researcher enthusiastic about wearable devices and product development.
+I've published research in the areas of running-related bone stress injuries, machine learning, footwear biomechanics, sprinting mechanics, and signal processing. This site is a bit skeletal since departing academia but I frequent [twitter](https://twitter.com/Ryan_Alcantara_).
