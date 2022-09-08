@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Ryan Alcantara"
   avatar           : "profile_RA.jpg"
-  bio              : "Postdoctoral Research Fellow, Stanford University"
-  location         : "Palo Alto, California, USA"
+  bio              : "Biomechanics Researcher"
+  location         : "Cupertino, California, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
   googlescholar    : "https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en"
-  email            : "ryan.alcantara@stanford.edu"
+  email            : "ryansalcantara@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ryan_Alcantara"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alcantarar"
+  github           : #"alcantarar"
   google_plus      :
   keybase          :
   instagram        :
