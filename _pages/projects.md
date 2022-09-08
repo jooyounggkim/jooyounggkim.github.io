@@ -1,6 +1,6 @@
 ---
 title: PROJECTS
-excerpt: Things I’ve worked on (or still working on)
+excerpt: Things I’ve worked on
 layout: collection
 header:
   overlay_image: header_image.jpg
