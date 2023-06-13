@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan Alcantara"
+title                    : "Jooyoung Kim"
 title_separator          : "-"
-name                     : &name "Ryan Alcantara"
-description              : &description "Ryan's Personal Website"
+name                     : &name "Jooyoung Kim"
+description              : &description "Jooyoung's Personal Website"
 url                      : https://alcantarar.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alcantarar/alcantarar.github.io"
+repository               : "jooyounggkim/jooyounggkim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
