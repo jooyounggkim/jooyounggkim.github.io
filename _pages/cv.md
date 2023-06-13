@@ -13,4 +13,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://jooyounggkim.github.io/files/CV_JooyoungKim.pdf" width="500" height="700" type='application/pdf'>
+<embed src="https://jooyounggkim.github.io/files/CV_JooyoungKim.pdf" width="600" height="800" type='application/pdf'>
