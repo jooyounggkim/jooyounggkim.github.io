@@ -10,8 +10,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hello World!
-I'm a biomechanics researcher enthusiastic about wearable devices and product development.
-I've published research in the areas of running-related bone stress injuries, machine learning, footwear biomechanics, sprinting mechanics, and signal processing.    
+Welcome! I am a PhD Candidate in Economics from Syracuse University. My work focuses on questions related to cities and urban economies and intersects with both labor and real estate economics. I will be attending the ASSA meetings in January.
 <br>
-This site is a bit skeletal since departing academia but I frequent [twitter](https://twitter.com/Ryan_Alcantara_).
+
