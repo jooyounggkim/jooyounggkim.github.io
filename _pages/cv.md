@@ -13,4 +13,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://alcantarar.github.io/files/Alcantara_CV.pdf" width="500" height="500" type='application/pdf'>
+<embed src="https://jooyounggkim.github.io/files/CV_JooyoungKim.pdf" width="500" height="700" type='application/pdf'>
