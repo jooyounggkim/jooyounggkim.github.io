@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: PUBLICATIONS
+title: Research
 excerpt: |
   <br>
 header:
