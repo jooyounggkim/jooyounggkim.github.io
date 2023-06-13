@@ -6,7 +6,7 @@ excerpt: |
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-permalink: /publications/
+permalink: /research/
 author_profile: false
 share: true
 ---
