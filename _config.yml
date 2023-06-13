@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Jooyoung Kim"
-  avatar           : "headshot_jkim.jpeg"
-  bio              : "PhD Candidate in Economics"
+  avatar           : "headshot_jkim.jpg"
+  bio              : #"PhD Candidate in Economics"
   location         : "Syracuse, NY, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
