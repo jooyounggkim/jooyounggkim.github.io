@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Contact
 layout: single
 <!-- excerpt: |
