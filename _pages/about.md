@@ -13,6 +13,6 @@ redirect_from:
 <br>
 <br>
 <br>
-Welcome! It's under construction. I am a PhD Candidate in Economics from Syracuse University. My work focuses on questions related to cities and urban economies and intersects with both labor and real estate economics. I will be attending the ASSA meetings in January.
+Welcome! This website is under construction. I am a Ph.D. Candidate in Economics from Syracuse University. My work focuses on questions related to cities and urban economies and intersects with both labor and real estate economics. I will be attending the ASSA meetings in January.
 <br>
 
