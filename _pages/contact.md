@@ -2,8 +2,8 @@
 layout: archive
 title: Contact
 layout: single
-excerpt: |
-  <br>
+<!-- excerpt: |
+  <br> -->
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
