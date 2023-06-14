@@ -1,6 +1,6 @@
 ---
-title: Contact
 layout: single
+title: Contact
 <!-- excerpt: |
   <br> -->
 header:
