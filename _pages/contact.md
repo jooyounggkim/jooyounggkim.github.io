@@ -25,9 +25,9 @@ Email: jkim266[at]syr.edu
 <br>
 Address:
 <br>
-Maxwell School of Citizenship and Public Affairs
-Syracuse University
-426 Eggers Hall
+Maxwell School of Citizenship and Public Affairs <br>
+Syracuse University <br>
+426 Eggers Hall <br>
 Syracuse NY 13244
 
 
