@@ -8,8 +8,8 @@ header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
 permalink: /contact/
-author_profile: true
-share: true
+author_profile: false
+share: false
 ---
 {% include base_path %}
 
