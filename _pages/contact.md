@@ -27,7 +27,7 @@ Address:
 <br>
 Maxwell School of Citizenship and Public Affairs <br>
 Syracuse University <br>
-426 Eggers Hall <br>
+043 Eggers Hall <br>
 Syracuse NY 13244
 
 
