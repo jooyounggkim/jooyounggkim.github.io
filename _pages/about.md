@@ -14,9 +14,13 @@ redirect_from:
 <br>
 <br>
 Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.  
+
 <br>
+
 My areas of interest lie at the intersection of urban and labor economics. I enjoy working with people and communicating ideas in both informal and formal settings. 
+
 <br>
+
 I can be reached by email: jkim266[at]syr.edu.
 <br>
 
