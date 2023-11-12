@@ -11,8 +11,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-<br>
-<br>
+
 
 Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.  
 
