@@ -13,6 +13,6 @@ redirect_from:
 <br>
 <br>
 <br>
-Welcome! This website is under construction. I am a Ph.D. candidate in Economics from Syracuse University. My work focuses on questions related to cities and urban economies and intersects with both labor and real estate economics. I will be attending the ASSA meetings in January.
+Welcome! I am a Ph.D. candidate in Economics at Syracuse University. My areas of interest lie at the intersection of urban and labor economics. I enjoy working with people and communicating ideas in both informal and formal settings. I can be reached by email: jkim266[at]syr.edu.
 <br>
 
