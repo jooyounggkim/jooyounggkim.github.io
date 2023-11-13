@@ -21,12 +21,13 @@ share: true
 
 # Working papers
 
-
 <!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
-
+<!--
 <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+## <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Acceptance of Same-Sex Couples and Their Location Choices</a>
+-->
 
-## [Acceptance of Same-Sex Couples and Their Location Choices](https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0)
+## [<span style="color: navy">Acceptance of Same-Sex Couples and Their Location Choices</span>](https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0)
 Same-sex couples disproportionately live in some metropolitan areas in the United States. One reason is the different levels of social acceptance of same-sex couples across areas. This paper shows that acceptance of same-sex couples affects their location decisions, especially those with college degrees, resulting in higher educational sorting of same-sex couples across areas. I derive the mean utility of each city from a conditional logit model. OLS regression results of the obtained mean utility on acceptance show a substantial impact of acceptance on location choices of college-educated same-sex couples. An instrumental variable regression using a novel instrument of the historical number of churches shows a similar effect of acceptance. Counterfactual analysis suggests significant implications for the distribution and welfare of same-sex couples and productivity in an area.
 
 
