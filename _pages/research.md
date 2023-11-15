@@ -19,7 +19,7 @@ share: true
 {% endfor %}
 --->
 
-# <a style="font-family:copperplate; font-size: 25px">Working papers</a>
+# <a style="font-family:copperplate; color: black; font-size: 200%">Working papers</a>
 <!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
 <!--
 <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
