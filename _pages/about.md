@@ -13,17 +13,20 @@ redirect_from:
 <br>
 
 
-Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.  
+
+<p style="font-family:georgia">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.
+
+what if I do this</p>  
 
 <br>
 
 
-My areas of interest lie at the intersection of urban and labor economics. I enjoy working with people and communicating ideas in both informal and formal settings. 
+<p style="font-family:verdana">My areas of interest lie at the intersection of urban and labor economics. I enjoy working with people and communicating ideas in both informal and formal settings.</p>
 
 <br>
 
-I can be reached by email: jkim266[at]syr.edu.
+<p style="font-family:monaco">I can be reached by email: jkim266[at]syr.edu.</p>
 <br>
 
-<p style="font-family:verdana">This is a paragraph.</p>
-<p style="font-family:'Courier New'">This is a paragraph.</p>
+<p style="font-family:copperplate">This is a paragraph.</p>
+<p style="font-family:'Lucida Console'">This is a paragraph.</p>
