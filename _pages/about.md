@@ -30,5 +30,5 @@ what if I do this</p>
 <p style="font-family:monaco">I can be reached by email: jkim266[at]syr.edu.</p>
 <br>
 
-<p style="font-family:copperplate">This is a paragraph.</p>
+<p style="font-family:georgia">This is a paragraph.</p>
 <p style="font-family:'Lucida Console'">This is a paragraph.</p>
