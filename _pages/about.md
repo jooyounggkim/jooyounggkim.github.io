@@ -25,3 +25,5 @@ My areas of interest lie at the intersection of urban and labor economics. I enj
 I can be reached by email: jkim266[at]syr.edu.
 <br>
 
+<p style="font-family:verdana">This is a paragraph.</p>
+<p style="font-family:'Courier New'">This is a paragraph.</p>
