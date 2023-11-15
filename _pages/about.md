@@ -16,6 +16,8 @@ redirect_from:
 
 <p style="font-family:georgia">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.
 
+<br>
+
 what if I do this</p>  
 
 <br>
