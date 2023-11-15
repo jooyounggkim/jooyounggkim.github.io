@@ -14,11 +14,7 @@ redirect_from:
 
 
 
-<p style="font-family:georgia">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.
-
-<br>
-
-what if I do this</p>  
+<p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
 <br>
 
@@ -27,8 +23,6 @@ what if I do this</p>
 
 <br>
 
-<p style="font-family:monaco">I can be reached by email: jkim266[at]syr.edu.</p>
-<br>
+<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
 
-<p style="font-family:georgia">This is a paragraph.</p>
-<p style="font-family:'Lucida Console'">This is a paragraph.</p>
+
