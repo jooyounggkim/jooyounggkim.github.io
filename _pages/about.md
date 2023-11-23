@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<body>
 <br>
 
- <body>
+ 
     <div class="container">
       <div class="image">
         <img src="images/profile_maxwell.jpg">
