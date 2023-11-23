@@ -11,11 +11,11 @@ redirect_from:
 <br>
 
  
-<div class="container" style="max-width:100%">
-<div class="image" style="max-width:40%">
+<div class="container" style="max-width:140%">
+<div class="image" style="max-width:60%">
 <img src="images/profile_maxwell.jpg">
 </div>
-<div class="text" style="max-width:60%">
+<div class="text" style="max-width:80%">
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
 <br>
