@@ -16,11 +16,6 @@ redirect_from:
 <img src="images/profile_maxwell.jpg">
 </div>
 <div class="text">
-<h1>Paris is one of the most magnificient cities in France.</h1>
-</div>
-</div>
- 
-
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
 <br>
@@ -31,6 +26,11 @@ redirect_from:
 <br>
 
 <p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
+
+</div>
+</div>
+ 
+
 
 
 </body>
