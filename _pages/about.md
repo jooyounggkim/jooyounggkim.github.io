@@ -2,9 +2,6 @@
 permalink: /
 title: <br>
 layout: single
-header: none
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 author_profile: false
 redirect_from: 
   - /about/
