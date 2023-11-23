@@ -7,7 +7,7 @@ header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
 permalink: /contact/
-author_profile: false
+author_profile: true
 share: false
 ---
 {% include base_path %}
