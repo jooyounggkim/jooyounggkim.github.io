@@ -2,10 +2,10 @@
 permalink: /
 title: <br>
 layout: single
-header:
+header: none
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
