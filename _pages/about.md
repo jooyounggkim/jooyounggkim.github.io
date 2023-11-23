@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: <br>
-layout: single
+layout: double
 author_profile: false
 redirect_from: 
   - /about/
@@ -10,23 +10,7 @@ redirect_from:
 <br>
 
 
-  <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
 
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 20px;
-  padding-left: 20px;
-}
-  </style>
 
     <div class="container">
       <div class="image">
