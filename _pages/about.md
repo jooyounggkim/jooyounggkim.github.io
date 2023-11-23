@@ -9,9 +9,7 @@ redirect_from:
 ---
 <br>
 
-
-
-
+ <body>
     <div class="container">
       <div class="image">
         <img src="images/profile_maxwell.jpg">
@@ -20,7 +18,7 @@ redirect_from:
         <h1>Paris is one of the most magnificient cities in France.</h1>
       </div>
     </div>
-
+ 
 
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
@@ -34,3 +32,4 @@ redirect_from:
 <p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
 
 
+</body>
