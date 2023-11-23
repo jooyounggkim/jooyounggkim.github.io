@@ -10,7 +10,34 @@ redirect_from:
 <br>
 
 
-<img src="images/profile_maxwell.jpg" alt="hi" class="inline"/>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+
+    <div class="container">
+      <div class="image">
+        <img src="images/profile_maxwell.jpg">
+      </div>
+      <div class="text">
+        <h1>Paris is one of the most magnificient cities in France.</h1>
+      </div>
+    </div>
+
+
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
 <br>
