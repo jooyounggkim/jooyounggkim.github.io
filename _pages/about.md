@@ -11,7 +11,7 @@ redirect_from:
 <br>
 
  
-<div class="container" style="max-width:100%">
+<div class="container" style="width:140%">
 <div class="image" style="max-width:50%">
 <img src="images/profile_maxwell.jpg">
 </div>
