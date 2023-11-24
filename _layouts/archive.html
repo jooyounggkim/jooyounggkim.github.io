@@ -43,43 +43,42 @@ layout: default
 </style> -->
 
 <style>
- .container {
-  display: flex;
-  justify-content: left;
-  flex-wrap: wrap;
-}
-.img {
-  flex: 40%;
-  max-height: 100%;
-  float: left;
-}
-.text {
-  flex: 60%;
-  font-size: 18px;
-  padding-left: 30px;
-  text-align: left;
-  float: left;
-}
-
-@media (max-width: 800px) {
-  .container {
+.container {
     display: flex;
     justify-content: left;
     flex-wrap: wrap;
     flex-direction: column;
+}
+.img {
+  flex: 100%;
+  float: left;
+}
+.text {
+  flex: 100%;
+  font-size: 18px;
+  float: left;
+}
+
+@media screen and (min-width: 800px) {
+ .container {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
   }
   .img {
-    flex: 100%;
-/*     max-width: 100%;
-    max-height: 100%; */
+    flex-basis: 40%;
+    width: 40%
     float: left;
   }
   .text {
-    flex: 100%;
+    flex-basis: 60%;
+    width: 60%
     font-size: 18px;
+    padding-left: 30px;
+    text-align: left;
     float: left;
   }
-}
+
 </style>
 
 
