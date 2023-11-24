@@ -12,10 +12,10 @@ redirect_from:
 
  
 <div class="container" style="max-width:100%">
-<div class="image" style="min-width:40%">
+<div class="image">
 <img src="images/profile_maxwell1.jpg">
 </div>
-<div class="text" style="min-width:60%">
+<div class="text">
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 
 <br>
@@ -25,7 +25,7 @@ redirect_from:
 
 <br>
 
-<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu. Testing.</p>
+<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
 
 </div>
 </div>
