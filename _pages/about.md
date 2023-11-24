@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: <br>
-layout: double
+layout: archive
 author_profile: false
 redirect_from: 
   - /about/
@@ -25,7 +25,7 @@ redirect_from:
 
 <br>
 
-<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
+<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu. Testing.</p>
 
 </div>
 </div>
