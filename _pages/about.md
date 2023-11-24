@@ -15,17 +15,17 @@ redirect_from:
 <div class="image" style="width:40%">
 <img src="images/profile_maxwell.jpg">
 </div>
-<div class="text" style="min-width:60%">
+<div class="text" style="min-width:55%">
 <p style="font-family:verdana">Welcome! I am a fifth-year Ph.D. candidate in Economics at Syracuse University. I am on the 2023-2024 Economics Job Market.</p>  
 </div>
 <br>
 
-<div class="text" style="min-width:60%">
+<div class="text" style="min-width:55%">
 <p style="font-family:verdana">My areas of interest lie at the intersection of urban and labor economics. I enjoy working with people and communicating ideas in both informal and formal settings.</p>
 </div>
 <br>
-<div class="text" style="min-width:60%">
-<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu. Testing.</p>
+<div class="text" style="min-width:55%">
+<p style="font-family:verdana">I can be reached by email: jkim266[at]syr.edu.</p>
 
 </div>
 </div>
