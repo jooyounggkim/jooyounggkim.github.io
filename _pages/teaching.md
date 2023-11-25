@@ -19,14 +19,14 @@ share: true
 {% endfor %}
 --->
 
-<p style="font-family:verdana"> Reviews from my students are available <a href="../review" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here. </a> 
+<p style="font-family:verdana"> Reviews from my students are available [<a href="../review" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].
 </p>
 
 
 ## <a style="font-family:verdana; color: black;">Instructor</a>
 
 <p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. <br>
-    &emsp; A sample of syllabus is available <a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
+    &emsp; A sample of syllabus is available [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
 
 
 
