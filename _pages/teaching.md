@@ -25,7 +25,7 @@ share: true
 
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
-<p style="font-family:verdana">Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
+<p style="font-family:verdana; line-height:150%;">Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
 Economic Statistics, Syracuse University, Fall 2020. <br>
 Introduction to Microeconomics, Syracuse University, Spring 2020. <br>
 Economic Ideas and Issues, Syracuse University, Fall 2019. <br>
