@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <body>
-<br>
 
  
 <div class="container" style="max-width:100%">
