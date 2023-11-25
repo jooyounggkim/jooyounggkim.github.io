@@ -25,7 +25,7 @@ share: true
 
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
-<p style="font-family:verdana; line-height:150%;">Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
+<div style="font-family:verdana; line-height:150%;">Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
 Economic Statistics, Syracuse University, Fall 2020. <br>
 Introduction to Microeconomics, Syracuse University, Spring 2020. <br>
 Economic Ideas and Issues, Syracuse University, Fall 2019. <br>
@@ -34,7 +34,7 @@ Microeconomic Theory, Korea University, Fall 2018, Fall 2017. <br>
 Introduction to Economics, Handong Global University, Fall 2016. <br>
 Theory of Games and Information, Handong Global University, Fall 2015. <br>
 Macroeconomics, Handong Global University, Fall 2014. <br>
-</p>
+</div>
 
 
   
