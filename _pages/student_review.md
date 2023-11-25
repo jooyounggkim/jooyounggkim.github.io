@@ -20,7 +20,7 @@ share: true
 --->
 
 
-<p style="font-family:verdana"> Teaching evaluations are available <a href="https://www.dropbox.com/scl/fi/iq4e3td0h5pao536hwv8a/TeachingEvaluation_JooyoungKim.pdf?rlkey=5i2qnudiwjcvej2epmmfaw93l&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
+<p style="font-family:verdana"> Complete evaluations are available <a href="https://www.dropbox.com/scl/fi/iq4e3td0h5pao536hwv8a/TeachingEvaluation_JooyoungKim.pdf?rlkey=5i2qnudiwjcvej2epmmfaw93l&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
 
 # <a style="font-family:verdana; color: black;">Selective qualitative comments</a>
 
