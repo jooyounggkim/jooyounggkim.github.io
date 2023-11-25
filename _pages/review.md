@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Student reviews
+title: Student Reviews
 excerpt: |
   <br>
 header:
