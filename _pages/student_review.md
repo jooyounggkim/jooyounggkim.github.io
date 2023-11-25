@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: Teaching Experience
+title: Student reviews
 excerpt: |
   <br>
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-permalink: /teaching/
+permalink: /review/
 author_profile: false
 share: true
 ---
@@ -22,22 +22,34 @@ share: true
 
 <p style="font-family:verdana"> Teaching evaluations are available <a href="https://www.dropbox.com/scl/fi/iq4e3td0h5pao536hwv8a/TeachingEvaluation_JooyoungKim.pdf?rlkey=5i2qnudiwjcvej2epmmfaw93l&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
 
-## <a style="font-family:verdana; color: black;">Instructor</a>
+# <a style="font-family:verdana; color: black;">Selective qualitative comments</a>
 
-<p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. <br>
-    &emsp; A sample of syllabus is available <a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
+## <a style="font-family:verdana; color: black;">Primary Instructor</a>
 
-
+<div style="font-family:georgia; line-height:200%;">``I completed the course feedback form on Friday, but I wanted to personally reach out to you and give you feedback. I was quite hesitant to take this course as I
+am a non-traditional student finishing their degree I had started almost XX years
+ago. I had not taken an Economics course in that span and I was nervous I would
+not remember anything from ECN 101, ECN 102, and ECN 302, courses I had
+taken previously years and years ago. I want to thank you for your organization
+in preparing the lectures and being extremely knowledgeable and concise about
+the information you were teaching. As someone who is taking courses online
+from XXXX, your attention to detail should be applauded. The homework and
+exams were all fair and reiterated the concepts we learned in your lectures and
+from reading. I again want to thank you for a wonderful and challenging summer
+course and wish you the best in your teaching endeavors!''
+</div>
 
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
-<div style="font-family:verdana; line-height:200%;">Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
-Economic Statistics, Syracuse University, Fall 2020. <br>
-Introduction to Microeconomics, Syracuse University, Spring 2020. <br>
-Economic Ideas and Issues, Syracuse University, Fall 2019. <br>
-Microeconomic Theory I (graduate), Korea University, Spring 2018. <br>
-Microeconomic Theory, Korea University, Fall 2018, Fall 2017. <br>
-Introduction to Economics, Handong Global University, Fall 2016. <br>
-Theory of Games and Information, Handong Global University, Fall 2015. <br>
-Macroeconomics, Handong Global University, Fall 2014. <br>
+<div style="font-family:georgia; line-height:200%;">
+"He is patient." <br>
+"He teaches so clearly and patiently." <br>
+"He was good at answering questions." <br>
+"He was very receptive." <br>
+"He was very willing to help." <br>
+"His enthusiasm and deep knowledge about the course was really helpful." <br>
+"The TA was very open for discussion when it came to confusion about certain questions on a worksheet." <br>
 </div>
+
+
+
