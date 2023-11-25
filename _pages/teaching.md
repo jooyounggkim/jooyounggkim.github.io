@@ -29,10 +29,8 @@ share: true
 Economic Statistics, Syracuse University, Fall 2020. <br>
 Introduction to Microeconomics, Syracuse University, Spring 2020. <br>
 Economic Ideas and Issues, Syracuse University, Fall 2019. <br>
-  <br>
 Microeconomic Theory I (graduate), Korea University, Spring 2018. <br>
 Microeconomic Theory, Korea University, Fall 2018, Fall 2017. <br>
-  <br>
 Introduction to Economics, Handong Global University, Fall 2016. <br>
 Theory of Games and Information, Handong Global University, Fall 2015. <br>
 Macroeconomics, Handong Global University, Fall 2014. <br>
