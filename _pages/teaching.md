@@ -19,7 +19,9 @@ share: true
 {% endfor %}
 --->
 
-<p style="font-family:verdana"> Reviews from my student are available [here](student_review.md) </p>
+<p style="font-family:verdana"> Reviews from my student are available <a href="student_review.md" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a> 
+</p>
+
 
 ## <a style="font-family:verdana; color: black;">Instructor</a>
 
