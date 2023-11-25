@@ -19,7 +19,18 @@ share: true
 {% endfor %}
 --->
 
-# <a style="font-family:verdana; color: black;">Working papers</a>
+## <a style="font-family:verdana; color: black;">Instructor</a>
+
+<p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021.</p>
+
+## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
+
+<p style="font-family:verdana">Introduction to Stats and Economics, Syracuse University, Spring 2021.</p>
+
+<p style="font-family:verdana">Introduction to Stats and Economics, Syracuse University, Spring 2021.</p>
+
+
+
 <!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
 <!--
 <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
