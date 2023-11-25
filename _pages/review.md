@@ -27,6 +27,7 @@ share: true
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
 <div style="font-family:georgia; line-height:200%;">
+<em>
 "He is patient." <br>
 "He teaches so clearly and patiently." <br>
 "He was good at answering questions." <br>
@@ -34,11 +35,13 @@ share: true
 "He was very willing to help." <br>
 "His enthusiasm and deep knowledge about the course was really helpful." <br>
 "The TA was very open for discussion when it came to confusion about certain questions on a worksheet." <br>
+</em>
 </div>
 
 ## <a style="font-family:verdana; color: black;">Primary Instructor</a>
 
-<div style="font-family:georgia; line-height:200%;">"I completed the course feedback form on Friday, but I wanted to personally reach out to you and give you feedback. I was quite hesitant to take this course as I
+<div style="font-family:georgia; line-height:200%;">
+ <em> "I completed the course feedback form on Friday, but I wanted to personally reach out to you and give you feedback. I was quite hesitant to take this course as I
 am a non-traditional student finishing their degree I had started almost XX years
 ago. I had not taken an Economics course in that span and I was nervous I would
 not remember anything from ECN 101, ECN 102, and ECN 302, courses I had
@@ -49,6 +52,7 @@ from XXXX, your attention to detail should be applauded. The homework and
 exams were all fair and reiterated the concepts we learned in your lectures and
 from reading. I again want to thank you for a wonderful and challenging summer
 course and wish you the best in your teaching endeavors!"
+  </em>
 </div>
 
 
