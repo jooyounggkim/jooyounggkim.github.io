@@ -21,6 +21,8 @@ share: true
 
 <p style="font-family:verdana"> Teaching evaluations are available <a href="https://www.dropbox.com/scl/fi/iq4e3td0h5pao536hwv8a/TeachingEvaluation_JooyoungKim.pdf?rlkey=5i2qnudiwjcvej2epmmfaw93l&dl=0" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>. </p>
 
+[test](student_review.md)
+
 ## <a style="font-family:verdana; color: black;">Instructor</a>
 
 <p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. <br>
