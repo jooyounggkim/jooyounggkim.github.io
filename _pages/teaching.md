@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Teaching
+title: Teaching Experience
 excerpt: |
   <br>
 header:
