@@ -41,11 +41,6 @@ Macroeconomics, Handong Global University, Fall 2014. <br>
         
         
     
-    
-    
-        
-        \item 
-        \item 
 
 
 
