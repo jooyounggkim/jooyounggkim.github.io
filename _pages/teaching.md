@@ -33,9 +33,9 @@ share: true
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
 
-<div style="font-family:verdana; line-height:200%;">
+<p style="font-family:verdana; line-height:200%;">
   As a dedicated teaching assistant, I actively engaged with students through regular, weekly office hours and review sessions in most courses I assisted.
-</div>  
+</p>  
 <div style="font-family:verdana; line-height:200%;">
 Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
 Economic Statistics, Syracuse University, Fall 2020. <br>
