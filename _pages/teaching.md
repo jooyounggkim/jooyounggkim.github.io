@@ -35,7 +35,7 @@ share: true
 
 
 <div style="font-family:verdana; line-height:200%;">
-As a dedicated teaching assistant, I actively engage with students through regular, weekly office hours and review sessions in the majority of the courses I support. <br>
+As a dedicated teaching assistant, I actively engaged with students through regular, weekly office hours and review sessions in most courses I assisted. <br>
 Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
 Economic Statistics, Syracuse University, Fall 2020. <br>
 Introduction to Microeconomics, Syracuse University, Spring 2020. <br>
