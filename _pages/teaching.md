@@ -34,7 +34,7 @@ share: true
 
 
 <p style="font-family:verdana; line-height:200%;">
-  As a dedicated teaching assistant, I actively engaged with students through regular, weekly office hours and review sessions in most courses I assisted.
+  As a dedicated teaching assistant, I actively engaged with students through regular, weekly office hours and review sessions in most of the courses I assisted.
 </p>  
 <div style="font-family:verdana; line-height:200%;">
 Introduction to Stats and Economics, Syracuse University, Spring 2021. <br>
