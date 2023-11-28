@@ -40,7 +40,7 @@
     box-sizing: border-box;
 } */
 
-.container {
+.container2 {
     display: flex;
     justify-content: left;
     flex-wrap: wrap;
@@ -55,7 +55,7 @@
 }
 
 @media screen and (min-width: 800px) {
- .container {
+ .container2 {
   display: flex;
   justify-content: left;
   flex-wrap: wrap;
