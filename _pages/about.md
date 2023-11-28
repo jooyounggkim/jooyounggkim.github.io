@@ -10,7 +10,9 @@ redirect_from:
 <body>
 
  
-<div class="container" style="max-width:100%">
+<!-- <div class="container" style="max-width:100%"> -->
+<div class="container">
+  
 <!-- <div class="image" style="width:40%"> -->
 <div class="image">
 <img src="images/profile_maxwell1.jpg">
