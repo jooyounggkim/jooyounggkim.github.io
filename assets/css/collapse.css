@@ -15,7 +15,7 @@
     display: none;
     padding : 5px;
 
-.container {
+/* .container {
   display: flex;
   justify-content: left;
   flex-wrap: wrap;
@@ -30,4 +30,43 @@
   padding-left: 30px;
   text-align: left;
   float: left;
+} */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.container {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
+.img {
+  flex: 100%;
+}
+.text {
+  flex: 100%;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 800px) {
+ .container {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+  }
+  .img {
+    flex-basis: 40%;
+    width: 40%;
+  }
+  .text {
+    flex-basis: 60%;
+    width: 60%;
+    font-size: 18px;
+    padding-left: 30px;
+    text-align: left;
+  }
