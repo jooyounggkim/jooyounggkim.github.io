@@ -57,17 +57,14 @@
 
 @media screen and (min-width: 800px) {
  .container2 {
-  display: flex;
-  justify-content: left;
-  flex-wrap: wrap;
-  flex-direction: row;
+    flex-direction: row;
   }
   .img {
-    flex-basis: 40%;
+    flex: 0 0 40%;
     width: 40%;
   }
   .text {
-    flex-basis: 60%;
+    flex: 0 0 60%;
     width: 60%;
     font-size: 18px;
     padding-left: 30px;
