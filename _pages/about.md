@@ -11,10 +11,10 @@ redirect_from:
 
  
 <!-- <div class="container" style="max-width:100%"> -->
-<div class="container">
+<div class="container2">
   
 <!-- <div class="image" style="width:40%"> -->
-<div class="image">
+<div class="img">
 <img src="images/profile_maxwell1.jpg">
 </div>
 <!-- <div class="text" style="width:60%"> -->
