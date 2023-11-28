@@ -40,3 +40,34 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.container2 {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    height: 90vh;
+    flex-direction: column;
+}
+.img {
+  flex: 100%;
+}
+.text {
+  flex: 100%;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 800px) {
+ .container2 {
+    flex-direction: row;
+  }
+  .img {
+    flex: 0 0 40%;
+    width: 40%;
+  }
+  .text {
+    flex: 0 0 60%;
+    width: 60%;
+    font-size: 18px;
+    padding-left: 30px;
+    text-align: left;
+  }
+}
