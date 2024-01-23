@@ -35,3 +35,8 @@ share: true
 ## <a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 488AC7;">How Do Same-Sex Couples Affect Central Cities?</a>
 <p style="font-family:verdana">In the United States, same-sex couples disproportionately live in central cities of metropolitan areas, and their presence has often been reported as an indicator of imminent gentrification. In this paper, I suggest two mechanisms that attract same-sex couples into central cities: smaller income elasticity of housing demand and different preferences for downtown/suburban amenities including child-related amenities and cultural tolerance. Analysis based on American Community Survey data provides evidence for these mechanisms. Further analysis using a shift-share instrument shows that metropolitan areas with a higher initial share of same-sex couples downtown experienced a larger increase in average individual income downtown between 2010 and 2017.</p>
 
+# <a style="font-family:verdana; color: black;">Work in progress</a>
+
+## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 488AC7;">Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes (joint with Hugo Jeles)</a>
+
+## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a>
