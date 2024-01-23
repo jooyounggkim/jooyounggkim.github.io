@@ -37,6 +37,6 @@ share: true
 
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
-## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 488AC7;">Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes (joint with Hugo Jeles)</a>
+## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration-style: solid;text-decoration-color: 488AC7;">Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes (joint with Hugo Jeles)</a>
 
-## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a>
+## <a target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a>
