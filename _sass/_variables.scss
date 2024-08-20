@@ -61,11 +61,11 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #ffffff;
-$background-color           : #ffffff;
+$background-color           : #ffffff !important;
 $code-background-color      : #ffffff;
-$code-background-color-dark : $ffffff;
+$code-background-color-dark : #ffffff;
 $text-color                 : #1f2121; // $dark-gray;
-$border-color               : $ffffff;
+$border-color               : #ffffff;
 
 $muted-text-color			: mix(#fff, $text-color, 35%) !default;
 $primary-color              : $text-color; // #7a8288;
