@@ -63,9 +63,9 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $body-color                 : #ffffff;
 $background-color           : #ffffff;
 $code-background-color      : #ffffff;
-$code-background-color-dark : $white;
+$code-background-color-dark : $ffffff;
 $text-color                 : #1f2121; // $dark-gray;
-$border-color               : $white;
+$border-color               : $ffffff;
 
 $muted-text-color			: mix(#fff, $text-color, 35%) !default;
 $primary-color              : $text-color; // #7a8288;
@@ -160,3 +160,8 @@ $navicon-width              : 28px;
 $navicon-height             : 4px;
 $nav-height					: 2em !default;
 $global-transition          : all 0.2s ease-in-out;
+
+.site-footer {
+    background-color: #ffffff;  // Make the footer background white
+    border-top: none;  // Remove any border at the top of the footer
+}
