@@ -25,9 +25,9 @@ share: true
 
 ## <a style="font-family:verdana; color: black;">Instructor</a>
 
-<p style="font-family:verdana">Introduction to Economics, St. Lawrence University, Fall 2024. [<a href="https://www.dropbox.com/scl/fi/s2f7xu9djcz5jc8xcxygr/syllabus_ECON100_JKim_revised.pdf?rlkey=7bvskkrbjoebf11bspwbp0m30&st=kgowkehm&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">Syllabus</a>]. </p>
+<p style="font-family:verdana">Introduction to Economics, St. Lawrence University, Fall 2024. [<a href="https://www.dropbox.com/scl/fi/s2f7xu9djcz5jc8xcxygr/syllabus_ECON100_JKim_revised.pdf?rlkey=7bvskkrbjoebf11bspwbp0m30&st=kgowkehm&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">Syllabus</a>] </p>
 
-<p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">Syllabus</a>]. </p>
+<p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">Syllabus</a>] </p>
 
 <!-- <p style="font-family:verdana">Intermediate Microeconomics, Syracuse University, Summer 2021. <br>
     &emsp; A sample of syllabus is available [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
