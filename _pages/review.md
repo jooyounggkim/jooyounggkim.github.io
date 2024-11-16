@@ -19,11 +19,13 @@ share: true
 {% endfor %}
 --->
 
-<!---
-<p style="font-family:verdana"> Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/iq4e3td0h5pao536hwv8a/TeachingEvaluation_JooyoungKim.pdf?rlkey=5i2qnudiwjcvej2epmmfaw93l&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
---->
 
+<p style="font-family:verdana"> Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/cpns4dr1i8sg2tzvz5ne2/StudentEvaluation_JooyoungKim.pdf?rlkey=esk139s7ev5egr86zeumpquu9&st=ybb9bsyq&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
+
+
+<!---
 <p style="font-family:verdana"> Complete evaluations from my students are available upon request. </p>
+--->
 
 # <a style="font-family:verdana; color: black;">Selective qualitative comments</a>
 
