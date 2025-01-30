@@ -33,15 +33,14 @@ share: true
 
 <div style="font-family:georgia; line-height:200%;">
 <em>
-"I took this class because I wasn't sure what I wanted to do. Jooyoung made me feel like I could be an economist."
-"Flexible, understanding, encouraging. He really wants his students to succeed." <br>
+"I took this class because I wasn't sure what I wanted to do. Jooyoung made me feel like I could be an economist."<br>
 "We were always encouraged to ask questions and be engaged throughout." <br>
 "Gave us a welcoming environment promoting a safe and comfortable place to ask questions." <br>
 "Patient, constructive, good listener." <br>
 "He made learning enjoyable." <br>
 "He sought our feedback and responded to it." <br>
-"He did a great job giving feedback."
- <br>
+"He did a great job giving feedback."<br>
+  "Flexible, understanding, encouraging. He really wants his students to succeed." <br>
 </em>
 
   
