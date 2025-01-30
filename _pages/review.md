@@ -29,23 +29,22 @@ share: true
 
 # <a style="font-family:verdana; color: black;">Selective qualitative comments</a>
 
-## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
+
 
 <div style="font-family:georgia; line-height:200%;">
 <em>
-"He is patient." <br>
-"He teaches so clearly and patiently." <br>
-"He was good at answering questions." <br>
-"He was very receptive." <br>
-"He was very willing to help." <br>
-"His enthusiasm and deep knowledge about the course was really helpful." <br>
-"The TA was very open for discussion when it came to confusion about certain questions on a worksheet." <br>
+"I took this class because I wasn't sure what I wanted to do. Jooyoung made me feel like I could be an economist."
+"Flexible, understanding, encouraging. He really wants his students to succeed." <br>
+"We were always encouraged to ask questions and be engaged throughout." <br>
+"Gave us a welcoming environment promoting a safe and comfortable place to ask questions." <br>
+"Patient, constructive, good listener." <br>
+"He made learning enjoyable." <br>
+"He sought our feedback and responded to it." <br>
+"He did a great job giving feedback."
+ <br>
 </em>
-</div>
 
-## <a style="font-family:verdana; color: black;">Primary Instructor</a>
-
-<div style="font-family:georgia; line-height:200%;">
+  
  <em> "I completed the course feedback form on Friday, but I wanted to personally reach out to you and give you feedback. I was quite hesitant to take this course as I
 am a non-traditional student finishing their degree I had started almost XX years
 ago. I had not taken an Economics course in that span and I was nervous I would
@@ -59,5 +58,8 @@ from reading. I again want to thank you for a wonderful and challenging summer
 course and wish you the best in your teaching endeavors!"
   </em>
 </div>
+
+
+
 
 
