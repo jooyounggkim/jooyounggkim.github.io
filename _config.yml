@@ -185,6 +185,9 @@ collections:
   comps-collection:
     output: true
     permalink: /:collection/:path/
+  hawkdogger:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
