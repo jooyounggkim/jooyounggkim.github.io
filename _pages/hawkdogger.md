@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
 
 permalink: /hawkdogger/
-collection: projects
+collection: hawkdogger
 entries_layout: grid
 classes: wide
 author_profile: false
