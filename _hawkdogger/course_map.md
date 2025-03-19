@@ -10,8 +10,11 @@ share: true
 ---
 
 There are 2 routes: 
+
 Dirty Dan: Gravel descent with road climb. 4.4 miles, 710 vertical feet. 
+
 Magic Missiles: Road descent with road climb. 5.4 miles, 845 vertical feet. 
+
 Course Map: https://caltopo.com/m/BTQEG03
 
 
