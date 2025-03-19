@@ -1,9 +1,9 @@
 ---
 title: Hawkdogger
-excerpt: A tribute to questionable meat and Hawk Hill
+excerpt: Do you have what it takes? 
 layout: collection
 header:
-  overlay_image: header_image.jpg
+  overlay_image: perley_dog.png
   overlay_filter: 0.3
 
 permalink: /hawkdogger/
