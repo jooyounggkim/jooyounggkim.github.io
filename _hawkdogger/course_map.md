@@ -2,7 +2,7 @@
 layout: single
 title: Course Info
 excerpt: 
-header:
+header: perley_dog.PNG
   teaser: course_icon.png
 collection: hawkdogger
 author_profile: false
