@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Ryan Alcantara"
 title_separator          : "-"
 name                     : &name "Ryan Alcantara"
 description              : &description "Ryan's Personal Website"
