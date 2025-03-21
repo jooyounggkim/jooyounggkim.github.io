@@ -12,7 +12,7 @@ header:
       url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
 excerpt: "Are you big bike? Are you big fun?"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'test excerpt'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
