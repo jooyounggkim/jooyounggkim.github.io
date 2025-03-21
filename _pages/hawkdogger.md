@@ -6,18 +6,18 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/perley_dog.PNG
+  overlay_image: images/perley_dog.PNG
   actions:
     - label: "RSVP"
       url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
 excerpt: "Are you big bike? Are you big fun?"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'It's gonna be buns, bikes, dirt, sweat, dawgs, and hawk laps. Teams score points for eating hot dogs and completing bike laps from sunrise to noon.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: images/course_icon.png
+    alt: "course info"
+    title: "Course Info"
+    excerpt: 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
