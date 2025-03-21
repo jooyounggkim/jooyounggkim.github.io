@@ -9,6 +9,6 @@ author_profile: false
 share: true
 ---
 
-![](images/scoring_guide.PNG)
+![alt text](scoring_guide.PNG)
 
 
