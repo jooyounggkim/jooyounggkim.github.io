@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 ## Hello World!
-I'm a biomechanics researcher enthusiastic about wearable devices and product development.
+I'm a biomechanics researcher enthusiastic about wearable devices and human-centric product design.
 I've published research in the areas of running-related bone stress injuries, machine learning, footwear biomechanics, sprinting mechanics, and signal processing.    
 <br>
-This site is a bit skeletal since departing academia but I frequent [twitter](https://twitter.com/Ryan_Alcantara_).
+Sorry, this site is a bit skeletal since leaving academia...
