@@ -1,19 +1,18 @@
 ---
-title: "Hawkdogger"
+title: "Hawk Dogger"
 layout: splash
 permalink: /hawkdogger/
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "RSVP"
-      url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW/"
-  caption: "hotdog"
-excerpt: "Are you big bike? Are you big fun?"
+      url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "eat hotdogs and ride bikes"
 intro: 
-  - excerpt: 'It's buns, it's dogs.'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -63,5 +62,3 @@ feature_row4:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
