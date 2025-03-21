@@ -17,7 +17,6 @@ feature_row:
   - image_path: images/course_icon.png
     alt: "course info"
     title: "Course Info"
-    excerpt: 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
