@@ -70,8 +70,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : Ryan Alcantara
   links:
-    - https://twitter.com/Ryan_Alcantara_
-    - https://github.com/alcantarar
 
 # Analytics
 analytics:
@@ -111,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : Ryan_Alcantara_
+  twitter          : 
   vine             :
   weibo            :
   xing             :
