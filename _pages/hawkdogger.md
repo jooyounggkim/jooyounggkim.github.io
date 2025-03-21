@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: images/perley_dog.PNG
+  overlay_image: /assets/images/perley_dog.png
   actions:
     - label: "RSVP"
       url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
@@ -14,7 +14,7 @@ excerpt: "Are you big bike? Are you big fun?"
 intro: 
   - excerpt: 'test excerpt'
 feature_row:
-  - image_path: images/course_icon.png
+  - image_path: /assets/images/course_icon.png
     alt: "Course Info"
     title: "Course Info"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
