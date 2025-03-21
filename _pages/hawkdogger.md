@@ -10,26 +10,18 @@ header:
   actions:
     - label: "RSVP"
       url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
-  caption: 
 excerpt: "Are you big bike and big fun?"
-intro: 
   - excerpt: 'It's gonna be buns, bikes, dirt, sweat, dawgs, and hawk laps./nTeams score points for eating hot dogs and completing bike laps from sunrise to noon.'
 feature_row:
   - image_path: /images/course_icon.png
     alt: "course info"
     title: "Course Info"
-    excerpt:
   - image_path: /images/trophy.png
     image_caption: 
     alt: "scoring guide"
     title: "Scoring Guide"
-    excerpt:
-    url: 
-    btn_label:
-    btn_class:
   - image_path: /images/questions.png
     title: "FAQ"
-    excerpt: 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
