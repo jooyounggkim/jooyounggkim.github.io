@@ -9,6 +9,6 @@ author_profile: false
 share: true
 ---
 
-![alt text](images/scoring_guide.PNG)
+![scoring guide]((https://github.com/alcantarar/alcantarar.github.io/blob/master/images/scoring_guide.PNG))
 
 
