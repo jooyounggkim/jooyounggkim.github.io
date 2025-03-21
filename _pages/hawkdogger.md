@@ -6,10 +6,11 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/perley_dog.png
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "RSVP"
-      url: "https://partiful.com/e/pBQXtQpylkMXpTM0BUjW"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Are you big bike? Are you big fun?"
 intro: 
   - excerpt: 'test excerpt'
