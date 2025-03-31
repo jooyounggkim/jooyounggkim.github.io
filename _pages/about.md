@@ -22,9 +22,9 @@ redirect_from:
 </div>
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
-<p style="font-family:verdana">Welcome! I am an economist and Visiting Assistant Professor in the Economics Department at St. Lawrence University. My research interests lie at the intersection of labor, urban, and public economics. I hold a doctorate in economics from Syracuse University.</p> 
+<p style="font-family:verdana">Welcome! I am an economist and a Visiting Assistant Professor in the Economics Department at St. Lawrence University. My research interests lie at the intersection of urban, labor, and health economics. I hold a doctorate in economics from Syracuse University.</p> 
 
-<p style="font-family:verdana">I am on the 2024-2025 job market and will attend the ASSA 2025 meeting in San Francisco.</p> 
+<p style="font-family:verdana">I am on the 2024-2025 job market.</p> 
 
 
 <!--
