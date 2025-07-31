@@ -13,6 +13,7 @@ share: true
 {% include base_path %}
 
 
+
 # <a style="font-family:verdana; color: black;">Working papers</a>
 
 ## <a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">Acceptance of Same-Sex Couples and Their Location Choices</a> <a style="font-family:verdana; color: black"> (<em>Job Market Paper</em>)</a>
