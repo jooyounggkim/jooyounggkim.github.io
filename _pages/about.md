@@ -23,7 +23,7 @@ redirect_from:
 </div>
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
-<p style="font-family:verdana">Welcome! I am an economist and a Visiting Assistant Professor in the Economics Department at St. Lawrence University. My research interests lie at the intersection of labor, urban, and health economics. I hold a doctorate in economics from Syracuse University.</p> 
+<p style="font-family:verdana">Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie at the intersection of labor, health, and urban economics. I hold a doctorate in economics from Syracuse University.</p> 
 
 
 <!--
