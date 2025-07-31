@@ -46,5 +46,3 @@ redirect_from:
 </body>
 
 
-![Uploading image.png…]()
-
