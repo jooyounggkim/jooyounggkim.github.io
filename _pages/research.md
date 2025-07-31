@@ -27,4 +27,3 @@ share: true
 ## <a target="_blank" style="font-family:verdana; color: black; text-decoration-style: solid;text-decoration-color: 488AC7;">Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes (joint with Hugo Jales)</a>
 
 ## <a target="_blank" style="font-family:verdana; color: black; text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a>
-<img width="468" height="633" alt="image" src="https://github.com/user-attachments/assets/e8826cce-e5e1-4691-a0f2-0292d764fd86" />
