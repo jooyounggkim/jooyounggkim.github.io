@@ -54,20 +54,4 @@ Macroeconomics, Handong Global University, Fall 2014. <br>
 
 
   
-        
-        
     
-
-
-
-<!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
-<!--
-<a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-## <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Acceptance of Same-Sex Couples and Their Location Choices</a>
--->
-
-<!--
-## [<span style="color: royalblue; text-decoration-style: solid;text-decoration-color: #3effb1;">Acceptance of Same-Sex Couples and Their Location Choices</span>](https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0) -->
-
-
-<img width="468" height="658" alt="image" src="https://github.com/user-attachments/assets/4309dd95-53a2-45c5-b175-d1c07aef2776" />
