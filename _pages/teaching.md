@@ -33,7 +33,7 @@ share: true
     &emsp; A sample of syllabus is available [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
  -->
 
-
+<!--
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
 
@@ -51,7 +51,7 @@ Introduction to Economics, Handong Global University, Fall 2016. <br>
 Theory of Games and Information, Handong Global University, Fall 2015. <br>
 Macroeconomics, Handong Global University, Fall 2014. <br>
 </div>
-
+-->
 
   
     
