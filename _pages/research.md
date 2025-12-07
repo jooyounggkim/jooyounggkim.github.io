@@ -16,7 +16,7 @@ share: true
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
 **"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"** <br>
-with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia<br>
+with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
@@ -35,7 +35,7 @@ with disabilities.
 
 
 
-**"Acceptance of Same-Sex Couples and Their Location Choices"** [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
+**"Acceptance of Same-Sex Couples and Their Location Choices"** [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="font-family:verdana">
@@ -46,7 +46,7 @@ with disabilities.
 
 
 **"How Do Same-Sex Couples Affect Central Cities?"** [<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
-<details class="abstract-toggle"> <br>
+<details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="font-family:verdana">
    In the United States, same-sex couples disproportionately live in central cities of metropolitan areas, and their presence has often been reported as an indicator of imminent gentrification. In this paper, I suggest two mechanisms that attract same-sex couples into central cities: smaller income elasticity of housing demand and different preferences for downtown/suburban amenities including child-related amenities and cultural tolerance. Analysis based on American Community Survey data provides evidence for these mechanisms. Further analysis using a shift-share instrument shows that metropolitan areas with a higher initial share of same-sex couples downtown experienced a larger increase in average individual income downtown between 2010 and 2017.
