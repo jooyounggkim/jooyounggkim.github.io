@@ -15,7 +15,8 @@ share: true
 
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
-**"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"** <br>
+<p style="margin-bottom: 0.2rem;">
+<strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> <br>
 with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
@@ -32,6 +33,7 @@ we find that PSL mandates lead to modest improvements in health among both child
 with disabilities.
   </p>
 </details>
+</p>
 
 
 <p style="margin-bottom: 0.2rem;">
@@ -46,7 +48,8 @@ with disabilities.
 <!-- <p style="font-family:verdana">This paper shows that social acceptance of same-sex couples affects their location decisions, especially those with college degrees, resulting in higher educational sorting of same-sex couples across cities. I derive the mean utility of each city from a conditional logit model of location choice, separately for same-sex couples with and without college degrees and different-sex couples with and without college degrees. I then run a regression of the mean utility on acceptance for each group to see the effect of acceptance on location choices. To deal with endogeneity from the simultaneity between acceptance and the location choice of same-sex couples, I use a novel instrument based on the historical number of churches. I find that acceptance has a substantial impact on the location choices of college-educated same-sex couples. Counterfactual analysis suggests significant implications for productivity in an area and the welfare of same-sex couples.</p> -->
 
 
-**"How Do Same-Sex Couples Affect Central Cities?"** [<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
+<p style="margin-bottom: 0.2rem;">
+<strong>"How Do Same-Sex Couples Affect Central Cities?"</strong> [<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -58,10 +61,12 @@ with disabilities.
 
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
-**"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"** <br>
+<p style="margin-bottom: 0.2rem;">
+<strong>"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"</strong> <br>
 with Hugo Jales<br>
 
-**"The Impact of Charter Schools on Segregation by English Learner Status"**
+<p style="margin-bottom: 0.2rem;">
+<strong>"The Impact of Charter Schools on Segregation by English Learner Status"</strong>
 
 
 <!--  ## <a target="_blank" style="font-family:verdana; color: black; text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a> -->
