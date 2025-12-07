@@ -19,7 +19,8 @@ redirect_from:
   
 <!-- <div class="image" style="width:40%"> -->
 <div class="img">
-<img src="images/profile_maxwell1.png">
+<!-- <img src="images/profile_maxwell1.png"> -->
+  <img src="images/thumbnail_IMG_0132.jpg">
 </div>
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
