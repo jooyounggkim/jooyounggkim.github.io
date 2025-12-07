@@ -16,7 +16,7 @@ share: true
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
 **"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"** <br>
-with *Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia*<br>
+with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia<br>
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
@@ -57,7 +57,7 @@ with disabilities.
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
 **"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"** <br>
-with *Hugo Jales* <br>
+with Hugo Jales<br>
 
 **"The Impact of Charter Schools on Segregation by English Learner Status"**
 
