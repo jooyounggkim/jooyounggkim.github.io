@@ -21,7 +21,7 @@ with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
-  <p style="font-family:verdana">
+  <p style="">
     Paid sick leave mandates (PSLs), which have been adopted by 18 states and the District of Columbia, require employers to provide regular wages when workers take short-term leave for their own or a family member’s medical needs. This study is the first to explore the effects of PSL adoption on participation in the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) programs, as well as the health of persons with disabilities. We find that statewide PSLs are associated with a
 6-9 percent increase in initial claims for SSI and joint SSI/SSDI benefits. These applications translate
 to an increase in beneficiaries, strongest among children under age 18. An exploration of the primary
