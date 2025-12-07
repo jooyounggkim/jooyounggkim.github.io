@@ -15,8 +15,8 @@ share: true
 
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
-"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims" <br>
-with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia <br>
+**"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"** <br>
+with *Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia*<br>
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
@@ -35,7 +35,7 @@ with disabilities.
 
 
 
-Acceptance of Same-Sex Couples and Their Location Choices [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
+**"Acceptance of Same-Sex Couples and Their Location Choices"** [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="font-family:verdana">
@@ -45,7 +45,7 @@ Acceptance of Same-Sex Couples and Their Location Choices [<a href="https://www.
 <!-- <p style="font-family:verdana">This paper shows that social acceptance of same-sex couples affects their location decisions, especially those with college degrees, resulting in higher educational sorting of same-sex couples across cities. I derive the mean utility of each city from a conditional logit model of location choice, separately for same-sex couples with and without college degrees and different-sex couples with and without college degrees. I then run a regression of the mean utility on acceptance for each group to see the effect of acceptance on location choices. To deal with endogeneity from the simultaneity between acceptance and the location choice of same-sex couples, I use a novel instrument based on the historical number of churches. I find that acceptance has a substantial impact on the location choices of college-educated same-sex couples. Counterfactual analysis suggests significant implications for productivity in an area and the welfare of same-sex couples.</p> -->
 
 
-How Do Same-Sex Couples Affect Central Cities?</a> [<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
+**"How Do Same-Sex Couples Affect Central Cities?"** [<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle"> <br>
   <summary><span>Abstract</span></summary>
   <p style="font-family:verdana">
@@ -56,10 +56,10 @@ How Do Same-Sex Couples Affect Central Cities?</a> [<a href="https://www.dropbox
 
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
-Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes <br>
-with Hugo Jales <br>
+**"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"** <br>
+with *Hugo Jales* <br>
 
-The Impact of Charter Schools on Segregation by English Learner Status
+**"The Impact of Charter Schools on Segregation by English Learner Status"**
 
 
 <!--  ## <a target="_blank" style="font-family:verdana; color: black; text-decoration-style: solid;text-decoration-color: 488AC7;">The Impact of Charter Schools on Segregation by English Learner Status</a> -->
