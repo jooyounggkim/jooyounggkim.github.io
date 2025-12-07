@@ -58,6 +58,7 @@ with disabilities.
 </details>
 <!-- <p style="font-family:verdana">In the United States, same-sex couples disproportionately live in central cities of metropolitan areas, and their presence has often been reported as an indicator of imminent gentrification. In this paper, I suggest two mechanisms that attract same-sex couples into central cities: smaller income elasticity of housing demand and different preferences for downtown/suburban amenities including child-related amenities and cultural tolerance. Analysis based on American Community Survey data provides evidence for these mechanisms. Further analysis using a shift-share instrument shows that metropolitan areas with a higher initial share of same-sex couples downtown experienced a larger increase in average individual income downtown between 2010 and 2017.</p> -->
 <br>
+</p>
 
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
