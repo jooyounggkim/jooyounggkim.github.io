@@ -18,10 +18,7 @@ redirect_from:
 <div class="container2">
   
 <!-- <div class="image" style="width:40%"> -->
-<div class="img">
-<!-- <img src="images/profile_maxwell1.png"> -->
-  <img src="images/thumbnail_IMG_0132.jpg">
-</div>
+
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
 <p style="font-family:verdana">Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie at the intersection of labor, health, and urban economics. I hold a doctorate in economics from Syracuse University.</p> 
@@ -39,6 +36,10 @@ redirect_from:
 
 <br>
 
+<div class="img">
+<!-- <img src="images/profile_maxwell1.png"> -->
+  <img src="images/thumbnail_IMG_0132.jpg">
+</div>
 </div>
 </div>
  
