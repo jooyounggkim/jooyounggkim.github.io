@@ -16,8 +16,7 @@ share: true
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
 <p style="margin-bottom: 0.2rem;">
-<strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> <br>
-with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia
+<strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
@@ -63,8 +62,7 @@ with disabilities.
 # <a style="font-family:verdana; color: black;">Work in progress</a>
 
 <p style="margin-bottom: 0.2rem;">
-<strong>"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"</strong> <br>
-with Hugo Jales<br>
+<strong>"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"</strong> (<em>with Hugo Jales</em>) <br>
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Impact of Charter Schools on Segregation by English Learner Status"</strong>
