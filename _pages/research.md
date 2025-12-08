@@ -13,11 +13,11 @@ share: true
 {% include base_path %}
 
 
-
 # <a style="font-family:verdana; color: black;">Working papers</a>
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
 [<a href="https://www.nber.org/papers/w34542" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34542</a>]
+  <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
     Paid sick leave mandates (PSLs), which have been adopted by 18 states and the District of Columbia, require employers to provide regular wages when workers take short-term leave for their own or a family member’s medical needs. This study is the first to explore the effects of PSL adoption on participation in the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) programs, as well as the health of persons with disabilities. We find that statewide PSLs are associated with a
