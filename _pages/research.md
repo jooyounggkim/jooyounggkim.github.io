@@ -17,7 +17,7 @@ share: true
 # <a style="font-family:verdana; color: black;">Working papers</a>
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> <br>
-with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, Joseph Sabia
+with Anwar Assamidonov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia
 <!-- [<a href="" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]  -->
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
