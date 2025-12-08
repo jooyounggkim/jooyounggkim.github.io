@@ -16,7 +16,10 @@ redirect_from:
  
 <!-- <div class="container" style="max-width:100%"> -->
 <div class="container2">
-  
+
+<div class="img">
+<!-- <img src="images/profile_maxwell1.png"> -->
+<img src="images/thumbnail_IMG_0132.jpg">
 <!-- <div class="image" style="width:40%"> -->
 
 <!-- <div class="text" style="width:60%"> -->
@@ -38,9 +41,7 @@ redirect_from:
 
 </div>
 
-<div class="img">
-<!-- <img src="images/profile_maxwell1.png"> -->
-  <img src="images/thumbnail_IMG_0132.jpg">
+
 </div>
 </div>
  
