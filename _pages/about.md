@@ -36,10 +36,11 @@ redirect_from:
 
 <br>
 
+</div>
+
 <div class="img">
 <!-- <img src="images/profile_maxwell1.png"> -->
   <img src="images/thumbnail_IMG_0132.jpg">
-</div>
 </div>
 </div>
  
