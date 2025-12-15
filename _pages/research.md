@@ -14,6 +14,7 @@ share: true
 
 
 # <a style="font-family:verdana; color: black;">Working papers</a>
+
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
 [<a href="https://www.nber.org/papers/w34542" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34542</a>]
@@ -33,6 +34,16 @@ with disabilities.
 </details>
 </p>
 
+<p style="margin-bottom: 0.2rem;">
+<strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
+[<a href="https://www.nber.org/papers/w34565" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34565</a>]
+  <details class="abstract-toggle">
+  <summary><span>Abstract</span></summary>
+  <p style="">
+    Policymakers at the state and federal levels have argued that restricting online sales of e-cigarettes is a crucial policy tool to curb youth vaping. This study is the first to explore the effectiveness of statewide restrictions on online sales of electronic nicotine delivery systems (ENDS) on teen and young adult ENDS use. Using data from four national datasets (Monitoring the Future, State and Combined Youth Risk Behavior Surveillance System surveys, Population Assessment of Tobacco and Health, and Behavioral Risk Factor Surveillance System survey) and a generalized difference-in-differences approach, we find no evidence that such laws are effective at curbing youth ENDS use. With 95 percent confidence, we can rule out that online sales restrictions reduced prior-month ENDS use by more than 3.6 percent of the pre-treatment mean vaping rate. An exploration of mechanisms suggests that (1) while restrictions on online sales may have a small negative effect on online purchases, youths are able to substitute to other sources for ENDS products to compensate for reduced online access, and (2) online sources are a very rare source of e-cigarettes for youths. Finally, we also find no evidence that online sales restrictions reduce adult ENDS use.
+  </p>
+</details>
+</p>
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
