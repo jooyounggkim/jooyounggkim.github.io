@@ -46,7 +46,7 @@ with disabilities.
 </p>
 
 <p style="margin-bottom: 0.2rem;">
-<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
+<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> (<em>under review</em>) <br>
 [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
