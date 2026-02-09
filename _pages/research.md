@@ -35,6 +35,17 @@ with disabilities.
 </p>
 
 <p style="margin-bottom: 0.2rem;">
+<strong>"School Vaping Bans and Youth E-Cigarette Use"</strong> (<em>with Dhaval Dave, Nikolaos Prodromidis, and Joseph Sabia</em>) <br>
+[<a href="https://www.nber.org/papers/w34805" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34805</a>]
+  <details class="abstract-toggle">
+  <summary><span>Abstract</span></summary>
+  <p style="">
+    With the goal of curbing electronic nicotine delivery systems (ENDS) use among youths, 40 states and the District of Columbia have adopted restrictions on nicotine vaping at elementary and secondary (K-12) schools. This study is the first to estimate the effect of K-12 school vaping restrictions (SVRs) on ENDS use among youth. Using data from several nationally representative data sources and a generalized difference-in-differences approach, we find little evidence that school indoor vaping restrictions reduce youth ENDS use. With 95% confidence, we can rule out SVR-induced youth vaping declines of more than 3.5%. Descriptive evidence suggests that students may respond to SVRs by substituting to smaller vaping devices and vaping in school locations that are less easily detectable by school employees (e.g., bathrooms and locker rooms). In contrast, we find that comprehensive vaping restrictions covering school campuses, workplaces, restaurants, and drinking establishments are associated with a 1.5-2.6 percentage-point reduction in teen nicotine vaping. This result is concentrated on the initiation margin of use and is consistent with the hypothesis that broader place-based restrictions increase the costs of youth ENDS use.
+  </p>
+</details>
+</p>
+
+<p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
 [<a href="https://www.nber.org/papers/w34565" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34565</a>]
   <details class="abstract-toggle">
@@ -46,7 +57,7 @@ with disabilities.
 </p>
 
 <p style="margin-bottom: 0.2rem;">
-<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> (<em>under review</em>) <br>
+<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
 [<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
