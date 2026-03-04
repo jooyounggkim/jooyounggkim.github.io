@@ -176,7 +176,8 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
-  font-family: $garamond;
+  font-family: $global-font-family;
+  font-weight: 400;
 
   a {
     display: block;
