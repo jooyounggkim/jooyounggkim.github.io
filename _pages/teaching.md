@@ -33,7 +33,7 @@ share: true
     &emsp; A sample of syllabus is available [<a href="https://www.dropbox.com/scl/fi/aavargwskbo7m3vc9tpe5/syllabus_ECN301_JKim.pdf?rlkey=dk18g14awl33yjhs4cf6i1jw1&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
  -->
 
-
+<!--
 ## <a style="font-family:verdana; color: black;">Teaching Assistant</a>
 
 
@@ -51,22 +51,7 @@ Introduction to Economics, Handong Global University, Fall 2016. <br>
 Theory of Games and Information, Handong Global University, Fall 2015. <br>
 Macroeconomics, Handong Global University, Fall 2014. <br>
 </div>
-
-
-  
-        
-        
-    
-
-
-
-<!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
-<!--
-<a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-## <a href="https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Acceptance of Same-Sex Couples and Their Location Choices</a>
 -->
 
-<!--
-## [<span style="color: royalblue; text-decoration-style: solid;text-decoration-color: #3effb1;">Acceptance of Same-Sex Couples and Their Location Choices</span>](https://www.dropbox.com/scl/fi/ikdrhqgmh7nizk42z7pls/Kim_JMP.pdf?rlkey=dkawzeyc2eoaqw8hu7jw5l0p9&dl=0) -->
-
-
+  
+    
