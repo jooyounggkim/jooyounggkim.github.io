@@ -28,10 +28,10 @@ redirect_from:
 
 
 <!--
-<p style="font-family:verdana"> I enjoy working with people and communicating ideas in both informal and formal settings.</p>
+<p> I enjoy working with people and communicating ideas in both informal and formal settings.</p>
 
 
-<p style="font-family:verdana">I hold a doctorate in economics from Syracuse University.</p>
+<p>I hold a doctorate in economics from Syracuse University.</p>
 -->
 <p>You can find my CV [<a href="https://www.dropbox.com/scl/fi/zrt8lyssqv5jj294s5ohq/CV_JooyoungKim.pdf?rlkey=nvbntxoitrpgei6os0xumts6m&st=1jnutfix&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].</p>
 
@@ -48,5 +48,4 @@ redirect_from:
 
 
 </body>
-
 

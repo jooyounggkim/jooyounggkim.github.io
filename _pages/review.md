@@ -17,18 +17,18 @@ share: true
 --->
 
 
-<p style="font-family:verdana"> Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/85a4g5yhn0pi24w32lvlx/CourseEvaluation_JKim.pdf?rlkey=l8iei4keuk4upjyl7wa0yojkl&st=upms38vk&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
+<p> Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/85a4g5yhn0pi24w32lvlx/CourseEvaluation_JKim.pdf?rlkey=l8iei4keuk4upjyl7wa0yojkl&st=upms38vk&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>]. </p>
 
 
 <!---
-<p style="font-family:verdana"> Complete evaluations from my students are available upon request. </p>
+<p> Complete evaluations from my students are available upon request. </p>
 --->
 
-# <a style="font-family:verdana; color: black;">Selective qualitative comments</a>
+# <a style="color: black;">Selective qualitative comments</a>
 
 
 
-<div style="font-family:georgia; line-height:200%;">
+<div style="line-height:200%;">
 <em>
 "Dr. Kim was a very kind and smart professor, who made learning econ a valuable experience to me and (I hope) others."<br>
 "I took this class because I wasn't sure what I wanted to do. Dr.Kim made me feel like I could be an economist."<br>
@@ -56,7 +56,6 @@ from reading. I again want to thank you for a wonderful and challenging summer
 course and wish you the best in your teaching endeavors!"
   </em>--->
 </div>
-
 
 
 
