@@ -70,7 +70,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : 
   links:
-  
+
 
 # Analytics
 analytics:
@@ -81,6 +81,7 @@ analytics:
 
 # Site Author
 author:
+
   name             : "Jooyoung Kim"
   avatar           : "headshot_jkim.jpg"
   bio              : #"PhD Candidate in Economics"
@@ -110,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #Ryan_Alcantara_
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -182,6 +183,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   comps-collection:
+    output: true
+    permalink: /:collection/:path/
+  hawkdogger:
     output: true
     permalink: /:collection/:path/
 
