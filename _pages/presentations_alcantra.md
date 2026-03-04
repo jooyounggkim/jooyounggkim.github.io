@@ -3,9 +3,6 @@ layout: archive
 title: PRESENTATIONS
 excerpt: |
   <br>
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 permalink: /presentations/
 author_profile: false
 ---

@@ -45,10 +45,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  color: red;
 
   &--lg {
     padding-right: 2em;
+    font-family: $header-font-family;
     font-weight: 700;
   }
 }

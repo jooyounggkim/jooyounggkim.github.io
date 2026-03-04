@@ -9,7 +9,7 @@
 $doc-font-size              : 16;
 
 /* paragraph indention */
-$paragraph-indent           : true; // true, false (default)
+$paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
@@ -17,11 +17,12 @@ $serif                      : Georgia, Times, serif;
 /*
 $sans-serif                 : -apple-system, ".SFNSText-Regular","San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 */
-$sans-serif                 : $helvetica;
+$sans-serif                 : "Inter", "Helvetica Neue", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
+$space-grotesk             : "Space Grotesk", "Helvetica Neue", Arial, sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $CenturyGothic              : "Century Gothic";
 $Futura                     : Futura, "Trebuchet MS", Arial, sans-serif;
@@ -36,7 +37,7 @@ $garamond                   : Garamond, serif;
 
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $space-grotesk;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -62,10 +63,10 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #ffffff;
 $background-color           : #ffffff !important;
-$code-background-color      : #ffffff;
-$code-background-color-dark : #ffffff;
+$code-background-color      : #f8fafc;
+$code-background-color-dark : #f1f5f9;
 $text-color                 : #1f2121; // $dark-gray;
-$border-color               : #ffffff;
+$border-color               : #e5e7eb;
 
 $muted-text-color			: mix(#fff, $text-color, 35%) !default;
 $primary-color              : $text-color; // #7a8288;
@@ -98,9 +99,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #2b8c46;
-$link-color-hover           : mix(#fff, #2b8c46, 25%);
-$link-color-visited         : mix(#fff, #2b8c46, 25%);
+$link-color                 : #2563eb;
+$link-color-hover           : mix(#000, $link-color, 20%);
+$link-color-visited         : mix(#000, $link-color, 20%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#fff, $primary-color, 25%);
 

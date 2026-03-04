@@ -3,9 +3,6 @@ layout: archive
 title: Research
 excerpt: |
   <br>
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 permalink: /research/
 author_profile: false
 share: true
@@ -13,11 +10,11 @@ share: true
 {% include base_path %}
 
 
-# <a style="font-family:verdana; color: black;">Working papers</a>
+# Working papers
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
-[<a href="https://www.nber.org/papers/w34565" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34565</a>]  <br>
+[<a href="https://www.nber.org/papers/w34565" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34565</a>]  <br>
   <em> Revise & Resubmit at Journal of Health Economics </em>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
@@ -29,7 +26,7 @@ share: true
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
-[<a href="https://www.nber.org/papers/w34542" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34542</a>]
+[<a href="https://www.nber.org/papers/w34542" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34542</a>]
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -48,7 +45,7 @@ with disabilities.
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"School Vaping Bans and Youth E-Cigarette Use"</strong> (<em>with Dhaval Dave, Nikolaos Prodromidis, and Joseph Sabia</em>) <br>
-[<a href="https://www.nber.org/papers/w34805" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34805</a>]
+[<a href="https://www.nber.org/papers/w34805" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34805</a>]
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -60,7 +57,7 @@ with disabilities.
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
-[<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
+[<a href="https://www.dropbox.com/scl/fi/tvr3syjz8v5uhdh6mxoig/Kim_JMP.pdf?rlkey=kne520ko8y8qsxhiv51fmgk8v&st=vq2cpcr5&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -73,7 +70,7 @@ with disabilities.
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"How Do Same-Sex Couples Affect Central Cities?"</strong> <br>
-[<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
+[<a href="https://www.dropbox.com/scl/fi/bx8n83i3rbqlv54qsk27x/Kim_WithinCity.pdf?rlkey=uhp7zviz609ywlhclbc8arsol&dl=0)" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -84,7 +81,7 @@ with disabilities.
 <br>
 </p>
 
-# <a style="font-family:verdana; color: black;">Work in progress</a>
+# Work in progress
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Migration at the U.S. Border and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>

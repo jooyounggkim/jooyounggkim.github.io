@@ -3,9 +3,6 @@ layout: archive
 title: Student Reviews
 excerpt: |
   <br>
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 permalink: /review/
 author_profile: false
 share: true
@@ -59,7 +56,6 @@ from reading. I again want to thank you for a wonderful and challenging summer
 course and wish you the best in your teaching endeavors!"
   </em>--->
 </div>
-
 
 
 

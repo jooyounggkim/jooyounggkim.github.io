@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-family: $header-font-family;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -49,7 +50,7 @@
 }
 
 .page__content {
-  text-align: justify; 
+  text-align: left;
    
   h2 {
     padding-bottom: 0.5em;
@@ -74,10 +75,12 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid mix(#fff, $link-color, 70%);
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      border-bottom-color: currentColor;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
