@@ -16,9 +16,12 @@ share: true
 {% endfor %}
 --->
 
+<!---
 <p style="font-family:verdana"> Reviews from my students are available [<a href="../review" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].
 </p>
-
+--->
+<p> Reviews from my students are available [<a href="../review" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].
+</p>
 
 ## <a style="font-family:verdana; color: black;">Instructor</a>
 
