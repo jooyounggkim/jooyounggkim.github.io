@@ -3,9 +3,6 @@ layout: archive
 title: Teaching Experience
 excerpt: |
   <br>
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 permalink: /teaching/
 author_profile: false
 share: true

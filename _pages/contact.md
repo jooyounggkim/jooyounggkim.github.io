@@ -3,9 +3,6 @@ layout: single
 title: Contact
 <!-- excerpt: |
   <br> -->
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 permalink: /contact/
 author_profile: true
 share: false
@@ -32,7 +29,6 @@ Syracuse NY 13244
 
 
 <!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
-
 
 
 
