@@ -18,7 +18,7 @@ share: true
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
 [<a href="https://www.nber.org/papers/w34565" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34565</a>]  <br>
-  <em> Revise & Resubmit at <strong> Journal of Health Economics </strong> </em>
+  <em> Revise & Resubmit at Journal of Health Economics </em>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
