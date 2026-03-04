@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
-<p style="font-family:verdana">Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie at the intersection of labor, health, and urban economics. I hold a doctorate in economics from Syracuse University.</p> 
+<p>Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie at the intersection of labor, health, and urban economics. I hold a doctorate in economics from Syracuse University.</p> 
 
 
 <!--
@@ -33,9 +33,9 @@ redirect_from:
 
 <p style="font-family:verdana">I hold a doctorate in economics from Syracuse University.</p>
 -->
-<p style="font-family:verdana">You can find my CV [<a href="https://www.dropbox.com/scl/fi/zrt8lyssqv5jj294s5ohq/CV_JooyoungKim.pdf?rlkey=nvbntxoitrpgei6os0xumts6m&st=1jnutfix&dl=0" target="_blank" style="font-family:verdana; color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].</p>
+<p>You can find my CV [<a href="https://www.dropbox.com/scl/fi/zrt8lyssqv5jj294s5ohq/CV_JooyoungKim.pdf?rlkey=nvbntxoitrpgei6os0xumts6m&st=1jnutfix&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">here</a>].</p>
 
-<p style="font-family:verdana">I can be reached by email: jooyoung.j.kim[at]gmail.com.</p>
+<p>I can be reached by email: jooyoung.j.kim[at]gmail.com.</p>
 
 <br>
 
