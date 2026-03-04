@@ -10,7 +10,7 @@ share: true
 {% include base_path %}
 
 
-# Working papers
+## Working papers
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
@@ -81,7 +81,7 @@ with disabilities.
 <br>
 </p>
 
-# Work in progress
+## Work in progress
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Migration at the U.S. Border and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>
