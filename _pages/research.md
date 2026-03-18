@@ -86,8 +86,6 @@ with disabilities.
 <p style="margin-bottom: 0.2rem;">
 <strong>"Migration at the U.S. Border and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>
 
-<p style="margin-bottom: 0.2rem;">
-<strong>"Beyond Bandaids: Why Mega-Scale Financial Incentives Won't Cure South Korea's Fertility Woes"</strong> (<em>with Hugo Jales</em>) <br>
 
 
 
