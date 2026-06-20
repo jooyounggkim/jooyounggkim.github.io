@@ -25,7 +25,7 @@ share: true
 </p>
 
 <p style="margin-bottom: 0.2rem;">
-<strong>"Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Texation?"</strong> (<em>with Chad Cotti, Dhaval Dave, Tessie Krishna, Erik Nesson, and Joseph Sabia</em>) <br>
+<strong>"Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Taxation?"</strong> (<em>with Chad Cotti, Dhaval Dave, Tessie Krishna, Erik Nesson, and Joseph Sabia</em>) <br>
   <em> Revise & Resubmit at American Journal of Health Economics </em>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
