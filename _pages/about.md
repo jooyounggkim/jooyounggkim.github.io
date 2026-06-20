@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <!-- <div class="text" style="width:60%"> -->
 <div class="text">
-<p>Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie at the intersection of labor, health, and urban economics. I hold a doctorate in economics from Syracuse University.</p> 
+<p>Welcome! I am a Postdoctoral Researcher at the Center for Health Economics & Policy Studies (CHEPS) at San Diego State University. My research interests lie in applied microeconomics, with a focus on public, health, labor, and urban economics. I hold a Ph.D. in economics from Syracuse University.</p> 
 
 
 <!--
