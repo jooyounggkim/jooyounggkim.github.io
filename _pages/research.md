@@ -99,6 +99,13 @@ with disabilities.
 <p style="margin-bottom: 0.2rem;">
 <strong>"Migration at the U.S. Border and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>
 
+<p style="margin-bottom: 0.2rem;">
+<strong>“Racially Disparate Impacts of Licensure Sales Laws: The Case of E-Cigarettes”</strong> (<em>with Dhaval Dave and
+Joseph Sabia</em>) <br>
+
+<p style="margin-bottom: 0.2rem;">
+<strong>“Minimum Wage Increases and Deaths of Despair”</strong> (<em>with Daniel Rees and Joseph Sabia</em>) <br>
+
 
 
 
