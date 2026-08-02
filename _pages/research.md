@@ -38,6 +38,7 @@ share: true
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
 [<a href="https://www.nber.org/papers/w34542" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34542</a>]
+  <em> Submitted </em>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -57,6 +58,7 @@ with disabilities.
 <p style="margin-bottom: 0.2rem;">
 <strong>"School Vaping Bans and Youth E-Cigarette Use"</strong> (<em>with Dhaval Dave, Nikolaos Prodromidis, and Joseph Sabia</em>) <br>
 [<a href="https://www.nber.org/papers/w34805" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 34805</a>]
+  <em> Submitted </em>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -69,6 +71,7 @@ with disabilities.
 <p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
 [<a href="https://www.dropbox.com/scl/fi/cko8bjga3gdrj4gtj0b40/Kim_Acceptance.pdf?rlkey=9zbapx1rzf4f79sdvatl9rmbr&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>]
+  <em> Submitted </em>
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
