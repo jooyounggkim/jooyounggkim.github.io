@@ -24,6 +24,7 @@ share: true
 </details>
 </p>
 
+<!--  
 <p style="margin-bottom: 0.2rem;">
 <strong>"Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Taxation?"</strong> (<em>with Chad Cotti, Dhaval Dave, Tessie Krishna, Erik Nesson, and Joseph Sabia</em>) <br>
   <em> Revise & Resubmit at American Journal of Health Economics </em>
@@ -34,6 +35,7 @@ share: true
   </p>
 </details>
 </p>
+ -->
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims"</strong> (<em>with Anwar Assamidanov, Dhaval Dave, Brandy Lipton, Xuechao Qian, and Joseph Sabia</em>) <br>
