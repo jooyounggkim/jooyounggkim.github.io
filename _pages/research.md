@@ -24,6 +24,18 @@ share: true
 </details>
 </p>
 
+<p style="margin-bottom: 0.2rem;">
+<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
+[<a href="https://www.dropbox.com/scl/fi/cko8bjga3gdrj4gtj0b40/Kim_Acceptance.pdf?rlkey=9zbapx1rzf4f79sdvatl9rmbr&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
+  <em> Revise & Resubmit at Cities </em>
+<details class="abstract-toggle">
+  <summary><span>Abstract</span></summary>
+  <p style="">
+    This paper shows that social acceptance of same-sex couples affects their location decisions, especially those with college degrees. Mean utilities of each city are derived from a conditional logit model, separately for same-sex and different-sex couples with and without college degrees. I estimate how mean utility varies with acceptance for each group. To deal with endogeneity, I use a novel instrument based on the historical number of churches. The results show that acceptance has a substantial impact on the location choices of college-educated same-sex couples. Counterfactual analysis suggests significant implications for local productivity due to educational sorting.
+  </p>
+</details>
+</p>
+
 <!--  
 <p style="margin-bottom: 0.2rem;">
 <strong>"Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Taxation?"</strong> (<em>with Chad Cotti, Dhaval Dave, Tessie Krishna, Erik Nesson, and Joseph Sabia</em>) <br>
@@ -70,17 +82,7 @@ with disabilities.
 </p>
 
 
-<p style="margin-bottom: 0.2rem;">
-<strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
-[<a href="https://www.dropbox.com/scl/fi/cko8bjga3gdrj4gtj0b40/Kim_Acceptance.pdf?rlkey=9zbapx1rzf4f79sdvatl9rmbr&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
-  <em> Submitted </em>
-<details class="abstract-toggle">
-  <summary><span>Abstract</span></summary>
-  <p style="">
-    This paper shows that social acceptance of same-sex couples affects their location decisions, especially those with college degrees. Mean utilities of each city are derived from a conditional logit model, separately for same-sex and different-sex couples with and without college degrees. I estimate how mean utility varies with acceptance for each group. To deal with endogeneity, I use a novel instrument based on the historical number of churches. The results show that acceptance has a substantial impact on the location choices of college-educated same-sex couples. Counterfactual analysis suggests significant implications for local productivity due to educational sorting.
-  </p>
-</details>
-</p>
+
 <!-- <p style="font-family:verdana">This paper shows that social acceptance of same-sex couples affects their location decisions, especially those with college degrees, resulting in higher educational sorting of same-sex couples across cities. I derive the mean utility of each city from a conditional logit model of location choice, separately for same-sex couples with and without college degrees and different-sex couples with and without college degrees. I then run a regression of the mean utility on acceptance for each group to see the effect of acceptance on location choices. To deal with endogeneity from the simultaneity between acceptance and the location choice of same-sex couples, I use a novel instrument based on the historical number of churches. I find that acceptance has a substantial impact on the location choices of college-educated same-sex couples. Counterfactual analysis suggests significant implications for productivity in an area and the welfare of same-sex couples.</p> -->
 
 <!--  
