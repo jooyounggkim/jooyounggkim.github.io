@@ -5,9 +5,9 @@ permalink: /review/
 author_profile: false
 ---
 
-Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/85a4g5yhn0pi24w32lvlx/CourseEvaluation_JKim.pdf?rlkey=l8iei4keuk4upjyl7wa0yojkl&amp;st=upms38vk&amp;dl=0" target="_blank" rel="noopener">here</a>].
+<p style="font-family: verdana;">Complete evaluations from my students are available [<a href="https://www.dropbox.com/scl/fi/85a4g5yhn0pi24w32lvlx/CourseEvaluation_JKim.pdf?rlkey=l8iei4keuk4upjyl7wa0yojkl&amp;st=upms38vk&amp;dl=0" target="_blank" rel="noopener" style="font-family: verdana; color: darkslateblue; text-decoration: underline; text-decoration-style: solid; text-decoration-color: #007aff;">here</a>].</p>
 
-## Selective qualitative comments
+# <span style="font-family: verdana; color: black;">Selective qualitative comments</span>
 
 <div style="font-family: georgia; line-height: 200%;">
 <em>
