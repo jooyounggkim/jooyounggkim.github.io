@@ -1,13 +1,4 @@
-# Develop override settings
-
-url: http://localhost:4000
-
-analytics:
-  provider: false
-
-comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+url: "http://localhost:4000"
 
 sass:
   style: expanded

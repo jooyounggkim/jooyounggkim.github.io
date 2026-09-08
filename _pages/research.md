@@ -1,14 +1,9 @@
 ---
 layout: archive
 title: Research
-excerpt: |
-  <br>
 permalink: /research/
 author_profile: false
-share: true
 ---
-{% include base_path %}
-
 
 ## Working papers
 
