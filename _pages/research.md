@@ -43,9 +43,6 @@ author_profile: false
 
 
 
-<p style="margin-bottom: 0.2rem;">
-
-
 <!--  
 <p style="margin-bottom: 0.2rem;">
 <strong>"Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Taxation?"</strong> (<em>with Chad Cotti, Dhaval Dave, Tessie Krishna, Erik Nesson, and Joseph Sabia</em>) <br>
