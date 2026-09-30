@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: Research
+hide_title: true
 permalink: /research/
 author_profile: false
 ---
