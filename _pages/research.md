@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-## Accepted and Published Papers
+# Accepted and Published Papers
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
@@ -19,7 +19,7 @@ author_profile: false
 </details>
 </p>
 
-## Working Papers
+# Working Papers
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
