@@ -110,17 +110,16 @@ with disabilities.
 </p>
  -->
 
-<!--  
+
 ## Work in progress
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Border Crossings and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>
 
 
-
 <p style="margin-bottom: 0.2rem;">
 <strong>"Minimum Wage Increases and Deaths of Despair"</strong> (<em>with Daniel Rees and Joseph Sabia</em>) <br>
- -->
+
 
 
 
