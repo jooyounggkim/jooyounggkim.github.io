@@ -36,6 +36,7 @@ author_profile: false
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"The Regulatory Burden of Licensure Sales Laws:  New Evidence on Race and the U.S. Tobacco Market"</strong> (<em>with Dhaval Dave and Joseph Sabia</em>) <br>
+[<a href="https://www.nber.org/papers/w35848" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 35848</a>] <br>
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
@@ -111,7 +112,7 @@ with disabilities.
  -->
 
 
-# Work in progress
+# Work in Progress
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Border Crossings and Local Housing Prices: Evidence from the Recent Migrant Surge"</strong> (<em>with Thomas Pearson</em>) <br>
