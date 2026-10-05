@@ -23,6 +23,18 @@ author_profile: false
 # Working Papers
 
 <p style="margin-bottom: 0.2rem;">
+<strong>"The Regulatory Burden of Licensure Sales Laws:  New Evidence on Race and the U.S. Tobacco Market"</strong> (<em>with Dhaval Dave and Joseph Sabia</em>) <br>
+[<a href="https://www.nber.org/papers/w35848" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 35848</a>] <br>
+  <details class="abstract-toggle">
+  <summary><span>Abstract</span></summary>
+  <p style="">
+    Licensure sales requirements are commonly justified as consumer protection regulations intended to improve seller compliance and reduce harm associated with risky products.  However, licensure effects may differ across communities with heterogeneous enforcement intensity and seller responses. We study this question in the context of e-cigarette retail licensure laws (ERLLs), a policy intended to regulate access to e-cigarettes among youth. We find that state ERLLs with strong penalties for non-compliance reduce nicotine vaping among Black youths by 2.5-4.0 percentage points but have no effect on White youths.  This racially disparate finding is driven by heterogeneous supply-side responses to increased regulatory burden. Vendors in Black neighborhoods are more likely to be targeted for inspections than those in White neighborhoods despite having lower pre-treatment rates of infractions. Moreover, vendors in Black neighborhoods are also less likely to sell e-cigarettes following ERLL adoption, consistent with a racially disparate regulatory burden. Together, our results suggest important distributional consequences of licensure requirements.
+  </p>
+</details>
+</p>
+
+
+<p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
 [<a href="https://www.dropbox.com/scl/fi/cko8bjga3gdrj4gtj0b40/Kim_Acceptance.pdf?rlkey=9zbapx1rzf4f79sdvatl9rmbr&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
   <em> Revise & Resubmit at Cities </em>
@@ -34,16 +46,6 @@ author_profile: false
 </details>
 </p>
 
-<p style="margin-bottom: 0.2rem;">
-<strong>"The Regulatory Burden of Licensure Sales Laws:  New Evidence on Race and the U.S. Tobacco Market"</strong> (<em>with Dhaval Dave and Joseph Sabia</em>) <br>
-[<a href="https://www.nber.org/papers/w35848" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">NBER Working Paper 35848</a>] <br>
-  <details class="abstract-toggle">
-  <summary><span>Abstract</span></summary>
-  <p style="">
-    Licensure sales requirements are commonly justified as consumer protection regulations intended to improve seller compliance and reduce harm associated with risky products.  However, licensure effects may differ across communities with heterogeneous enforcement intensity and seller responses. We study this question in the context of e-cigarette retail licensure laws (ERLLs), a policy intended to regulate access to e-cigarettes among youth. We find that state ERLLs with strong penalties for non-compliance reduce nicotine vaping among Black youths by 2.5-4.0 percentage points but have no effect on White youths.  This racially disparate finding is driven by heterogeneous supply-side responses to increased regulatory burden. Vendors in Black neighborhoods are more likely to be targeted for inspections than those in White neighborhoods despite having lower pre-treatment rates of infractions. Moreover, vendors in Black neighborhoods are also less likely to sell e-cigarettes following ERLL adoption, consistent with a racially disparate regulatory burden. Together, our results suggest important distributional consequences of licensure requirements.
-  </p>
-</details>
-</p>
 
 
 
