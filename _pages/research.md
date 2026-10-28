@@ -10,7 +10,7 @@ author_profile: false
 
 <p style="margin-bottom: 0.2rem;">
 <a href="https://www.sciencedirect.com/science/article/pii/S0167629626000883" target="_blank" style="color: darkslateblue;text-decoration-style: solid;text-decoration-color: 007AFF;"><strong>"The Effect of Online Sales Bans on E-Cigarette Use"</strong></a> (<em>with Ege Aksu, Charles Courtemanche, Dhaval Dave, Daniel Dench, Michael Grossman, Selen Ozdogan, Shubhsri Rajendra, Joseph Sabia, and Henry Saffer</em>) <br>
-  <em> Journal of Health Economics </em>, 110, Article 103190 (2026)
+  <em> Journal of Health Economics</em>, 110, Article 103190 (2026)
   <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
   <p style="">
