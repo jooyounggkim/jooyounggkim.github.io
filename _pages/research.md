@@ -22,7 +22,7 @@ author_profile: false
 
 <p style="margin-bottom: 0.2rem;">
 <strong>"Acceptance of Same-Sex Couples and Their Location Choices"</strong> <br>
-[<a href="https://www.dropbox.com/scl/fi/cko8bjga3gdrj4gtj0b40/Kim_Acceptance.pdf?rlkey=9zbapx1rzf4f79sdvatl9rmbr&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
+[<a href="https://www.dropbox.com/scl/fi/nm3nm58c38ssmjhq1gahw/Kim_Acceptance_Cities.pdf?rlkey=ir7m9sc0g8xcbizq7v6g7lptd&dl=0" target="_blank" style="color: darkslateblue; text-decoration: underline;text-decoration-style: solid;text-decoration-color: 007AFF;">draft</a>] <br>
   <em> Accepted at Cities </em>
 <details class="abstract-toggle">
   <summary><span>Abstract</span></summary>
